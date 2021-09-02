@@ -81,26 +81,26 @@ $(document).ready(function() {
     });
   });
 
-  // Do not multiple toggle when clicking on children
-  $("#chooser>ul>li>ul>li>ul>li").click(function(event) {
-    event.stopPropagation();
-  });
+  // // Do not multiple toggle when clicking on children
+  // $("#chooser>ul>li>ul>li>ul>li").click(function(event) {
+  //   event.stopPropagation();
+  // });
+
+  // // Toggle display of a list elements children when clicked
+  // // Do not do so twice, once on label then on input
+  // // Again, do not multiple toggle when clicking on children
+  // $("#chooser>ul>li>ul>li").click(function(event) {
+  //   if (!($(event.target).get(0).tagName == "LABEL")) {
+  //     $(this).children("span").toggleClass("condensed").toggleClass("expanded");
+  //     var $ul = $(this).children("ul");
+  //     $ul.toggle('slow').promise().done(drawPreviews);
+  //   }
+  //   event.stopPropagation();
+  // });
 
   // Toggle display of a list elements children when clicked
-  // Do not do so twice, once on label then on input
   // Again, do not multiple toggle when clicking on children
-  $("#chooser>ul>li>ul>li").click(function(event) {
-    if (!($(event.target).get(0).tagName == "LABEL")) {
-      $(this).children("span").toggleClass("condensed").toggleClass("expanded");
-      var $ul = $(this).children("ul");
-      $ul.toggle('slow').promise().done(drawPreviews);
-    }
-    event.stopPropagation();
-  });
-
-  // Toggle display of a list elements children when clicked
-  // Again, do not multiple toggle when clicking on children
-  $("#chooser>ul>li").click(function(event) {
+  $("#chooser ul>li").click(function(event) {
     $(this).children("span").toggleClass("condensed").toggleClass("expanded");
     var $ul = $(this).children("ul");
     $ul.toggle('slow').promise().done(drawPreviews);
@@ -134,6 +134,10 @@ $(document).ready(function() {
     e.preventDefault()
   })
 
+  $('#displayMode-compact').click(function() {
+    $('#chooser').toggleClass('compact')
+  })
+
   $('#scroll-to-credits').click(function(e) {
     $('#credits')[0].scrollIntoView()
     e.preventDefault();
@@ -149,6 +153,7 @@ $(document).ready(function() {
 
   $("#saveAsPNG").click(function() {
     renameImageDownload(this, canvas, 'Download' + Math.floor(Math.random() * 100000) + '.png');
+    return true
   });
 
   $("#resetAll").click(function() {

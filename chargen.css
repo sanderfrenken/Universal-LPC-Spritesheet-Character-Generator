@@ -193,6 +193,12 @@ li.hasPreview canvas {
   display: block;
 }
 
+#chooser.compact canvas {
+  display:  inline-block;
+  width: 32px;
+  vertical-align:  middle;
+}
+
 #customizeChar .buttons {
   display: block;
   margin: 50px 0;
