@@ -244,23 +244,38 @@ $(document).ready(function() {
   })
 
   function selectPossibleBodyType() {
+    // if a body variant is selected which does not exist for the currently-selected 
+    // getBodyTypeName, choose a default body variant for that bodyTypeName
+
+    var bodyTypeName = getBodyTypeName();
+    var bodyVariantNeedsReset = false;
+
     $("input[id^=body-]:checked").each(function() {
-      const id = $(this).attr('id');
-      $(this).prop("checked", false);
-    });
-    let idToSelect = "";
-    if (getBodyTypeName() == "male") {
-      idToSelect = "body-Humanlike_white";
-    } else if (getBodyTypeName() == "female") {
-      idToSelect = "body-Humanlike_white";
-    } else if (getBodyTypeName() == "child") {
-      idToSelect = "body-Child_peach";
-    } else if (getBodyTypeName() == "pregnant") {
-      idToSelect = "body-Pregnant_coffee";
-    } else if (getBodyTypeName() == "muscular") {
-      idToSelect = "body-Muscular_muscular_white_v2";
+      var parent = $(this).closest("li[data-required]");
+      if (parent.data("required")) {
+        var requiredTypes = parent.data("required").split(",");
+        if (!requiredTypes.includes(bodyTypeName)) {
+          $(this).prop("checked", false);  
+          bodyVariantNeedsReset = true;
+        }
+      }
+    })
+
+    if(bodyVariantNeedsReset) {
+      let idToSelect = "";
+      if (bodyTypeName == "male") {
+        idToSelect = "body-Humanlike_white";
+      } else if (bodyTypeName == "female") {
+        idToSelect = "body-Humanlike_white";
+      } else if (bodyTypeName == "child") {
+        idToSelect = "body-Child_peach";
+      } else if (bodyTypeName == "pregnant") {
+        idToSelect = "body-Pregnant_coffee";
+      } else if (bodyTypeName == "muscular") {
+        idToSelect = "body-Muscular_muscular_white_v2";
+      }
+      $(`#${idToSelect}`).prop("checked", true);
     }
-    $(`#${idToSelect}`).prop("checked", true);
   }
 
   function getCreditFor(fileName) {
