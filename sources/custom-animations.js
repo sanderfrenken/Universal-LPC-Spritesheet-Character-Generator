@@ -45,5 +45,15 @@ const customAnimations = {
       ["slash-s,0", "slash-s,1", "slash-s,2", "slash-s,3", "slash-s,4", "slash-s,5"],
       ["slash-e,0", "slash-e,1", "slash-e,2", "slash-e,3", "slash-e,4", "slash-e,5"]
     ]
+  },
+  // For illustrative purposes only. Can be removed once we have a real "mirrored" usecase in the generator
+  slash_oversize_mirror: {
+    frameSize: 192,
+    frames: [
+      ["slash-n,0,mirrored", "slash-n,1,mirrored", "slash-n,2,mirrored", "slash-n,3,mirrored", "slash-n,4,mirrored", "slash-n,5,mirrored"],
+      ["slash-w,0,mirrored", "slash-w,1,mirrored", "slash-w,2,mirrored", "slash-w,3,mirrored", "slash-w,4,mirrored", "slash-w,5,mirrored"],
+      ["slash-s,0", "slash-s,1", "slash-s,2", "slash-s,3", "slash-s,4", "slash-s,5"],
+      ["slash-e,0", "slash-e,1", "slash-e,2", "slash-e,3", "slash-e,4", "slash-e,5"]
+    ]
   }
 }

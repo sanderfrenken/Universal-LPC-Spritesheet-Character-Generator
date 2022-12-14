@@ -454,10 +454,17 @@ $(document).ready(function() {
           for (var j = 0; j < frames.length; ++j) {
             const frameCoordinateX = parseInt(frames[j].split(",")[1]);
             const frameCoordinateRowName = frames[j].split(",")[0];
+            var mirrored = false;
+            if (frames[j].split(",").length > 2 && frames[j].split(",")[2] == "mirrored") {
+              mirrored = true;
+            }
             const frameCoordinateY = animationRowsLayout[frameCoordinateRowName]+1;
             const offSet = (frameSize-universalFrameSize)/2;
 
             var imgDataSingleFrame = ctx.getImageData(universalFrameSize * frameCoordinateX, universalFrameSize * frameCoordinateY, universalFrameSize, universalFrameSize);
+            if (mirrored) {
+              imgDataSingleFrame = flipImageData(imgDataSingleFrame, universalFrameSize);
+            }
             customAnimationContext.putImageData(imgDataSingleFrame, frameSize * j + offSet, frameSize * i + offSet + offSetInAdditionToOtherCustomActions);
           }
         }
