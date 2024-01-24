@@ -16,6 +16,9 @@ $(document).ready(function() {
   var creditColumns = parsedCredits[0];
 
   var canvas = $("#spritesheet").get(0);
+  const redrawCanvas = document.createElement("canvas");
+  redrawCanvas.width = canvas.width;
+  redrawCanvas.height = canvas.height;
   var ctx = canvas.getContext("2d", { willReadFrequently: true });
   var images = {};
   const universalFrameSize = 64;
@@ -424,6 +427,50 @@ $(document).ready(function() {
     drawItems(itemsToDraw);
   }
 
+  function redrawIntoDesiredFacingOrder () {
+    let newOrder = $('input[name="facing_order"]:checked').val();
+    const originalOrder = 'nwse';
+    if (newOrder === originalOrder) {
+      return;
+    }
+    const newGroupOrder = [
+        newOrder.indexOf(originalOrder[0]),
+        newOrder.indexOf(originalOrder[1]),
+        newOrder.indexOf(originalOrder[2]),
+        newOrder.indexOf(originalOrder[3]),
+    ];
+
+    const redrawContext = redrawCanvas.getContext('2d', { willReadFrequently: true });
+    redrawContext.clearRect(0, 0, canvas.width, canvas.height);
+    const rowCount = canvas.height / universalFrameSize;
+    const groupSize = 4;
+    const completeGroupCount = Math.floor(rowCount / groupSize);
+    let currentYOffset = 0;
+    for (let animationGroup = 0; animationGroup < completeGroupCount; ++animationGroup) {
+      for (let rowInGroup = 0; rowInGroup < groupSize; ++rowInGroup) {
+        const imgData = ctx.getImageData(0, currentYOffset + rowInGroup * universalFrameSize, canvas.width, universalFrameSize);
+        redrawContext.putImageData(
+            imgData,
+            0,
+            currentYOffset + newGroupOrder[rowInGroup] * universalFrameSize
+        );
+      }
+      currentYOffset += groupSize * universalFrameSize;
+    }
+    while (currentYOffset < canvas.height - 1) {
+        const imgData = ctx.getImageData(0, currentYOffset, canvas.width, universalFrameSize);
+        redrawContext.putImageData(
+            imgData,
+            0,
+            currentYOffset
+        );
+        currentYOffset += universalFrameSize;
+    }
+    const redrawnImageData = redrawContext.getImageData(0, 0, canvas.width, canvas.height);
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.putImageData(redrawnImageData, 0, 0);
+  }
+
   function drawItems(itemsToDraw) {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
 
@@ -501,6 +548,7 @@ $(document).ready(function() {
       itemIdx+=1;
     }
     addCustomAnimationPreviews();
+    redrawIntoDesiredFacingOrder();
   }
 
   function showOrHideElements() {
