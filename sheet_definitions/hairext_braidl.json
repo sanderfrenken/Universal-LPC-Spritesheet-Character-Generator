@@ -3,12 +3,12 @@
   "type_name": "hairext",
   "layer_1": {
     "zPos": 121,
-    "male": "hair/extensions/braidl/adult/",
-    "muscular": "hair/extensions/braidl/adult/",
-    "female": "hair/extensions/braidl/adult/",
-    "pregnant": "hair/extensions/braidl/adult/",
-    "teen": "hair/extensions/braidl/adult/",
-    "child": "hair/extensions/braidl/child/"
+    "male": "hair/extensions/braidl/universal/adult/",
+    "muscular": "hair/extensions/braidl/universal/adult/",
+    "female": "hair/extensions/braidl/universal/adult/",
+    "pregnant": "hair/extensions/braidl/universal/adult/",
+    "teen": "hair/extensions/braidl/universal/adult/",
+    "child": "hair/extensions/braidl/universal/child/"
   },
   "variants": [
     "blonde",
