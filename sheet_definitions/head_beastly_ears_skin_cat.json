@@ -2,7 +2,7 @@
   "name" : "Cat Ears Skintone",
   "type_name" : "beastly_ears_skin",
   "layer_1" : {
-    "zPos" : 130.1,
+    "zPos" : 131,
     "male" : "head/ears/beastly/skin/cat/universal/adult_front/",
     "muscular" : "head/ears/beastly/skin/cat/universal/adult_front/",
     "female" : "head/ears/beastly/skin/cat/universal/adult_front/",
@@ -11,7 +11,7 @@
     "child" : "head/ears/beastly/skin/cat/universal/child_front/"
   },
   "layer_2": {
-    "zPos": 8.9,
+    "zPos": 9,
     "male": "head/ears/beastly/skin/cat/universal/adult_back/",
     "muscular": "head/ears/beastly/skin/cat/universal/adult_back/",
     "female": "head/ears/beastly/skin/cat/universal/adult_back/",

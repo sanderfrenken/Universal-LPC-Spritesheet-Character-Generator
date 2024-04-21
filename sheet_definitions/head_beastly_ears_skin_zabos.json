@@ -2,7 +2,7 @@
   "name" : "Side Cat Ears Skintone",
   "type_name" : "beastly_ears_skin",
   "layer_1" : {
-    "zPos" : 130.1,
+    "zPos" : 131,
     "male" : "head/ears/beastly/skin/zabos/universal/adult/",
     "muscular" : "head/ears/beastly/skin/zabos/universal/adult/",
     "female" : "head/ears/beastly/skin/zabos/universal/adult/",

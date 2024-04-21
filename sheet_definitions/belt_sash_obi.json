@@ -1,0 +1,36 @@
+{
+  "name": "Obi Sash",
+  "type_name": "sash_obi",
+  "layer_1": {
+    "zPos": 65,
+    "male": "torso/waist/sash/male/",
+    "female": "torso/waist/sash/female/",
+    "teen": "torso/waist/sash/male/"
+  },
+  "variants": [
+    "black",
+    "blue",
+    "bluegray",
+    "brown",
+    "charcoal",
+    "forest",
+    "gray",
+    "green",
+    "lavender",
+    "leather",
+    "maroon",
+    "navy",
+    "orange",
+    "pink",
+    "purple",
+    "red",
+    "rose",
+    "sky",
+    "slate",
+    "tan",
+    "teal",
+    "walnut",
+    "white",
+    "yellow"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Obi",
+  "type_name": "sash",
+  "layer_1": {
+    "zPos": 65,
+    "male": "torso/waist/obi/universal/male/",
+    "muscular": "torso/waist/obi/universal/male/",
+    "female": "torso/waist/obi/universal/female/",
+    "pregnant": "torso/waist/obi/universal/female/",
+    "teen": "torso/waist/obi/universal/male/"
+  },
+  "variants": [
+    "black",
+    "blue",
+    "bluegray",
+    "brown",
+    "charcoal",
+    "forest",
+    "gray",
+    "green",
+    "lavender",
+    "leather",
+    "maroon",
+    "navy",
+    "orange",
+    "pink",
+    "purple",
+    "red",
+    "rose",
+    "sky",
+    "slate",
+    "tan",
+    "teal",
+    "walnut",
+    "white",
+    "yellow"
+  ]
+}
