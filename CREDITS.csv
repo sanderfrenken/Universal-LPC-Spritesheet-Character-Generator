@@ -283,7 +283,7 @@ beards/beard/5oclock_shadow,"Original by Pennomi, repositioning by JaidynReiman.
 beards/beard/winter,,bluecarrot16,CC0,https://opengameart.org/content/lpc-santa,,,,,,,,,,,,,,,
 beards/beard/medium,,ElizaWy,OGA-BY 3.0,https://github.com/ElizaWy/LPC/tree/main/Characters/Hair,,,,,,,,,,,,,,,
 beards/beard/trimmed,,ElizaWy,OGA-BY 3.0,https://github.com/ElizaWy/LPC/tree/main/Characters/Hair,,,,,,,,,,,,,,
-beards/mustache/basic,"Original by Nemisys, repositioning by JaidynReiman.","JaidynReiman, Carlo Enrico Victoria (Nemisys)","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-brunet-mustache,,,,,,,,,,,,,,,OK,
+beards/mustache/basic,"Original by Nemisys, repositioning by JaidynReiman.","JaidynReiman, Carlo Enrico Victoria (Nemisys)","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-brunet-mustache,,,,,,,,,,,,,,,OK
 beards/mustache/bigstache,"Original by Pennomi, repositioning by JaidynReiman.","JaidynReiman, Thane Brimhall (pennomi)","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-base-character-expressions,,,,,,,,,,,,,,,OK
 beards/mustache/french,"Original by Pennomi, repositioning by JaidynReiman.","JaidynReiman, Thane Brimhall (pennomi)","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-base-character-expressions,,,,,,,,,,,,,,,OK
 beards/mustache/horseshoe,,ElizaWy,OGA-BY 3.0,https://github.com/ElizaWy/LPC/tree/main/Characters/Hair,,,,,,,,,,,,,,
@@ -1924,7 +1924,7 @@ hair/dreadlocks_long/male/violet.png,,bluecarrot16,CC0,https://opengameart.org/c
 hair/dreadlocks_long/male/white.png,,bluecarrot16,CC0,https://opengameart.org/content/lpc-hair,,,,,,,,,,,,,,,OK
 hair/dreadlocks_short,"Original by bluecarrot16. Animated by ElizaWy.","ElizaWy, bluecarrot16",CC0,https://opengameart.org/content/lpc-hair,https://github.com/ElizaWy/LPC/blob/main/Characters/Hair,,,,,,,,,,,,,,
 hair/flat_top_fade,"Original by bluecarrot16, animated by ElizaWy.","ElizaWy, bluecarrot16",CC0,https://opengameart.org/content/lpc-hair,https://github.com/ElizaWy/LPC/blob/main/Characters/Hair,,,,,,,,,,,,,,
-hair/flat_top_straight,"Original by bluecarrot16, animated by ElizaWy.","ElizaWy, bluecarrot16",bluecarrot16,CC0,https://opengameart.org/content/lpc-hair,https://github.com/ElizaWy/LPC/blob/main/Characters/Hair,,,,,,,,,,,,,,
+hair/flat_top_straight,"Original by bluecarrot16, animated by ElizaWy.","ElizaWy, bluecarrot16",CC0,https://opengameart.org/content/lpc-hair,https://github.com/ElizaWy/LPC/blob/main/Characters/Hair,,,,,,,,,,,,,
 hair/half_up,,ElizaWy,OGA-BY 3.0,https://opengameart.org/content/lpc-hair,,,,,,,,,,,,,,,
 hair/half_up/female,,,,,,,,,,,,,,,,,,,
 hair/half_up/female.png,,ElizaWy,OGA-BY 3.0,https://opengameart.org/content/lpc-hair,,,,,,,,,,,,,,,OK
@@ -3070,7 +3070,7 @@ hair/part2/male/strawberry.png,,"Skorpio, bluecarrot16","CC-BY-SA 3.0, GPL 3.0",
 hair/part2/male/violet.png,,"Skorpio, bluecarrot16","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-skorpios-scifi-sprite-pack,https://opengameart.org/content/lpc-hair,,,,,,,,,,,,,,OK
 hair/part2/male/white.png,,"Skorpio, bluecarrot16","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-skorpios-scifi-sprite-pack,https://opengameart.org/content/lpc-hair,,,,,,,,,,,,,,OK
 hair/parted,"down 4 and 5 added by JaidynReiman; recolors by Joe White; original by Manuel Riecke (MrBeast)","JaidynReiman, Joe White, Manuel Riecke (MrBeast)","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles,https://github.com/jrconway3/Universal-LPC-spritesheet/commit/46ddcf05a0e43e7aa6ffd47d350eef0eb529ac24,,,,,,,,,,,,,,OK
-hair/parted2,,"ElizaWy,"OGA-BY 3.0",https://github.com/ElizaWy/LPC/tree/main/Characters/Hair,,,,,,,,,,,,,,,OK
+hair/parted2,,"ElizaWy","OGA-BY 3.0",https://github.com/ElizaWy/LPC/tree/main/Characters/Hair,,,,,,,,,,,,,,,OK
 hair/pigtails,(betty),"Radomir Dopieralski, bluecarrot16","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/one-more-lpc-alternate-character,https://opengameart.org/content/lpc-hair,,,,,,,,,,,,,,
 hair/pigtails/female,,,,,,,,,,,,,,,,,,,
 hair/pigtails/female.png,,"Radomir Dopieralski, bluecarrot16","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/one-more-lpc-alternate-character,https://opengameart.org/content/lpc-hair,,,,,,,,,,,,,,OK
