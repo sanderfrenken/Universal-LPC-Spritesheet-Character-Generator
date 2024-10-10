@@ -630,6 +630,7 @@ feet/boots/male/teal.png,,"bluecarrot16, Nila122","OGA-BY 3.0, CC-BY-SA 3.0, GPL
 feet/boots/male/walnut.png,,"bluecarrot16, Nila122","OGA-BY 3.0, CC-BY-SA 3.0, GPL 2.0, GPL 3.0",https://opengameart.org/content/lpc-clothes-and-hair,https://opengameart.org/content/lpc-santa,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,OK
 feet/boots/male/white.png,,"bluecarrot16, Nila122","OGA-BY 3.0, CC-BY-SA 3.0, GPL 2.0, GPL 3.0",https://opengameart.org/content/lpc-clothes-and-hair,https://opengameart.org/content/lpc-santa,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,OK
 feet/boots/male/yellow.png,,"bluecarrot16, Nila122","OGA-BY 3.0, CC-BY-SA 3.0, GPL 2.0, GPL 3.0",https://opengameart.org/content/lpc-clothes-and-hair,https://opengameart.org/content/lpc-santa,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,OK
+feet/boots2,"original by ElizaWy, remaining frames by JaidynReiman","ElizaWy, JaidynReiman",OGA-BY 3.0,https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing,,,,,,,,,,,,,,,
 feet/boots_fold,,"JaidynReiman","OGA-BY 3.0+, CC-BY 3.0+, GPL 3.0","https://opengameart.org/content/lpc-relm-outfit-pieces-2-kimonos-2-sleeves-2-boots-tabi-socks",,,,,,,,,,,,,,,OK
 feet/boots_rim,,"JaidynReiman","OGA-BY 3.0+, CC-BY 3.0+, GPL 3.0","https://opengameart.org/content/lpc-relm-outfit-pieces-2-kimonos-2-sleeves-2-boots-tabi-socks",,,,,,,,,,,,,,,OK
 feet/boots_plating,,"JaidynReiman","OGA-BY 3.0+, CC-BY 3.0+, GPL 3.0","https://opengameart.org/content/lpc-relm-outfit-pieces-2-kimonos-2-sleeves-2-boots-tabi-socks",,,,,,,,,,,,,,,OK
@@ -836,6 +837,7 @@ feet/shoes/male/teal.png,,"bluecarrot16, Johannes Sjölund (wulax)","OGA-BY 3.0,
 feet/shoes/male/walnut.png,,"bluecarrot16, Johannes Sjölund (wulax)","OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
 feet/shoes/male/white.png,,"bluecarrot16, Johannes Sjölund (wulax)","OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
 feet/shoes/male/yellow.png,,"bluecarrot16, Johannes Sjölund (wulax)","OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
+feet/shoes2,"original by ElizaWy, remaining frames by JaidynReiman","ElizaWy, JaidynReiman",OGA-BY 3.0,https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing,,,,,,,,,,,,,,,
 feet/slippers,,,,,,,,,,,,,,,,,,,
 feet/slippers/female,"original by Luke Mehl, Joe White did thrust/shoot animations, edited for v3 bases and male sprites by bluecarrot16","bluecarrot16, Joe White, Luke Mehl","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/female-mage-clothing-set,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,
 feet/slippers/female/_brown.png,,"bluecarrot16, Joe White, Luke Mehl","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/female-mage-clothing-set,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
@@ -889,6 +891,8 @@ feet/slippers/male/walnut.png,,"bluecarrot16, Joe White, Luke Mehl","CC-BY-SA 3.
 feet/slippers/male/white.png,,"bluecarrot16, Joe White, Luke Mehl","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/female-mage-clothing-set,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
 feet/slippers/male/yellow.png,,"bluecarrot16, Joe White, Luke Mehl","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/female-mage-clothing-set,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
 feet/socks/tabi,,"JaidynReiman","OGA-BY 3.0+, CC-BY 3.0+, GPL 3.0","https://opengameart.org/content/lpc-relm-outfit-pieces-2-kimonos-2-sleeves-2-boots-tabi-socks",,,,,,,,,,,,,,,OK
+feet/socks/high,"original by ElizaWy, remaining frames by JaidynReiman","ElizaWy, JaidynReiman",OGA-BY 3.0,https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing,,,,,,,,,,,,,,,
+feet/socks/ankle,"original by ElizaWy, remaining frames by JaidynReiman","ElizaWy, JaidynReiman",OGA-BY 3.0,https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing,,,,,,,,,,,,,,,
 gloves,,,,,,,,,,,,,,,,,,,
 gloves/female,"metal gloves by wulax, extended to female base by makrohn, recolors by bigbeargames, adapted to v3 bases by bluecarrot16","Michael Whitlock (bigbeargames), Matthew Krohn (makrohn), Johannes Sjölund (wulax), bluecarrot16","OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,
 gloves/female/black.png,,"Michael Whitlock (bigbeargames), Matthew Krohn (makrohn), Johannes Sjölund (wulax), bluecarrot16","OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
@@ -7367,6 +7371,10 @@ legs/leggings/female/teal.png,,"bluecarrot16, Mandi Paugh, Stephen Challener (Re
 legs/leggings/female/walnut.png,,"bluecarrot16, Mandi Paugh, Stephen Challener (Redshrike), William.Thompsonj",OGA-BY 3.0,http://opengameart.org/content/sara-wizard,https://opengameart.org/content/lpc-sara,,,,,,,,,,,,,,OK
 legs/leggings/female/white.png,,"bluecarrot16, Mandi Paugh, Stephen Challener (Redshrike), William.Thompsonj",OGA-BY 3.0,http://opengameart.org/content/sara-wizard,https://opengameart.org/content/lpc-sara,,,,,,,,,,,,,,OK
 legs/leggings/female/yellow.png,,"bluecarrot16, Mandi Paugh, Stephen Challener (Redshrike), William.Thompsonj",OGA-BY 3.0,http://opengameart.org/content/sara-wizard,https://opengameart.org/content/lpc-sara,,,,,,,,,,,,,,OK
+legs/leggings2,"original by ElizaWy, remaining frames by JaidynReiman","ElizaWy, JaidynReiman",OGA-BY 3.0,https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing,,,,,,,,,,,,,,,
+legs/hose,"original by ElizaWy, remaining frames by JaidynReiman","ElizaWy, JaidynReiman",OGA-BY 3.0,https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing,,,,,,,,,,,,,,,
+legs/pants2,"original by ElizaWy, remaining frames by JaidynReiman","ElizaWy, JaidynReiman",OGA-BY 3.0,https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing,,,,,,,,,,,,,,,
+legs/cuffed,"original by ElizaWy, remaining frames by JaidynReiman","ElizaWy, JaidynReiman",OGA-BY 3.0,https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing,,,,,,,,,,,,,,,
 legs/pantalons,,,,,,,,,,,,,,,,,,,
 legs/pantalons/male,,,,,,,,,,,,,,,,,,,
 legs/pantalons/male/black.png,recolor,"JaidynReiman, Johannes Sjölund (wulax)","OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles,https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,,,,,,,,,,,,,,OK
@@ -8404,57 +8412,7 @@ torso/aprons/apron_half/female/teal.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GP
 torso/aprons/apron_half/female/walnut.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,,OK
 torso/aprons/apron_half/female/white.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,,OK
 torso/aprons/apron_half/female/yellow.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,,OK
-torso/aprons/overalls,"original overalls by ElizaWy, extended to all animation frames, adapted from teen to male base, and edited for v3 bases by bluecarrot16","ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,
-torso/aprons/overalls/female,,,,,,,,,,,,,,,,,,,
-torso/aprons/overalls/female/black.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/blue.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/bluegray.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/brown.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/charcoal.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/forest.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/gray.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/green.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/lavender.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/leather.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/maroon.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/navy.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/orange.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/pink.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/purple.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/red.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/rose.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/sky.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/slate.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/tan.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/teal.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/walnut.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/white.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/female/yellow.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male,,,,,,,,,,,,,,,,,,,
-torso/aprons/overalls/male/black.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/blue.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/bluegray.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/brown.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/charcoal.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/forest.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/gray.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/green.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/lavender.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/leather.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/maroon.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/navy.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/orange.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/pink.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/purple.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/red.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/rose.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/sky.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/slate.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/tan.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/teal.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/walnut.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/white.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
-torso/aprons/overalls/male/yellow.png,,"ElizaWy, bluecarrot16","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
+torso/aprons/overalls,"original overalls by ElizaWy, extended to all animation frames, adapted from teen to male base, and edited for v3 bases by bluecarrot16; extended to combat animations by JaidynReiman","ElizaWy, bluecarrot16, JaidynReiman","OGA-BY 3.0, GPL 3.0",https://opengameart.org/content/lpc-revised-character-basics,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,
 torso/aprons/suspenders,"original by ElizaWy; spellcast/thrust/shoot/hurt/combat adapted from original by JaidynReiman","ElizaWy, JaidynReiman","OGA-BY 3.0",https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing,,,,,,,,,,,,,,,OK
 torso/armour,,,,,,,,,,,,,,,,,,,
 torso/armour/leather,,,,,,,,,,,,,,,,,,,

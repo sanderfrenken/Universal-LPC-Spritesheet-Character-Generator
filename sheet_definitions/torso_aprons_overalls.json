@@ -5,7 +5,7 @@
     "zPos": 38,
     "male": "torso/aprons/overalls/male/",
     "female": "torso/aprons/overalls/female/",
-    "teen": "torso/aprons/overalls/male/"
+    "teen": "torso/aprons/overalls/teen/"
   },
   "variants": [
     "leather",
@@ -32,5 +32,24 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_bgslash",
+    "1h_halfslash"
   ]
 }
