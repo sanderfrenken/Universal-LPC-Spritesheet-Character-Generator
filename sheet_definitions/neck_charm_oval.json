@@ -1,0 +1,22 @@
+{
+  "name" : "Oval Charm",
+  "type_name" : "charm",
+  "layer_1" : {
+    "zPos" : 81,
+    "male" : "neck/charm/oval/male/",
+    "muscular": "neck/charm/oval/male/",
+    "female" : "neck/charm/oval/female/",
+    "teen" : "neck/charm/oval/female/",
+    "pregnant" : "neck/charm/oval/female/"
+  },
+  "variants": [
+    "steel",
+    "iron",
+    "ceramic",
+    "brass",
+    "copper",
+    "bronze",
+    "silver",
+    "gold"
+  ]
+}

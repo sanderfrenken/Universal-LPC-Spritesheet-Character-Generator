@@ -1,0 +1,20 @@
+{
+  "name": "Pear earrings",
+  "type_name": "earrings",
+  "layer_1": {
+    "zPos": 115,
+    "male": "facial/earrings/pear/male/",
+    "muscular": "facial/earrings/pear/male/",
+    "female": "facial/earrings/pear/female",
+    "pregnant": "facial/earrings/pear/female",
+    "teen": "facial/earrings/pear/female"
+  },
+  "variants": [
+    "blue",
+    "green",
+    "orange",
+    "purple",
+    "red",
+    "yellow"
+  ]
+}

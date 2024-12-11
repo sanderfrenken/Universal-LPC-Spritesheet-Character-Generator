@@ -1,0 +1,20 @@
+{
+  "name" : "Round cut Gem",
+  "type_name" : "charm",
+  "layer_1" : {
+    "zPos" : 81,
+    "male" : "neck/gem/round/male/",
+    "muscular": "neck/gem/round/male/",
+    "female" : "neck/gem/round/female/",
+    "teen" : "neck/gem/round/female/",
+    "pregnant" : "neck/gem/round/female/"
+  },
+  "variants": [
+    "blue",
+    "green",
+    "orange",
+    "purple",
+    "red",
+    "yellow"
+  ]
+}

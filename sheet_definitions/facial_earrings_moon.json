@@ -1,0 +1,22 @@
+{
+  "name": "Moon earrings",
+  "type_name": "earrings",
+  "layer_1": {
+    "zPos": 115,
+    "male": "facial/earrings/moon/male/",
+    "muscular": "facial/earrings/moon/male/",
+    "female": "facial/earrings/moon/female",
+    "pregnant": "facial/earrings/moon/female",
+    "teen": "facial/earrings/moon/female"
+  },
+  "variants": [
+    "steel",
+    "iron",
+    "ceramic",
+    "brass",
+    "copper",
+    "bronze",
+    "silver",
+    "gold"
+  ]
+}

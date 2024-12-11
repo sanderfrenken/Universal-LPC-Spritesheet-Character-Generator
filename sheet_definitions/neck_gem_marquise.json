@@ -1,0 +1,20 @@
+{
+  "name" : "Marquise cut Gem",
+  "type_name" : "charm",
+  "layer_1" : {
+    "zPos" : 81,
+    "male" : "neck/gem/marquise/male/",
+    "muscular": "neck/gem/marquise/male/",
+    "female" : "neck/gem/marquise/female/",
+    "teen" : "neck/gem/marquise/female/",
+    "pregnant" : "neck/gem/marquise/female/"
+  },
+  "variants": [
+    "blue",
+    "green",
+    "orange",
+    "purple",
+    "red",
+    "yellow"
+  ]
+}

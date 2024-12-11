@@ -1,0 +1,20 @@
+{
+  "name" : "Stud Ring",
+  "type_name" : "ring",
+  "layer_1" : {
+    "zPos" : 75,
+    "male" : "arms/hands/ring/stud/male/",
+    "muscular" : "arms/hands/ring/stud/male/",
+    "female" : "arms/hands/ring/stud/female/",
+    "teen" : "arms/hands/ring/stud/female/",
+    "pregnant" : "arms/hands/ring/stud/female/"
+  },
+  "variants": [
+    "blue",
+    "green",
+    "orange",
+    "purple",
+    "red",
+    "yellow"
+  ]
+}

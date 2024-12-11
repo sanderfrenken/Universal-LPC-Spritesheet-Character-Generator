@@ -1,0 +1,22 @@
+{
+  "name": "Stud earrings",
+  "type_name": "earrings",
+  "layer_1": {
+    "zPos": 115,
+    "male": "facial/earrings/stud/male/",
+    "muscular": "facial/earrings/stud/male/",
+    "female": "facial/earrings/stud/female",
+    "pregnant": "facial/earrings/stud/female",
+    "teen": "facial/earrings/stud/female"
+  },
+  "variants": [
+    "steel",
+    "iron",
+    "ceramic",
+    "brass",
+    "copper",
+    "bronze",
+    "silver",
+    "gold"
+  ]
+}

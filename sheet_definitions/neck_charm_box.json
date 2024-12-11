@@ -1,0 +1,22 @@
+{
+  "name" : "Box Charm",
+  "type_name" : "charm",
+  "layer_1" : {
+    "zPos" : 81,
+    "male" : "neck/charm/box/male/",
+    "muscular": "neck/charm/box/male/",
+    "female" : "neck/charm/box/female/",
+    "teen" : "neck/charm/box/female/",
+    "pregnant" : "neck/charm/box/female/"
+  },
+  "variants": [
+    "steel",
+    "iron",
+    "ceramic",
+    "brass",
+    "copper",
+    "bronze",
+    "silver",
+    "gold"
+  ]
+}

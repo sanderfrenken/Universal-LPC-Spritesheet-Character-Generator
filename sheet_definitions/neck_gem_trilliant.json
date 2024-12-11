@@ -1,0 +1,20 @@
+{
+  "name" : "Trilliant cut Gem",
+  "type_name" : "charm",
+  "layer_1" : {
+    "zPos" : 81,
+    "male" : "neck/gem/trilliant/male/",
+    "muscular": "neck/gem/trilliant/male/",
+    "female" : "neck/gem/trilliant/female/",
+    "teen" : "neck/gem/trilliant/female/",
+    "pregnant" : "neck/gem/trilliant/female/"
+  },
+  "variants": [
+    "blue",
+    "green",
+    "orange",
+    "purple",
+    "red",
+    "yellow"
+  ]
+}

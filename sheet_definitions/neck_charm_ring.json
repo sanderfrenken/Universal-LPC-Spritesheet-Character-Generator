@@ -1,0 +1,22 @@
+{
+  "name" : "Ring Charm",
+  "type_name" : "charm",
+  "layer_1" : {
+    "zPos" : 81,
+    "male" : "neck/charm/ring/male/",
+    "muscular": "neck/charm/ring/male/",
+    "female" : "neck/charm/ring/female/",
+    "teen" : "neck/charm/ring/female/",
+    "pregnant" : "neck/charm/ring/female/"
+  },
+  "variants": [
+    "steel",
+    "iron",
+    "ceramic",
+    "brass",
+    "copper",
+    "bronze",
+    "silver",
+    "gold"
+  ]
+}

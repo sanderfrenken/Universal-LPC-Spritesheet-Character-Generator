@@ -1,0 +1,20 @@
+{
+  "name" : "Pearl Gem",
+  "type_name" : "charm",
+  "layer_1" : {
+    "zPos" : 81,
+    "male" : "neck/gem/pearl/male/",
+    "muscular": "neck/gem/pearl/male/",
+    "female" : "neck/gem/pearl/female/",
+    "teen" : "neck/gem/pearl/female/",
+    "pregnant" : "neck/gem/pearl/female/"
+  },
+  "variants": [
+    "blue",
+    "green",
+    "orange",
+    "purple",
+    "red",
+    "yellow"
+  ]
+}

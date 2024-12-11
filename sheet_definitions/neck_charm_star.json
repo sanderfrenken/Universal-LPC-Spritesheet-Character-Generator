@@ -1,0 +1,22 @@
+{
+  "name" : "Star Charm",
+  "type_name" : "charm",
+  "layer_1" : {
+    "zPos" : 81,
+    "male" : "neck/charm/star/male/",
+    "muscular": "neck/charm/star/male/",
+    "female" : "neck/charm/star/female/",
+    "teen" : "neck/charm/star/female/",
+    "pregnant" : "neck/charm/star/female/"
+  },
+  "variants": [
+    "steel",
+    "iron",
+    "ceramic",
+    "brass",
+    "copper",
+    "bronze",
+    "silver",
+    "gold"
+  ]
+}

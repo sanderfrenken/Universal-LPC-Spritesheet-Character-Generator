@@ -1,0 +1,22 @@
+{
+  "name" : "Large Beaded Necklace",
+  "type_name" : "necklace",
+  "layer_1" : {
+    "zPos" : 80,
+    "male" : "neck/necklace/beaded_large/male/",
+    "muscular": "neck/necklace/beaded_large/male/",
+    "female" : "neck/necklace/beaded_large/female/",
+    "teen" : "neck/necklace/beaded_large/female/",
+    "pregnant" : "neck/necklace/beaded_large/female/"
+  },
+  "variants": [
+    "steel",
+    "iron",
+    "ceramic",
+    "brass",
+    "copper",
+    "bronze",
+    "silver",
+    "gold"
+  ]
+}

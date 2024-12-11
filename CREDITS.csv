@@ -44,6 +44,7 @@ arms/bracers/male/steel.png,,"Matthew Krohn (makrohn), Johannes Sjölund (wulax)
 arms/gloves,,,,,,,,,,,,,,,,,,,
 arms/gloves/female,"metal gloves by wulax, extended to female base by makrohn, recolors by bigbeargames, adapted to v3 bases by bluecarrot16, added to expanded animations by JaidynReiman","Michael Whitlock (bigbeargames), Matthew Krohn (makrohn), Johannes Sjölund (wulax), bluecarrot16","OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,
 arms/gloves/male,"metal gloves by wulax, recolors by bigbeargames, adapted to v3 bases by bluecarrot16, added to expanded animations by JaidynReiman","Michael Whitlock (bigbeargames), Matthew Krohn (makrohn), Johannes Sjölund (wulax), bluecarrot16, JaidynReiman","OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,
+arms/hands/ring/stud,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
 backpack,,,,,,,,,,,,,,,,,,,
 backpack/backpack,trivial adjustments by bluecarrot16 to be compatible with v3 bases,"Benjamin K. Smith (BenCreating), macmanmatty","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-backpacks,,,,,,,,,,,,,,,
 backpack/backpack/female,,,,,,,,,,,,,,,,,,,
@@ -546,6 +547,15 @@ facial,,,,,,,,,,,,,,,,,,,
 facial/earrings/simple,"base earring was listed as CC0, but the ""gold.png"" earring was listed as CC-BY-SA, so I kept these the same after renaming, but if clarified we can make this entry the real one",bluecarrot16,CC0,https://opengameart.org/content/lpc-pirates,,,,,,,,,,,,,,,
 facial/earrings/simple/left,,bluecarrot16,CC-BY-SA 3.0,https://opengameart.org/content/lpc-pirates,,,,,,,,,,,,,,,OK
 facial/earrings/simple/right,,bluecarrot16,CC-BY-SA 3.0,https://opengameart.org/content/lpc-pirates,,,,,,,,,,,,,,,OK
+facial/earrings/emerald,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
+facial/earrings/moon,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
+facial/earrings/pear,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
+facial/earrings/princess,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
+facial/earrings/simple/female.png,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
+facial/earrings/simple/female,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
+facial/earrings/simple/male.png,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
+facial/earrings/simple/male,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
+facial/earrings/stud,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
 facial/glasses/round,,"bluecarrot16, Thane Brimhall (pennomi), laetissima","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/clothing-facial-features-and-ui-elements,https://opengameart.org/content/lpc-gentleman,,,,,,,,,,,,,,OK
 facial/glasses/shades,"Original by Pennomi, repositioning and recolors by JaidynReiman.","JaidynReiman, Thane Brimhall (pennomi)","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-base-character-expressions,,,,,,,,,,,,,,,OK
 facial/glasses/nerd,"Original by Pennomi, repositioning and recolors by JaidynReiman.","JaidynReiman, Thane Brimhall (pennomi)","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-base-character-expressions,,,,,,,,,,,,,,,OK
@@ -4957,6 +4967,12 @@ legs/skirts/straight/female/walnut.png,,"bluecarrot16, ElizaWy","OGA-BY 3.0, GPL
 legs/skirts/straight/female/white.png,,"bluecarrot16, ElizaWy","OGA-BY 3.0, GPL 3.0",http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,,OK
 legs/skirts/straight/female/yellow.png,,"bluecarrot16, ElizaWy","OGA-BY 3.0, GPL 3.0",http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,,OK
 neck,,,,,,,,,,,,,,,,,,,
+neck/amulet/cross,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
+neck/amulet/dangle,,"bluecarrot16, AntumDeluge",CC0,https://opengameart.org/content/dungeon-crawl-32x32-tiles,https://opengameart.org/content/cc0-jewelry-icons,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,
+neck/amulet/spider,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
+neck/amulet/star,,"bluecarrot16, AntumDeluge, 7Soul",CC0,https://www.deviantart.com/7soul1/art/129892453,https://opengameart.org/content/cc0-jewelry-icons,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,
+neck/charm,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
+neck/gem,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
 neck/capeclip,adapted to male body and v3 bases by bluecarrot16,"bluecarrot16, JaidynReiman","OGA-By 3.0, CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,
 neck/capeclip/female,,,,,,,,,,,,,,,,,,,
 neck/capeclip/female/_brown.png,,"bluecarrot16, JaidynReiman","OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
@@ -5180,6 +5196,10 @@ neck/necklace/female/iron.png,,"bluecarrot16, Luke Mehl","CC-BY-SA 3.0, GPL 3.0"
 neck/necklace/female/pirate.png,,"bluecarrot16, Luke Mehl","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/female-mage-clothing-set,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
 neck/necklace/female/silver.png,,"bluecarrot16, Luke Mehl","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/female-mage-clothing-set,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
 neck/necklace/female/steel.png,,"bluecarrot16, Luke Mehl","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/female-mage-clothing-set,http://opengameart.org/content/lpc-clothing-updates,,,,,,,,,,,,,,OK
+neck/necklace/beaded_large,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
+neck/necklace/beaded_small,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
+neck/necklace/chain,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
+neck/necklace/simple,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
 neck/scarf,,,,,,,,,,,,,,,,,,,
 neck/scarf/black.png,,"Nila122, Johannes Sjölund (wulax), Stephen Challener (Redshrike)","CC-BY-SA 3.0, GPL 2.0, GPL 3.0",https://opengameart.org/content/more-lpc-clothes-and-hair,,,,,,,,,,,,,,,OK
 neck/scarf/blue.png,,"Nila122, Johannes Sjölund (wulax), Stephen Challener (Redshrike)","CC-BY-SA 3.0, GPL 2.0, GPL 3.0",https://opengameart.org/content/more-lpc-clothes-and-hair,,,,,,,,,,,,,,,OK

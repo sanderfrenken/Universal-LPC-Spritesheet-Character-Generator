@@ -1,0 +1,22 @@
+{
+  "name" : "Chain Necklace",
+  "type_name" : "necklace",
+  "layer_1" : {
+    "zPos" : 80,
+    "male" : "neck/necklace/chain/male/",
+    "muscular": "neck/necklace/chain/male/",
+    "female" : "neck/necklace/chain/female/",
+    "teen" : "neck/necklace/chain/female/",
+    "pregnant" : "neck/necklace/chain/female/"
+  },
+  "variants": [
+    "steel",
+    "iron",
+    "ceramic",
+    "brass",
+    "copper",
+    "bronze",
+    "silver",
+    "gold"
+  ]
+}

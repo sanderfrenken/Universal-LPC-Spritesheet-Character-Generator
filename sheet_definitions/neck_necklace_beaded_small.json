@@ -1,0 +1,22 @@
+{
+  "name" : "Small Beaded Necklace",
+  "type_name" : "necklace",
+  "layer_1" : {
+    "zPos" : 80,
+    "male" : "neck/necklace/beaded_small/male/",
+    "muscular": "neck/necklace/beaded_small/male/",
+    "female" : "neck/necklace/beaded_small/female/",
+    "teen" : "neck/necklace/beaded_small/female/",
+    "pregnant" : "neck/necklace/beaded_small/female/"
+  },
+  "variants": [
+    "steel",
+    "iron",
+    "ceramic",
+    "brass",
+    "copper",
+    "bronze",
+    "silver",
+    "gold"
+  ]
+}

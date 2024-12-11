@@ -1,0 +1,20 @@
+{
+  "name" : "Pear cut Gem",
+  "type_name" : "charm",
+  "layer_1" : {
+    "zPos" : 81,
+    "male" : "neck/gem/pear/male/",
+    "muscular": "neck/gem/pear/male/",
+    "female" : "neck/gem/pear/female/",
+    "teen" : "neck/gem/pear/female/",
+    "pregnant" : "neck/gem/pear/female/"
+  },
+  "variants": [
+    "blue",
+    "green",
+    "orange",
+    "purple",
+    "red",
+    "yellow"
+  ]
+}

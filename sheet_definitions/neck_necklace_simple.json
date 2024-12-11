@@ -1,0 +1,22 @@
+{
+  "name" : "Simple Necklace",
+  "type_name" : "necklace",
+  "layer_1" : {
+    "zPos" : 80,
+    "male" : "neck/necklace/simple/male/",
+    "muscular": "neck/necklace/simple/male/",
+    "female" : "neck/necklace/simple/female/",
+    "teen" : "neck/necklace/simple/female/",
+    "pregnant" : "neck/necklace/simple/female/"
+  },
+  "variants": [
+    "steel",
+    "iron",
+    "ceramic",
+    "brass",
+    "copper",
+    "bronze",
+    "silver",
+    "gold"
+  ]
+}
