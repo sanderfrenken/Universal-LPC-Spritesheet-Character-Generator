@@ -1,13 +1,13 @@
 {
-  "name" : "Spider amulet",
-  "type_name" : "charm",
-  "layer_1" : {
-    "zPos" : 81,
-    "male" : "neck/amulet/spider/male/",
+  "name": "Spider amulet",
+  "type_name": "charm",
+  "layer_1": {
+    "zPos": 81,
+    "male": "neck/amulet/spider/male/",
     "muscular": "neck/amulet/spider/male/",
-    "female" : "neck/amulet/spider/female/",
-    "teen" : "neck/amulet/spider/female/",
-    "pregnant" : "neck/amulet/spider/female/"
+    "female": "neck/amulet/spider/female/",
+    "teen": "neck/amulet/spider/female/",
+    "pregnant": "neck/amulet/spider/female/"
   },
   "variants": [
     "brass_blue",
@@ -58,5 +58,20 @@
     "steel_purple",
     "steel_red",
     "steel_yellow"
+  ],
+  "credits": [
+    {
+      "file": "neck/amulet/spider",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }

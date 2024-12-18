@@ -52,5 +52,25 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/heads/minotaur/female",
+      "notes": "original cow by daneeklu, adapted to minotaur by Evert, female version modified by bluecarrot16 to remove horns",
+      "authors": [
+        "bluecarrot16",
+        "Evert",
+        "Daniel Eddeland (daneeklu)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-style-farm-animals",
+        "https://opengameart.org/content/lpc-faun-and-minotaur",
+        "https://opengameart.org/content/lpc-character-bases"
+      ]
+    }
   ]
 }

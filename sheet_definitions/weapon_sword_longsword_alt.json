@@ -35,5 +35,59 @@
   },
   "variants": [
     "longsword_alt"
+  ],
+  "credits": [
+    {
+      "file": "weapon/sword/longsword_alt/walk/longsword_alt.png",
+      "notes": "",
+      "authors": [
+        "Pierre Vigier and DCSS artists (see https://github.com/crawl/tiles/blob/master/ARTISTS.md)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-dcss-swords"
+      ]
+    },
+    {
+      "file": "weapon/sword/longsword_alt/walk/behind/longsword_alt.png",
+      "notes": "",
+      "authors": [
+        "Pierre Vigier and DCSS artists (see https://github.com/crawl/tiles/blob/master/ARTISTS.md)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-dcss-swords"
+      ]
+    },
+    {
+      "file": "weapon/sword/longsword_alt/slash/longsword_alt.png",
+      "notes": "",
+      "authors": [
+        "Pierre Vigier and DCSS artists (see https://github.com/crawl/tiles/blob/master/ARTISTS.md)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-dcss-swords"
+      ]
+    },
+    {
+      "file": "weapon/sword/longsword_alt/slash/behind/longsword_alt.png",
+      "notes": "",
+      "authors": [
+        "Pierre Vigier and DCSS artists (see https://github.com/crawl/tiles/blob/master/ARTISTS.md)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-dcss-swords"
+      ]
+    }
   ]
 }

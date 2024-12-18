@@ -35,5 +35,25 @@
     "1h_slash",
     "1h/bgslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "torso/armour/legion",
+      "notes": "adapted to v3 bases by bluecarrot16, jump/run/sit/combat and teen by Jaidynreiman",
+      "authors": [
+        "JaidynReiman",
+        "bluecarrot16",
+        "Nila122"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-roman-armor"
+      ]
+    }
   ]
 }

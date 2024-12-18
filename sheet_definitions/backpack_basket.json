@@ -3,20 +3,74 @@
   "type_name": "backpack",
   "layer_1": {
     "zPos": 130,
-    "male":     "backpack/basket/fg/",
+    "male": "backpack/basket/fg/",
     "muscular": "backpack/basket/fg/",
-    "female":   "backpack/basket/fg/",
+    "female": "backpack/basket/fg/",
     "pregnant": "backpack/basket/fg/"
   },
   "layer_2": {
     "zPos": 5,
-    "male":     "backpack/basket/bg/",
+    "male": "backpack/basket/bg/",
     "muscular": "backpack/basket/bg/",
-    "female":   "backpack/basket/bg/",
+    "female": "backpack/basket/bg/",
     "pregnant": "backpack/basket/bg/"
   },
   "variants": [
     "round",
     "square"
+  ],
+  "credits": [
+    {
+      "file": "backpack/basket/fg/round.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket/bg/round.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket/fg/square.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket/bg/square.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    }
   ]
 }

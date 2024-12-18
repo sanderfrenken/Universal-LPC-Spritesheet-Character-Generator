@@ -36,5 +36,743 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/mop/male/blonde.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/blonde.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/ash.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/ash.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/sandy.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/sandy.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/platinum.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/platinum.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/strawberry.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/strawberry.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/redhead.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/redhead.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/ginger.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/ginger.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/carrot.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/carrot.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/chestnut.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/chestnut.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/black.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/black.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/raven.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/raven.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/gray.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/gray.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/white.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/white.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/red.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/red.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/orange.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/orange.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/gold.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/gold.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/green.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/green.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/blue.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/blue.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/navy.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/navy.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/violet.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/violet.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/purple.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/purple.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/pink.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/pink.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/male/rose.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/mop/female/rose.png",
+      "notes": "",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/alternate-lpc-character-sprites-george",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
   ]
 }

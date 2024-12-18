@@ -1,13 +1,13 @@
 {
-  "name" : "Slippers",
-  "type_name" : "shoes",
-  "layer_1" : {
-    "zPos" : 15,
-    "male" : "feet/slippers/male/",
-    "muscular" : "feet/slippers/male/",
-    "female" : "feet/slippers/female/",
-    "teen" : "feet/slippers/female/",
-    "pregnant" : "feet/slippers/female/"
+  "name": "Slippers",
+  "type_name": "shoes",
+  "layer_1": {
+    "zPos": 15,
+    "male": "feet/slippers/male/",
+    "muscular": "feet/slippers/male/",
+    "female": "feet/slippers/female/",
+    "teen": "feet/slippers/female/",
+    "pregnant": "feet/slippers/female/"
   },
   "variants": [
     "black",
@@ -34,5 +34,41 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "feet/slippers/male",
+      "notes": "original by Luke Mehl, Joe White did thrust/shoot animations, edited for v3 bases and male sprites by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "Joe White",
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "feet/slippers/female",
+      "notes": "original by Luke Mehl, Joe White did thrust/shoot animations, edited for v3 bases and male sprites by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "Joe White",
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }

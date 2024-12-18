@@ -1,11 +1,11 @@
 {
-  "name" : "Straight skirt",
-  "type_name" : "legs",
-  "layer_1" : {
-    "zPos" : 20,
-    "female" : "legs/skirts/straight/female/",
-    "pregnant" : "legs/skirts/straight/female/",
-    "teen" : "legs/skirts/straight/female/"
+  "name": "Straight skirt",
+  "type_name": "legs",
+  "layer_1": {
+    "zPos": 20,
+    "female": "legs/skirts/straight/female/",
+    "pregnant": "legs/skirts/straight/female/",
+    "teen": "legs/skirts/straight/female/"
   },
   "variants": [
     "black",
@@ -32,5 +32,367 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "legs/skirts/straight/female/black.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/blue.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/bluegray.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/brown.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/charcoal.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/forest.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/gray.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/green.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/lavender.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/leather.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/maroon.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/navy.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/orange.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/pink.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/purple.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/red.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/rose.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/sky.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/slate.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/tan.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/teal.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/walnut.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/white.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/straight/female/yellow.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }

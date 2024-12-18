@@ -1,13 +1,13 @@
 {
-  "name" : "Oval Charm",
-  "type_name" : "charm",
-  "layer_1" : {
-    "zPos" : 81,
-    "male" : "neck/charm/oval/male/",
+  "name": "Oval Charm",
+  "type_name": "charm",
+  "layer_1": {
+    "zPos": 81,
+    "male": "neck/charm/oval/male/",
     "muscular": "neck/charm/oval/male/",
-    "female" : "neck/charm/oval/female/",
-    "teen" : "neck/charm/oval/female/",
-    "pregnant" : "neck/charm/oval/female/"
+    "female": "neck/charm/oval/female/",
+    "teen": "neck/charm/oval/female/",
+    "pregnant": "neck/charm/oval/female/"
   },
   "variants": [
     "steel",
@@ -18,5 +18,20 @@
     "bronze",
     "silver",
     "gold"
+  ],
+  "credits": [
+    {
+      "file": "neck/charm",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }

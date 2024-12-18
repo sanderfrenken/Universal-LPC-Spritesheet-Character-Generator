@@ -1,13 +1,13 @@
 {
-  "name" : "Tabi Socks",
-  "type_name" : "socks",
-  "layer_1" : {
-    "zPos" : 14,
-    "male" : "feet/socks/tabi/male/",
-    "muscular" : "feet/socks/tabi/male/",
-    "female" : "feet/socks/tabi/thin/",
-    "teen" : "feet/socks/tabi/thin/",
-    "pregnant" : "feet/socks/tabi/thin/"
+  "name": "Tabi Socks",
+  "type_name": "socks",
+  "layer_1": {
+    "zPos": 14,
+    "male": "feet/socks/tabi/male/",
+    "muscular": "feet/socks/tabi/male/",
+    "female": "feet/socks/tabi/thin/",
+    "teen": "feet/socks/tabi/thin/",
+    "pregnant": "feet/socks/tabi/thin/"
   },
   "variants": [
     "black",
@@ -53,5 +53,22 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "feet/socks/tabi",
+      "notes": "",
+      "authors": [
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "CC-BY 3.0+",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-relm-outfit-pieces-2-kimonos-2-sleeves-2-boots-tabi-socks"
+      ]
+    }
   ]
 }

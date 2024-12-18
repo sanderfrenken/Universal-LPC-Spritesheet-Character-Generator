@@ -11,5 +11,23 @@
   },
   "variants": [
     "jack"
+  ],
+  "credits": [
+    {
+      "file": "head/heads/jack",
+      "notes": "original pumpkin by Joshua Taylor; modified to head by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "Joshua Taylor"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/fruit-and-veggie-inventory",
+        "https://opengameart.org/content/lpc-folk"
+      ]
+    }
   ]
 }

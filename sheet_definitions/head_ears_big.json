@@ -1,14 +1,14 @@
 {
-  "name" : "Big ears",
-  "type_name" : "ears",
-  "layer_1" : {
-    "zPos" : 105,
-    "male" : "head/ears/big/adult/",
-    "muscular" : "head/ears/big/adult/",
-    "female" : "head/ears/big/adult/",
-    "teen" : "head/ears/big/adult/",
-    "pregnant" : "head/ears/big/adult/",
-    "child" : "head/ears/big/child/"
+  "name": "Big ears",
+  "type_name": "ears",
+  "layer_1": {
+    "zPos": 105,
+    "male": "head/ears/big/adult/",
+    "muscular": "head/ears/big/adult/",
+    "female": "head/ears/big/adult/",
+    "teen": "head/ears/big/adult/",
+    "pregnant": "head/ears/big/adult/",
+    "child": "head/ears/big/child/"
   },
   "variants": [
     "light",
@@ -53,5 +53,25 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/ears/big",
+      "notes": "adapted to v3 base by bluecarrot16; expanded to other animations and child by JaidynReiman",
+      "authors": [
+        "JaidynReiman",
+        "bluecarrot16",
+        "Thane Brimhall (pennomi)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "GPL 3.0",
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-base-character-expressions",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }

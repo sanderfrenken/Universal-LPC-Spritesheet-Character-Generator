@@ -25,5 +25,23 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "torso/clothes/corset/female",
+      "notes": "original by Nila122, recolored by ElizaWy",
+      "authors": [
+        "ElizaWy",
+        "Nila122"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "https://opengameart.org/content/lpc-7-womens-shirts"
+      ]
+    }
   ]
 }

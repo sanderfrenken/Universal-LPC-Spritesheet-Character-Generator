@@ -7,5 +7,21 @@
   },
   "variants": [
     "black"
+  ],
+  "credits": [
+    {
+      "file": "torso/jacket/iverness/male/black.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman"
+      ]
+    }
   ]
 }

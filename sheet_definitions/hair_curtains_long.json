@@ -36,5 +36,789 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/curtains_long/male/blonde.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/blonde.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/ash.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/ash.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/sandy.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/sandy.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/platinum.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/platinum.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/strawberry.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/strawberry.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/redhead.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/redhead.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/ginger.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/ginger.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/carrot.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/carrot.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/chestnut.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/chestnut.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/black.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/black.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/raven.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/raven.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/gray.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/gray.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/white.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/white.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/red.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/red.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/orange.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/orange.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/gold.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/gold.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/green.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/green.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/blue.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/blue.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/navy.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/navy.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/violet.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/violet.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/purple.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/purple.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/pink.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/pink.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/male/rose.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/curtains_long/female/rose.png",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/trevor-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
   ]
 }

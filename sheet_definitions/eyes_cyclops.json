@@ -1,14 +1,14 @@
 {
-  "name" : "Cyclops Eyes",
-  "type_name" : "eyes",
-  "layer_1" : {
-    "zPos" : 105,
-    "male" : "eyes/cyclops/adult/",
-    "muscular" : "eyes/cyclops/adult/",
-    "female" : "eyes/cyclops/adult/",
-    "teen" : "eyes/cyclops/adult/",
-    "pregnant" : "eyes/cyclops/adult/",
-    "child" : "eyes/cyclops/child/"
+  "name": "Cyclops Eyes",
+  "type_name": "eyes",
+  "layer_1": {
+    "zPos": 105,
+    "male": "eyes/cyclops/adult/",
+    "muscular": "eyes/cyclops/adult/",
+    "female": "eyes/cyclops/adult/",
+    "teen": "eyes/cyclops/adult/",
+    "pregnant": "eyes/cyclops/adult/",
+    "child": "eyes/cyclops/child/"
   },
   "variants": [
     "cyclops",
@@ -39,5 +39,21 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "eyes/cyclops",
+      "notes": "original by kirts, repositioned by JaidynReiman along with shading and recolors",
+      "authors": [
+        "kirts",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/cyclops-and-his-eye"
+      ]
+    }
   ]
 }

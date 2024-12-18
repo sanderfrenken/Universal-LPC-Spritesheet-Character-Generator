@@ -1,13 +1,13 @@
 {
-  "name" : "Princess cut Gem",
-  "type_name" : "charm",
-  "layer_1" : {
-    "zPos" : 81,
-    "male" : "neck/gem/princess/male/",
+  "name": "Princess cut Gem",
+  "type_name": "charm",
+  "layer_1": {
+    "zPos": 81,
+    "male": "neck/gem/princess/male/",
     "muscular": "neck/gem/princess/male/",
-    "female" : "neck/gem/princess/female/",
-    "teen" : "neck/gem/princess/female/",
-    "pregnant" : "neck/gem/princess/female/"
+    "female": "neck/gem/princess/female/",
+    "teen": "neck/gem/princess/female/",
+    "pregnant": "neck/gem/princess/female/"
   },
   "variants": [
     "blue",
@@ -16,5 +16,20 @@
     "purple",
     "red",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "neck/gem",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }

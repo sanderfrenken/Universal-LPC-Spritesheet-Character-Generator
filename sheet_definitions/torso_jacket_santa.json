@@ -30,5 +30,367 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "torso/jacket/santa/male/black.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/blue.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/bluegray.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/brown.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/charcoal.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/forest.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/gray.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/green.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/lavender.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/leather.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/maroon.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/navy.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/orange.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/pink.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/purple.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/red.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/rose.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/sky.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/slate.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/tan.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/teal.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/walnut.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/white.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    },
+    {
+      "file": "torso/jacket/santa/male/yellow.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman",
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    }
   ]
 }

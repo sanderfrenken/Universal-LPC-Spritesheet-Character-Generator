@@ -12,5 +12,20 @@
   },
   "variants": [
     "shadow"
+  ],
+  "credits": [
+    {
+      "file": "shadow/adult/shadow.png",
+      "notes": "",
+      "authors": [
+        "drjamgo@hotmail.com"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/shadow-for-lpc-sprite"
+      ]
+    }
   ]
 }

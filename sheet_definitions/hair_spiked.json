@@ -36,5 +36,651 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/spiked/male/blonde.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/blonde.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/ash.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/ash.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/sandy.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/sandy.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/platinum.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/platinum.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/strawberry.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/strawberry.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/redhead.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/redhead.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/ginger.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/ginger.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/carrot.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/carrot.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/chestnut.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/chestnut.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/black.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/black.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/raven.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/raven.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/gray.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/gray.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/white.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/white.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/red.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/red.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/orange.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/orange.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/gold.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/gold.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/green.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/green.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/blue.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/blue.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/navy.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/navy.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/violet.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/violet.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/purple.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/purple.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/pink.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/pink.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/male/rose.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/spiked/female/rose.png",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
   ]
 }

@@ -35,5 +35,59 @@
   },
   "variants": [
     "katana"
+  ],
+  "credits": [
+    {
+      "file": "weapon/sword/katana/walk/katana.png",
+      "notes": "",
+      "authors": [
+        "Pierre Vigier and DCSS artists (see https://github.com/crawl/tiles/blob/master/ARTISTS.md)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-dcss-swords"
+      ]
+    },
+    {
+      "file": "weapon/sword/katana/walk/behind/katana.png",
+      "notes": "",
+      "authors": [
+        "Pierre Vigier and DCSS artists (see https://github.com/crawl/tiles/blob/master/ARTISTS.md)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-dcss-swords"
+      ]
+    },
+    {
+      "file": "weapon/sword/katana/slash/katana.png",
+      "notes": "",
+      "authors": [
+        "Pierre Vigier and DCSS artists (see https://github.com/crawl/tiles/blob/master/ARTISTS.md)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-dcss-swords"
+      ]
+    },
+    {
+      "file": "weapon/sword/katana/slash/behind/katana.png",
+      "notes": "",
+      "authors": [
+        "Pierre Vigier and DCSS artists (see https://github.com/crawl/tiles/blob/master/ARTISTS.md)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-dcss-swords"
+      ]
+    }
   ]
 }

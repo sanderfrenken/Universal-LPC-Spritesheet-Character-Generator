@@ -11,5 +11,22 @@
   },
   "variants": [
     "arm"
+  ],
+  "credits": [
+    {
+      "file": "body/wound/arm.png",
+      "notes": "",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "Sander Frenken (castelonia)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-zombie"
+      ]
+    }
   ]
 }

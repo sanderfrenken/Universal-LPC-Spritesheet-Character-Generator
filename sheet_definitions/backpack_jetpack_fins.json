@@ -3,14 +3,106 @@
   "type_name": "cargo",
   "layer_1": {
     "zPos": 112,
-    "male":     "backpack/jetpack_fins/male/",
+    "male": "backpack/jetpack_fins/male/",
     "muscular": "backpack/jetpack_fins/male/",
-    "female":   "backpack/jetpack_fins/female/",
+    "female": "backpack/jetpack_fins/female/",
     "pregnant": "backpack/jetpack_fins/female/"
   },
   "variants": [
     "bronze",
     "gold",
     "steel"
+  ],
+  "credits": [
+    {
+      "file": "backpack/jetpack_fins/male/bronze.png",
+      "notes": "",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "macmanmatty"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/jetpack_fins/female/bronze.png",
+      "notes": "",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "macmanmatty"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/jetpack_fins/male/gold.png",
+      "notes": "",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "macmanmatty"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/jetpack_fins/female/gold.png",
+      "notes": "",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "macmanmatty"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/jetpack_fins/male/steel.png",
+      "notes": "",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "macmanmatty"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/jetpack_fins/female/steel.png",
+      "notes": "",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "macmanmatty"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-backpacks"
+      ]
+    }
   ]
 }

@@ -12,5 +12,35 @@
   },
   "variants": [
     "cane"
+  ],
+  "credits": [
+    {
+      "file": "weapon/polearm/cane/male/cane.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman"
+      ]
+    },
+    {
+      "file": "weapon/polearm/cane/female/cane.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-gentleman"
+      ]
+    }
   ]
 }

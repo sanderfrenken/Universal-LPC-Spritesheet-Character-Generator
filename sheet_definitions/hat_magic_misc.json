@@ -13,5 +13,51 @@
     "starry_moon",
     "starry",
     "large"
+  ],
+  "credits": [
+    {
+      "file": "hat/magic/misc/adult/starry_moon.png",
+      "notes": "",
+      "authors": [
+        "Michael Whitlock (bigbeargames)",
+        "Tracy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-celestial-wizard-hats"
+      ]
+    },
+    {
+      "file": "hat/magic/misc/adult/starry.png",
+      "notes": "",
+      "authors": [
+        "Michael Whitlock (bigbeargames)",
+        "Tracy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-celestial-wizard-hats"
+      ]
+    },
+    {
+      "file": "hat/magic/misc/adult/large.png",
+      "notes": "",
+      "authors": [
+        "Stafford McIntyre",
+        "PlatForge project",
+        "Evert"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/wizard-2",
+        "https://opengameart.org/content/wizard-hat"
+      ]
+    }
   ]
 }

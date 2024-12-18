@@ -1,19 +1,19 @@
 {
-  "name" : "Upward Horns",
-  "type_name" : "accessory",
-  "layer_1" : {
-    "zPos" : 139,
-    "female"   : "hat/accessory/horns_upward/fg/adult/",
-    "pregnant" : "hat/accessory/horns_upward/fg/adult/",
-    "male"     : "hat/accessory/horns_upward/fg/adult/",
-    "muscular" : "hat/accessory/horns_upward/fg/adult/"
+  "name": "Upward Horns",
+  "type_name": "accessory",
+  "layer_1": {
+    "zPos": 139,
+    "female": "hat/accessory/horns_upward/fg/adult/",
+    "pregnant": "hat/accessory/horns_upward/fg/adult/",
+    "male": "hat/accessory/horns_upward/fg/adult/",
+    "muscular": "hat/accessory/horns_upward/fg/adult/"
   },
-  "layer_2" : {
-    "zPos" : 125,
-    "female"   : "hat/accessory/horns_upward/bg/adult/",
-    "pregnant" : "hat/accessory/horns_upward/bg/adult/",
-    "male"     : "hat/accessory/horns_upward/bg/adult/",
-    "muscular" : "hat/accessory/horns_upward/bg/adult/"
+  "layer_2": {
+    "zPos": 125,
+    "female": "hat/accessory/horns_upward/bg/adult/",
+    "pregnant": "hat/accessory/horns_upward/bg/adult/",
+    "male": "hat/accessory/horns_upward/bg/adult/",
+    "muscular": "hat/accessory/horns_upward/bg/adult/"
   },
   "variants": [
     "steel",
@@ -67,5 +67,20 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "hat/accessory/horns_upward",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-helmets"
+      ]
+    }
   ]
 }

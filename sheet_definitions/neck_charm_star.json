@@ -1,13 +1,13 @@
 {
-  "name" : "Star Charm",
-  "type_name" : "charm",
-  "layer_1" : {
-    "zPos" : 81,
-    "male" : "neck/charm/star/male/",
+  "name": "Star Charm",
+  "type_name": "charm",
+  "layer_1": {
+    "zPos": 81,
+    "male": "neck/charm/star/male/",
     "muscular": "neck/charm/star/male/",
-    "female" : "neck/charm/star/female/",
-    "teen" : "neck/charm/star/female/",
-    "pregnant" : "neck/charm/star/female/"
+    "female": "neck/charm/star/female/",
+    "teen": "neck/charm/star/female/",
+    "pregnant": "neck/charm/star/female/"
   },
   "variants": [
     "steel",
@@ -18,5 +18,20 @@
     "bronze",
     "silver",
     "gold"
+  ],
+  "credits": [
+    {
+      "file": "neck/charm",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }

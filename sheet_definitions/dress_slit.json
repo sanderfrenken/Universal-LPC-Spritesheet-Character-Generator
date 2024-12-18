@@ -1,9 +1,9 @@
 {
-  "name" : "Slit dress",
-  "type_name" : "dress",
-  "layer_1" : {
-    "zPos" : 30,
-    "female" : "dress/slit/female/"
+  "name": "Slit dress",
+  "type_name": "dress",
+  "layer_1": {
+    "zPos": 30,
+    "female": "dress/slit/female/"
   },
   "variants": [
     "black",
@@ -30,5 +30,26 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "dress/slit/female",
+      "notes": "original \"TightDress\" by Nila122, by ElizaWy, extended to all animation frames and edited for v3 bases by bluecarrot16",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }
