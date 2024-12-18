@@ -53,5 +53,20 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "hat/pirate/bicorne/athwart",
+      "notes": "Pirate Hat by Bluecarrot16, layers and added animations by JaidynReiman",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    }
   ]
 }

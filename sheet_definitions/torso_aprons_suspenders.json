@@ -53,5 +53,22 @@
     "1h_slash",
     "1h_bgslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "torso/aprons/suspenders",
+      "notes": "original by ElizaWy; spellcast/thrust/shoot/hurt/combat adapted from original by JaidynReiman",
+      "authors": [
+        "ElizaWy",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing",
+        "https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets"
+      ]
+    }
   ]
 }

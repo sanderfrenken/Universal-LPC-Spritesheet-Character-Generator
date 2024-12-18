@@ -1,13 +1,13 @@
 {
-  "name" : "Elderly nose",
-  "type_name" : "nose",
-  "layer_1" : {
-    "zPos" : 105,
-    "male" : "head/nose/elderly/adult/",
-    "muscular" : "head/nose/elderly/adult/",
-    "female" : "head/nose/elderly/adult/",
-    "teen" : "head/nose/elderly/adult/",
-    "pregnant" : "head/nose/elderly/adult/"
+  "name": "Elderly nose",
+  "type_name": "nose",
+  "layer_1": {
+    "zPos": 105,
+    "male": "head/nose/elderly/adult/",
+    "muscular": "head/nose/elderly/adult/",
+    "female": "head/nose/elderly/adult/",
+    "teen": "head/nose/elderly/adult/",
+    "pregnant": "head/nose/elderly/adult/"
   },
   "variants": [
     "light",
@@ -52,5 +52,20 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/nose/elderly",
+      "notes": "",
+      "authors": [
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-revised-elders"
+      ]
+    }
   ]
 }

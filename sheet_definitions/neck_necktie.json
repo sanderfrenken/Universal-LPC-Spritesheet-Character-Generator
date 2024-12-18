@@ -54,5 +54,26 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "neck/tie/necktie",
+      "notes": "Originally by pennomi/laetissima/Makrohn, edited by bluecarrot16, animations and recolors by JaidynReiman",
+      "authors": [
+        "JaidynReiman",
+        "bluecarrot16",
+        "Thane Brimhall (pennomi)",
+        "laetissima",
+        "Makrohn"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-2-characters",
+        "https://opengameart.org/content/lpc-gentleman"
+      ]
+    }
   ]
 }

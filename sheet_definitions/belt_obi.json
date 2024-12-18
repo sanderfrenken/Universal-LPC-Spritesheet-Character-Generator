@@ -53,5 +53,22 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "torso/waist/obi",
+      "notes": "",
+      "authors": [
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "CC-BY 3.0+",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-relm-outfit-pieces-2-kimonos-2-sleeves-2-boots-tabi-socks"
+      ]
+    }
   ]
 }

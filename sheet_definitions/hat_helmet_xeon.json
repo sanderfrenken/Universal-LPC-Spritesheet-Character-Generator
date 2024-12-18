@@ -37,5 +37,20 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "hat/helmet/xeon",
+      "notes": "",
+      "authors": [
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/four-characters-my-lpc-entries"
+      ]
+    }
   ]
 }

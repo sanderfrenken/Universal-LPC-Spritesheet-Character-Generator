@@ -51,5 +51,24 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/fins",
+      "notes": "adapted to v3 base by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "Nila122"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0",
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-lizard-headgear",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }

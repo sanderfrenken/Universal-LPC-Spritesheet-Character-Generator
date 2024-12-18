@@ -1,13 +1,13 @@
 {
-  "name" : "Large Beaded Necklace",
-  "type_name" : "necklace",
-  "layer_1" : {
-    "zPos" : 80,
-    "male" : "neck/necklace/beaded_large/male/",
+  "name": "Large Beaded Necklace",
+  "type_name": "necklace",
+  "layer_1": {
+    "zPos": 80,
+    "male": "neck/necklace/beaded_large/male/",
     "muscular": "neck/necklace/beaded_large/male/",
-    "female" : "neck/necklace/beaded_large/female/",
-    "teen" : "neck/necklace/beaded_large/female/",
-    "pregnant" : "neck/necklace/beaded_large/female/"
+    "female": "neck/necklace/beaded_large/female/",
+    "teen": "neck/necklace/beaded_large/female/",
+    "pregnant": "neck/necklace/beaded_large/female/"
   },
   "variants": [
     "steel",
@@ -18,5 +18,20 @@
     "bronze",
     "silver",
     "gold"
+  ],
+  "credits": [
+    {
+      "file": "neck/necklace/beaded_large",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }

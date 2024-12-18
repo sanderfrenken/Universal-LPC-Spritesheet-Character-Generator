@@ -48,5 +48,775 @@
     "iron",
     "silver",
     "steel"
+  ],
+  "credits": [
+    {
+      "file": "weapon/magic/s/universal/foreground/medium.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/background/medium.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/foreground/medium.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/background/medium.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/foreground/light.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/background/light.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/foreground/light.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/background/light.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/foreground/red.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/background/red.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/foreground/red.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/background/red.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/foreground/dark.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/background/dark.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/foreground/dark.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/background/dark.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/foreground/brass.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/background/brass.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/foreground/brass.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/background/brass.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/foreground/bronze.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/background/bronze.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/foreground/bronze.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/background/bronze.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/foreground/ceramic.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/background/ceramic.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/foreground/ceramic.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/background/ceramic.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/foreground/copper.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/background/copper.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/foreground/copper.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/background/copper.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/foreground/gold.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/background/gold.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/foreground/gold.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/background/gold.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/foreground/iron.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/background/iron.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/foreground/iron.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/background/iron.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/foreground/silver.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/background/silver.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/foreground/silver.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/background/silver.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/foreground/steel.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/universal/background/steel.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/foreground/steel.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    },
+    {
+      "file": "weapon/magic/s/thrust/background/steel.png",
+      "notes": "",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    }
   ]
 }

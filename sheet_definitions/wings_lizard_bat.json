@@ -59,5 +59,21 @@
     "1h_bgslash",
     "1h_halfslash"
   ],
-  "match_body_color": true
+  "match_body_color": true,
+  "credits": [
+    {
+      "file": "body/wings/bat",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-revised-ulpc-wings"
+      ]
+    }
+  ]
 }

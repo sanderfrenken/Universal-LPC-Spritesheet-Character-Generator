@@ -1,10 +1,10 @@
 {
-  "name" : "Slit skirt",
-  "type_name" : "legs",
-  "layer_1" : {
-    "zPos" : 20,
-    "male" : "legs/skirts/slit/female/",
-    "female" : "legs/skirts/slit/female/"
+  "name": "Slit skirt",
+  "type_name": "legs",
+  "layer_1": {
+    "zPos": 20,
+    "male": "legs/skirts/slit/female/",
+    "female": "legs/skirts/slit/female/"
   },
   "variants": [
     "black",
@@ -31,5 +31,439 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "legs/skirts/slit/female/black.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/blue.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/bluegray.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/brown.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/charcoal.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/forest.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/gray.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/green.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/lavender.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/leather.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/maroon.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/navy.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/orange.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/pink.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/purple.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/red.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/rose.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/sky.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/slate.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/tan.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/teal.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/walnut.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/white.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "legs/skirts/slit/female/yellow.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }

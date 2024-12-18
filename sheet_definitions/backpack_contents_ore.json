@@ -3,16 +3,16 @@
   "type_name": "cargo",
   "layer_1": {
     "zPos": 140,
-    "male":     "backpack/basket_contents/ore/fg/",
+    "male": "backpack/basket_contents/ore/fg/",
     "muscular": "backpack/basket_contents/ore/fg/",
-    "female":   "backpack/basket_contents/ore/fg/",
+    "female": "backpack/basket_contents/ore/fg/",
     "pregnant": "backpack/basket_contents/ore/fg/"
   },
   "layer_2": {
     "zPos": 5,
-    "male":     "backpack/basket_contents/ore/bg/",
+    "male": "backpack/basket_contents/ore/bg/",
     "muscular": "backpack/basket_contents/ore/bg/",
-    "female":   "backpack/basket_contents/ore/bg/",
+    "female": "backpack/basket_contents/ore/bg/",
     "pregnant": "backpack/basket_contents/ore/bg/"
   },
   "variants": [
@@ -24,5 +24,215 @@
     "bronze",
     "silver",
     "gold"
+  ],
+  "credits": [
+    {
+      "file": "backpack/basket_contents/ore/fg/coal.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/bg/coal.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/fg/iron.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/bg/iron.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/fg/steel.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/bg/steel.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/fg/tin.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/bg/tin.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/fg/copper.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/bg/copper.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/fg/bronze.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/bg/bronze.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/fg/silver.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/bg/silver.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/fg/gold.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    },
+    {
+      "file": "backpack/basket_contents/ore/bg/gold.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-backpacks"
+      ]
+    }
   ]
 }

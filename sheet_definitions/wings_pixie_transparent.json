@@ -1,23 +1,23 @@
 {
-  "name" : "Transparent Pixie Wings",
-  "type_name" : "wings",
-  "layer_1" : {
-    "zPos" : 140,
-    "male" : "body/wings/pixie/transparent/fg/",
-    "muscular" : "body/wings/pixie/transparent/fg/",
-    "female" : "body/wings/pixie/transparent/fg/",
-    "pregnant" : "body/wings/pixie/transparent/fg/",
-    "teen" : "body/wings/pixie/transparent/fg/",
-    "child" : "body/wings/pixie/transparent/fg/"
+  "name": "Transparent Pixie Wings",
+  "type_name": "wings",
+  "layer_1": {
+    "zPos": 140,
+    "male": "body/wings/pixie/transparent/fg/",
+    "muscular": "body/wings/pixie/transparent/fg/",
+    "female": "body/wings/pixie/transparent/fg/",
+    "pregnant": "body/wings/pixie/transparent/fg/",
+    "teen": "body/wings/pixie/transparent/fg/",
+    "child": "body/wings/pixie/transparent/fg/"
   },
-  "layer_2" : {
-    "zPos" : 5,
-    "male" : "body/wings/pixie/transparent/bg/",
-    "muscular" : "body/wings/pixie/transparent/bg/",
-    "female" : "body/wings/pixie/transparent/bg/",
-    "pregnant" : "body/wings/pixie/transparent/bg/",
-    "teen" : "body/wings/pixie/transparent/bg/",
-    "child" : "body/wings/pixie/transparent/bg/"
+  "layer_2": {
+    "zPos": 5,
+    "male": "body/wings/pixie/transparent/bg/",
+    "muscular": "body/wings/pixie/transparent/bg/",
+    "female": "body/wings/pixie/transparent/bg/",
+    "pregnant": "body/wings/pixie/transparent/bg/",
+    "teen": "body/wings/pixie/transparent/bg/",
+    "child": "body/wings/pixie/transparent/bg/"
   },
   "variants": [
     "pixie",
@@ -50,5 +50,21 @@
     "white",
     "yellow",
     "zombie_green"
+  ],
+  "credits": [
+    {
+      "file": "body/wings/pixie",
+      "notes": "In dedication to my grandmother, Sharon Rowe",
+      "authors": [
+        "The Foreman"
+      ],
+      "licenses": [
+        "OGA-BY 4.0",
+        "CC-BY-SA 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-fairy-wings"
+      ]
+    }
   ]
 }

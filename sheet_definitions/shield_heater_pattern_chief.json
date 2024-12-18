@@ -1,4 +1,3 @@
-
 {
   "name": "chief",
   "type_name": "shield_pattern",
@@ -19,30 +18,30 @@
     "teen": "shield/heater/original/pattern/chief/fg/"
   },
   "variants": [
-	"black",
-	"blue",
-	"bluegray",
-	"brown",
-	"charcoal",
-	"forest",
-	"gray",
-	"green",
-	"lavender",
-	"leather",
-	"maroon",
-	"navy",
-	"orange",
-	"pink",
-	"purple",
-	"red",
-	"rose",
-	"sky",
-	"slate",
-	"tan",
-	"teal",
-	"walnut",
-	"white",
-	"yellow"
+    "black",
+    "blue",
+    "bluegray",
+    "brown",
+    "charcoal",
+    "forest",
+    "gray",
+    "green",
+    "lavender",
+    "leather",
+    "maroon",
+    "navy",
+    "orange",
+    "pink",
+    "purple",
+    "red",
+    "rose",
+    "sky",
+    "slate",
+    "tan",
+    "teal",
+    "walnut",
+    "white",
+    "yellow"
   ],
   "animations": [
     "spellcast",
@@ -62,5 +61,22 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "shield/heater/original/pattern",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Sander Frenken (castelonia)",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-shields"
+      ]
+    }
   ]
 }

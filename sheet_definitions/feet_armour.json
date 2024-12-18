@@ -1,13 +1,13 @@
 {
-  "name" : "Armour",
-  "type_name" : "shoes",
-  "layer_1" : {
-    "zPos" : 15,
-    "male" : "feet/armour/plate/male/",
-    "muscular" : "feet/armour/plate/male/",
-    "female" : "feet/armour/plate/female/",
-    "pregnant" : "feet/armour/plate/female/",
-    "teen" : "feet/armour/plate/female/"
+  "name": "Armour",
+  "type_name": "shoes",
+  "layer_1": {
+    "zPos": 15,
+    "male": "feet/armour/plate/male/",
+    "muscular": "feet/armour/plate/male/",
+    "female": "feet/armour/plate/female/",
+    "pregnant": "feet/armour/plate/female/",
+    "teen": "feet/armour/plate/female/"
   },
   "variants": [
     "steel",
@@ -18,5 +18,39 @@
     "bronze",
     "silver",
     "gold"
+  ],
+  "credits": [
+    {
+      "file": "feet/armour/plate/male",
+      "notes": "original by wulax, recolors by bigbeargames, edits for v3 base and recolors by bluecarrot16",
+      "authors": [
+        "Matthew Krohn (makrohn)",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+      ]
+    },
+    {
+      "file": "feet/armour/plate/female",
+      "notes": "original by wulax, edited for female base by makrohn, recolors by bigbeargames, edits for v3 base and recolors by bluecarrot16",
+      "authors": [
+        "Matthew Krohn (makrohn)",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+      ]
+    }
   ]
 }

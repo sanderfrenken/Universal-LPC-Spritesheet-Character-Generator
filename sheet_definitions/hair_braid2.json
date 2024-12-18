@@ -36,5 +36,743 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/braid2/male/blonde.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/blonde.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/ash.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/ash.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/sandy.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/sandy.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/platinum.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/platinum.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/strawberry.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/strawberry.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/redhead.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/redhead.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/ginger.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/ginger.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/carrot.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/carrot.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/chestnut.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/chestnut.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/black.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/black.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/raven.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/raven.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/gray.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/gray.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/white.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/white.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/red.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/red.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/orange.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/orange.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/gold.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/gold.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/green.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/green.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/blue.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/blue.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/navy.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/navy.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/violet.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/violet.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/purple.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/purple.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/pink.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/pink.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/male/rose.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    },
+    {
+      "file": "hair/braid2/female/rose.png",
+      "notes": "",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
   ]
 }

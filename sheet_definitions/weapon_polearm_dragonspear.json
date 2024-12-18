@@ -54,5 +54,775 @@
     "iron",
     "silver",
     "steel"
+  ],
+  "credits": [
+    {
+      "file": "weapon/polearm/dragonspear/walk/foreground/medium.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/background/medium.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/foreground/medium.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/background/medium.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/foreground/light.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/background/light.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/foreground/light.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/background/light.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/foreground/red.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/background/red.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/foreground/red.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/background/red.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/foreground/dark.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/background/dark.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/foreground/dark.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/background/dark.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/foreground/brass.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/background/brass.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/foreground/brass.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/background/brass.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/foreground/bronze.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/background/bronze.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/foreground/bronze.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/background/bronze.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/foreground/ceramic.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/background/ceramic.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/foreground/ceramic.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/background/ceramic.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/foreground/copper.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/background/copper.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/foreground/copper.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/background/copper.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/foreground/gold.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/background/gold.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/foreground/gold.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/background/gold.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/foreground/iron.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/background/iron.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/foreground/iron.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/background/iron.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/foreground/silver.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/background/silver.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/foreground/silver.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/background/silver.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/foreground/steel.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/walk/background/steel.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/foreground/steel.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/polearm/dragonspear/thrust/background/steel.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    }
   ]
 }

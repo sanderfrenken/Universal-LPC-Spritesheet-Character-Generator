@@ -31,5 +31,49 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "torso/clothes/sleeveless/sleeveless/male",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Matthew Krohn (makrohn)",
+        "JaidynReiman",
+        "Marcel van de Steeg (MadMarcel)",
+        "Nila122",
+        "Johannes Sjölund (wulax)",
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle",
+        "https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more",
+        "https://opengameart.org/content/more-lpc-clothes-and-hair",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "torso/clothes/sleeveless/sleeveless/female",
+      "notes": "\"pirate shirt\" by MadMarcel, edited to all poses by makrohn, edited from tube-top/tanktop to sleeveless by JaidynReiman, cleanup and re-drawing by ElizaWy, edits for v3 bases and further cleanup by bluecarrot16",
+      "authors": [
+        "ElizaWy",
+        "JaidynReiman",
+        "Matthew Krohn (makrohn)",
+        "Marcel van de Steeg (MadMarcel)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle",
+        "https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more",
+        "https://opengameart.org/content/lpc-7-womens-shirts",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }

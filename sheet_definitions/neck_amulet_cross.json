@@ -1,13 +1,13 @@
 {
-  "name" : "Cross amulet",
-  "type_name" : "charm",
-  "layer_1" : {
-    "zPos" : 81,
-    "male" : "neck/amulet/cross/male/",
+  "name": "Cross amulet",
+  "type_name": "charm",
+  "layer_1": {
+    "zPos": 81,
+    "male": "neck/amulet/cross/male/",
     "muscular": "neck/amulet/cross/male/",
-    "female" : "neck/amulet/cross/female/",
-    "teen" : "neck/amulet/cross/female/",
-    "pregnant" : "neck/amulet/cross/female/"
+    "female": "neck/amulet/cross/female/",
+    "teen": "neck/amulet/cross/female/",
+    "pregnant": "neck/amulet/cross/female/"
   },
   "variants": [
     "brass_blue",
@@ -58,5 +58,20 @@
     "steel_purple",
     "steel_red",
     "steel_yellow"
+  ],
+  "credits": [
+    {
+      "file": "neck/amulet/cross",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }

@@ -1,13 +1,45 @@
 {
-  "name" : "Chainmail",
-  "type_name" : "chainmail",
-  "layer_1" : {
-    "zPos" : 50,
-    "male" : "torso/chainmail/male/",
-    "female" : "torso/chainmail/female/",
-    "teen" : "torso/chainmail/female/"
+  "name": "Chainmail",
+  "type_name": "chainmail",
+  "layer_1": {
+    "zPos": 50,
+    "male": "torso/chainmail/male/",
+    "female": "torso/chainmail/female/",
+    "teen": "torso/chainmail/female/"
   },
   "variants": [
     "gray"
+  ],
+  "credits": [
+    {
+      "file": "torso/chainmail/male/gray.png",
+      "notes": "minor edits by bluecarrot16",
+      "authors": [
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+      ]
+    },
+    {
+      "file": "torso/chainmail/female/gray.png",
+      "notes": "minor edits by bluecarrot16",
+      "authors": [
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+      ]
+    }
   ]
 }

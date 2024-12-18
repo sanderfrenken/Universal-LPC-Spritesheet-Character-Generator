@@ -1,13 +1,13 @@
 {
-  "name" : "Necklace",
-  "type_name" : "necklace",
-  "layer_1" : {
-    "zPos" : 80,
-    "male" : "neck/necklace/female/",
+  "name": "Necklace",
+  "type_name": "necklace",
+  "layer_1": {
+    "zPos": 80,
+    "male": "neck/necklace/female/",
     "muscular": "neck/necklace/female/",
-    "female" : "neck/necklace/female/",
-    "teen" : "neck/necklace/female/",
-    "pregnant" : "neck/necklace/female/"
+    "female": "neck/necklace/female/",
+    "teen": "neck/necklace/female/",
+    "pregnant": "neck/necklace/female/"
   },
   "variants": [
     "steel",
@@ -19,5 +19,151 @@
     "silver",
     "gold",
     "pirate"
+  ],
+  "credits": [
+    {
+      "file": "neck/necklace/female/steel.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "neck/necklace/female/iron.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "neck/necklace/female/ceramic.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "neck/necklace/female/brass.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "neck/necklace/female/copper.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "neck/necklace/female/bronze.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "neck/necklace/female/silver.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "neck/necklace/female/gold.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "neck/necklace/female/pirate.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }

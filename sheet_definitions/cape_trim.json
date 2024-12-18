@@ -1,10 +1,10 @@
 {
-  "name" : "Cape Trim",
-  "type_name" : "cape_trim",
-  "layer_1" : {
-    "zPos" : 90,
-    "female" : "cape/trim/female/",
-    "pregnant" : "cape/trim/female/"
+  "name": "Cape Trim",
+  "type_name": "cape_trim",
+  "layer_1": {
+    "zPos": 90,
+    "female": "cape/trim/female/",
+    "pregnant": "cape/trim/female/"
   },
   "variants": [
     "black",
@@ -31,5 +31,24 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "cape/trim",
+      "notes": "isolated stripe from cape_trimmed, adapted to v3 bases by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }

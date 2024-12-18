@@ -1,13 +1,13 @@
 {
-  "name" : "Big nose",
-  "type_name" : "nose",
-  "layer_1" : {
-    "zPos" : 105,
-    "male" : "head/nose/big/adult/",
-    "muscular" : "head/nose/big/adult/",
-    "female" : "head/nose/big/adult/",
-    "teen" : "head/nose/big/adult/",
-    "pregnant" : "head/nose/big/adult/"
+  "name": "Big nose",
+  "type_name": "nose",
+  "layer_1": {
+    "zPos": 105,
+    "male": "head/nose/big/adult/",
+    "muscular": "head/nose/big/adult/",
+    "female": "head/nose/big/adult/",
+    "teen": "head/nose/big/adult/",
+    "pregnant": "head/nose/big/adult/"
   },
   "variants": [
     "light",
@@ -52,5 +52,22 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/nose/big",
+      "notes": "",
+      "authors": [
+        "Thane Brimhall (pennomi)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "GPL 3.0",
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-base-character-expressions"
+      ]
+    }
   ]
 }

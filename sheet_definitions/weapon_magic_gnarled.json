@@ -48,5 +48,727 @@
     "iron",
     "silver",
     "steel"
+  ],
+  "credits": [
+    {
+      "file": "weapon/magic/gnarled/universal/foreground/medium.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/background/medium.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/foreground/medium.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/background/medium.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/foreground/light.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/background/light.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/foreground/light.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/background/light.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/foreground/red.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/background/red.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/foreground/red.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/background/red.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/foreground/dark.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/background/dark.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/foreground/dark.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/background/dark.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/foreground/brass.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/background/brass.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/foreground/brass.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/background/brass.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/foreground/bronze.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/background/bronze.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/foreground/bronze.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/background/bronze.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/foreground/ceramic.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/background/ceramic.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/foreground/ceramic.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/background/ceramic.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/foreground/copper.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/background/copper.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/foreground/copper.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/background/copper.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/foreground/gold.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/background/gold.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/foreground/gold.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/background/gold.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/foreground/iron.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/background/iron.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/foreground/iron.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/background/iron.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/foreground/silver.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/background/silver.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/foreground/silver.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/background/silver.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/foreground/steel.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/universal/background/steel.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/foreground/steel.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/magic/gnarled/thrust/background/steel.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    }
   ]
 }

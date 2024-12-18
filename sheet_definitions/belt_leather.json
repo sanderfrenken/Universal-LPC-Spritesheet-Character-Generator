@@ -15,5 +15,245 @@
     "tan",
     "walnut",
     "white"
+  ],
+  "credits": [
+    {
+      "file": "torso/waist/belt_leather/male/brown.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_leather/female/brown.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_leather/male/charcoal.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_leather/female/charcoal.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_leather/male/leather.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_leather/female/leather.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_leather/male/slate.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_leather/female/slate.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_leather/male/tan.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_leather/female/tan.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_leather/male/walnut.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_leather/female/walnut.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_leather/male/white.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_leather/female/white.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    }
   ]
 }

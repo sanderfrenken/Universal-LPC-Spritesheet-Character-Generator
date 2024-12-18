@@ -9,5 +9,52 @@
     "formal",
     "leather",
     "white"
+  ],
+  "credits": [
+    {
+      "file": "torso/waist/belt_other/male/formal.png",
+      "notes": "",
+      "authors": [
+        "Thane Brimhall (pennomi)",
+        "laetissima",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-2-characters",
+        "https://opengameart.org/content/lpc-gentleman"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_other/male/leather.png",
+      "notes": "",
+      "authors": [
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+      ]
+    },
+    {
+      "file": "torso/waist/belt_other/male/white.png",
+      "notes": "originally BELT_rope.png",
+      "authors": [
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+      ]
+    }
   ]
 }

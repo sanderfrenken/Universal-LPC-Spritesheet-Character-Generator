@@ -11,5 +11,21 @@
   },
   "variants": [
     "quiver"
+  ],
+  "credits": [
+    {
+      "file": "quiver/quiver.png",
+      "notes": "",
+      "authors": [
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+      ]
+    }
   ]
 }

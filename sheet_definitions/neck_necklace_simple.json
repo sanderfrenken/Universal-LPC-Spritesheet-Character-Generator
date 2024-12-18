@@ -1,13 +1,13 @@
 {
-  "name" : "Simple Necklace",
-  "type_name" : "necklace",
-  "layer_1" : {
-    "zPos" : 80,
-    "male" : "neck/necklace/simple/male/",
+  "name": "Simple Necklace",
+  "type_name": "necklace",
+  "layer_1": {
+    "zPos": 80,
+    "male": "neck/necklace/simple/male/",
     "muscular": "neck/necklace/simple/male/",
-    "female" : "neck/necklace/simple/female/",
-    "teen" : "neck/necklace/simple/female/",
-    "pregnant" : "neck/necklace/simple/female/"
+    "female": "neck/necklace/simple/female/",
+    "teen": "neck/necklace/simple/female/",
+    "pregnant": "neck/necklace/simple/female/"
   },
   "variants": [
     "steel",
@@ -18,5 +18,20 @@
     "bronze",
     "silver",
     "gold"
+  ],
+  "credits": [
+    {
+      "file": "neck/necklace/simple",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }

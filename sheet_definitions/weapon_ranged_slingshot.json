@@ -17,5 +17,37 @@
   },
   "variants": [
     "slingshot"
+  ],
+  "credits": [
+    {
+      "file": "weapon/ranged/slingshot/foreground/slingshot.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "weapon/ranged/slingshot/background/slingshot.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    }
   ]
 }

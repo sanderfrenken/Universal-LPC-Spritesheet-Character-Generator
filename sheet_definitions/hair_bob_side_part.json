@@ -55,5 +55,25 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "hair/bob_side_part",
+      "notes": "Original by Thecilekli. Touchups by BlueCarrot16. Edited and animated by ElizaWy.",
+      "authors": [
+        "thecilekli",
+        "bluecarrot16",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-pink-short-hair",
+        "https://opengameart.org/content/lpc-hair",
+        "https://github.com/ElizaWy/LPC/blob/main/Characters/Hair",
+        "https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets"
+      ]
+    }
   ]
 }

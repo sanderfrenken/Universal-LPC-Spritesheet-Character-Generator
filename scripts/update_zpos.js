@@ -6,7 +6,6 @@ fs.readdirSync('sheet_definitions').forEach(file => {
   if (!file.includes('.json')) {
     return
   }
-  const json = file;
   const definition = JSON.parse(fs.readFileSync(`sheet_definitions/${file}`));
   for (jdx =1; jdx < 10; jdx++) {
     const layerDefinition = definition[`layer_${jdx}`];

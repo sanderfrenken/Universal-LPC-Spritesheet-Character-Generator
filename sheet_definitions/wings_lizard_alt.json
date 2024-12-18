@@ -70,5 +70,23 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "body/wings/lizard",
+      "notes": "edited for v3 bases and recolored by bluecarrot16",
+      "authors": [
+        "Nila122",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/drakes-and-lizardfolk"
+      ]
+    }
   ]
 }

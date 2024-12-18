@@ -37,5 +37,25 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "hat/magic/wizard",
+      "notes": "Original Wizard Hat and Recolors by bigbeargames and reemax; split into separate layers with new recolors by JaidynReiman",
+      "authors": [
+        "Michael Whitlock (bigbeargames)",
+        "Tuomo Untinen (reemax)",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-items-and-game-effects",
+        "https://opengameart.org/content/lpc-pointed-hats"
+      ]
+    }
   ]
 }

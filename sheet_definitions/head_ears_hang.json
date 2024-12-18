@@ -1,14 +1,14 @@
 {
-  "name" : "Hanging Elven Ears",
-  "type_name" : "ears",
-  "layer_1" : {
-    "zPos" : 130,
-    "male" : "head/ears/hang/adult/",
-    "muscular" : "head/ears/hang/adult/",
-    "female" : "head/ears/hang/adult/",
-    "teen" : "head/ears/hang/adult/",
-    "pregnant" : "head/ears/hang/adult/",
-    "child" : "head/ears/hang/child/"
+  "name": "Hanging Elven Ears",
+  "type_name": "ears",
+  "layer_1": {
+    "zPos": 130,
+    "male": "head/ears/hang/adult/",
+    "muscular": "head/ears/hang/adult/",
+    "female": "head/ears/hang/adult/",
+    "teen": "head/ears/hang/adult/",
+    "pregnant": "head/ears/hang/adult/",
+    "child": "head/ears/hang/child/"
   },
   "variants": [
     "light",
@@ -53,5 +53,22 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/ears/hang",
+      "notes": "",
+      "authors": [
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "CC-BY 3.0+",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-new-elven-ear-variants"
+      ]
+    }
   ]
 }

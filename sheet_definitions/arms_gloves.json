@@ -1,13 +1,13 @@
 {
-  "name" : "Gloves",
-  "type_name" : "gloves",
-  "layer_1" : {
-    "zPos" : 70,
-    "male" : "arms/gloves/male/",
-    "muscular" : "arms/gloves/male/",
-    "female" : "arms/gloves/female/",
-    "teen" : "arms/gloves/female/",
-    "pregnant" : "arms/gloves/female/"
+  "name": "Gloves",
+  "type_name": "gloves",
+  "layer_1": {
+    "zPos": 70,
+    "male": "arms/gloves/male/",
+    "muscular": "arms/gloves/male/",
+    "female": "arms/gloves/female/",
+    "teen": "arms/gloves/female/",
+    "pregnant": "arms/gloves/female/"
   },
   "variants": [
     "brass",
@@ -61,5 +61,46 @@
     "1h_slash",
     "1h_bgslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "arms/gloves/male",
+      "notes": "metal gloves by wulax, recolors by bigbeargames, adapted to v3 bases by bluecarrot16, added to expanded animations by JaidynReiman",
+      "authors": [
+        "Michael Whitlock (bigbeargames)",
+        "Matthew Krohn (makrohn)",
+        "Johannes Sjölund (wulax)",
+        "bluecarrot16",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "arms/gloves/female",
+      "notes": "metal gloves by wulax, extended to female base by makrohn, recolors by bigbeargames, adapted to v3 bases by bluecarrot16, added to expanded animations by JaidynReiman",
+      "authors": [
+        "Michael Whitlock (bigbeargames)",
+        "Matthew Krohn (makrohn)",
+        "Johannes Sjölund (wulax)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }

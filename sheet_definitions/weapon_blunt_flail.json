@@ -33,5 +33,71 @@
   },
   "variants": [
     "flail"
+  ],
+  "credits": [
+    {
+      "file": "weapon/blunt/flail/behind/flail.png",
+      "notes": "",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "bluecarrot16",
+        "Sander Frenken (castelonia)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-weapons"
+      ]
+    },
+    {
+      "file": "weapon/blunt/flail/flail.png",
+      "notes": "",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "bluecarrot16",
+        "Sander Frenken (castelonia)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-weapons"
+      ]
+    },
+    {
+      "file": "weapon/blunt/flail/attack_slash/behind/flail.png",
+      "notes": "",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "bluecarrot16",
+        "Sander Frenken (castelonia)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-weapons"
+      ]
+    },
+    {
+      "file": "weapon/blunt/flail/attack_slash/flail.png",
+      "notes": "",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "bluecarrot16",
+        "Sander Frenken (castelonia)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-weapons"
+      ]
+    }
   ]
 }

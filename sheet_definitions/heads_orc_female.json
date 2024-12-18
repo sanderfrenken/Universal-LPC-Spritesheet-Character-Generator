@@ -44,5 +44,27 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/heads/orc/female",
+      "notes": "human head adapted to orc by madmarcel, hurt/cast animations made by makrohn, headless version and tweaks by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "Matthew Krohn (makrohn)",
+        "Marcel van de Steeg (MadMarcel)",
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle",
+        "https://opengameart.org/content/lpc-ladies",
+        "https://opengameart.org/content/lpc-character-bases"
+      ]
+    }
   ]
 }

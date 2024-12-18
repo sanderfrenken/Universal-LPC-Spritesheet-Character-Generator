@@ -12,5 +12,33 @@
   },
   "variants": [
     "peg_leg"
+  ],
+  "credits": [
+    {
+      "file": "body/prosthesis/peg_leg/male/mask/peg_leg.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    },
+    {
+      "file": "body/prosthesis/peg_leg/male/peg_leg.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    }
   ]
 }

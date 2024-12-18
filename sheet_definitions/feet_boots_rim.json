@@ -1,13 +1,13 @@
 {
-  "name" : "Rim Boots",
-  "type_name" : "shoes",
-  "layer_1" : {
-    "zPos" : 25,
-    "male" : "feet/boots_rim/universal/male/",
-    "muscular" : "feet/boots_rim/universal/male/",
-    "female" : "feet/boots_rim/universal/female/",
-    "teen" : "feet/boots_rim/universal/female/",
-    "pregnant" : "feet/boots_rim/universal/female/"
+  "name": "Rim Boots",
+  "type_name": "shoes",
+  "layer_1": {
+    "zPos": 25,
+    "male": "feet/boots_rim/universal/male/",
+    "muscular": "feet/boots_rim/universal/male/",
+    "female": "feet/boots_rim/universal/female/",
+    "teen": "feet/boots_rim/universal/female/",
+    "pregnant": "feet/boots_rim/universal/female/"
   },
   "variants": [
     "black",
@@ -42,5 +42,22 @@
     "bronze",
     "silver",
     "gold"
+  ],
+  "credits": [
+    {
+      "file": "feet/boots_rim",
+      "notes": "",
+      "authors": [
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "CC-BY 3.0+",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-relm-outfit-pieces-2-kimonos-2-sleeves-2-boots-tabi-socks"
+      ]
+    }
   ]
 }

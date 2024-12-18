@@ -1,13 +1,13 @@
 {
-  "name" : "Large nose",
-  "type_name" : "nose",
-  "layer_1" : {
-    "zPos" : 105,
-    "male" : "head/nose/large/adult/",
-    "muscular" : "head/nose/large/adult/",
-    "female" : "head/nose/large/adult/",
-    "teen" : "head/nose/large/adult/",
-    "pregnant" : "head/nose/large/adult/"
+  "name": "Large nose",
+  "type_name": "nose",
+  "layer_1": {
+    "zPos": 105,
+    "male": "head/nose/large/adult/",
+    "muscular": "head/nose/large/adult/",
+    "female": "head/nose/large/adult/",
+    "teen": "head/nose/large/adult/",
+    "pregnant": "head/nose/large/adult/"
   },
   "variants": [
     "light",
@@ -52,5 +52,21 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/nose/large",
+      "notes": "",
+      "authors": [
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://github.com/ElizaWy/LPC/tree/main/Characters/Head/Head%20Overlay%2001%20-%20Large%20Nose",
+        "https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets"
+      ]
+    }
   ]
 }

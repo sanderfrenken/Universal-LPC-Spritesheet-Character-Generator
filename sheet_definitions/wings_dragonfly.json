@@ -1,23 +1,23 @@
 {
-  "name" : "Dragonfly Wings",
-  "type_name" : "wings",
-  "layer_1" : {
-    "zPos" : 85,
-    "male" : "body/wings/dragonfly/solid/fg/",
-    "muscular" : "body/wings/dragonfly/solid/fg/",
-    "female" : "body/wings/dragonfly/solid/fg/",
-    "pregnant" : "body/wings/dragonfly/solid/fg/",
-    "teen" : "body/wings/dragonfly/solid/fg/",
-    "child" : "body/wings/dragonfly/solid/fg/"
+  "name": "Dragonfly Wings",
+  "type_name": "wings",
+  "layer_1": {
+    "zPos": 85,
+    "male": "body/wings/dragonfly/solid/fg/",
+    "muscular": "body/wings/dragonfly/solid/fg/",
+    "female": "body/wings/dragonfly/solid/fg/",
+    "pregnant": "body/wings/dragonfly/solid/fg/",
+    "teen": "body/wings/dragonfly/solid/fg/",
+    "child": "body/wings/dragonfly/solid/fg/"
   },
-  "layer_2" : {
-    "zPos" : 5,
-    "male" : "body/wings/dragonfly/solid/bg/",
-    "muscular" : "body/wings/dragonfly/solid/bg/",
-    "female" : "body/wings/dragonfly/solid/bg/",
-    "pregnant" : "body/wings/dragonfly/solid/bg/",
-    "teen" : "body/wings/dragonfly/solid/bg/",
-    "child" : "body/wings/dragonfly/solid/bg/"
+  "layer_2": {
+    "zPos": 5,
+    "male": "body/wings/dragonfly/solid/bg/",
+    "muscular": "body/wings/dragonfly/solid/bg/",
+    "female": "body/wings/dragonfly/solid/bg/",
+    "pregnant": "body/wings/dragonfly/solid/bg/",
+    "teen": "body/wings/dragonfly/solid/bg/",
+    "child": "body/wings/dragonfly/solid/bg/"
   },
   "variants": [
     "dragonfly",
@@ -50,5 +50,21 @@
     "white",
     "yellow",
     "zombie_green"
+  ],
+  "credits": [
+    {
+      "file": "body/wings/dragonfly",
+      "notes": "In dedication to my grandmother, Sharon Rowe",
+      "authors": [
+        "The Foreman"
+      ],
+      "licenses": [
+        "OGA-BY 4.0",
+        "CC-BY-SA 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-fairy-wings-pack-2"
+      ]
+    }
   ]
 }

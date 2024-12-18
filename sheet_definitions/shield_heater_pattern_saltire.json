@@ -1,4 +1,3 @@
-
 {
   "name": "saltire",
   "type_name": "shield_pattern",
@@ -62,5 +61,22 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "shield/heater/original/pattern",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Sander Frenken (castelonia)",
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-shields"
+      ]
+    }
   ]
 }

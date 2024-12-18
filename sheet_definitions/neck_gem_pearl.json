@@ -1,13 +1,13 @@
 {
-  "name" : "Pearl Gem",
-  "type_name" : "charm",
-  "layer_1" : {
-    "zPos" : 81,
-    "male" : "neck/gem/pearl/male/",
+  "name": "Pearl Gem",
+  "type_name": "charm",
+  "layer_1": {
+    "zPos": 81,
+    "male": "neck/gem/pearl/male/",
     "muscular": "neck/gem/pearl/male/",
-    "female" : "neck/gem/pearl/female/",
-    "teen" : "neck/gem/pearl/female/",
-    "pregnant" : "neck/gem/pearl/female/"
+    "female": "neck/gem/pearl/female/",
+    "teen": "neck/gem/pearl/female/",
+    "pregnant": "neck/gem/pearl/female/"
   },
   "variants": [
     "blue",
@@ -16,5 +16,20 @@
     "purple",
     "red",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "neck/gem",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }

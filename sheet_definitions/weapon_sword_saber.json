@@ -33,5 +33,75 @@
   },
   "variants": [
     "saber"
+  ],
+  "credits": [
+    {
+      "file": "weapon/sword/saber/saber.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "Johannes Sjölund (wulax)",
+        "gr3yh47",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/sword/saber/universal_behind/saber.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "Johannes Sjölund (wulax)",
+        "gr3yh47",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/sword/saber/attack_slash/behind/saber.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "Johannes Sjölund (wulax)",
+        "gr3yh47",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    },
+    {
+      "file": "weapon/sword/saber/attack_slash/saber.png",
+      "notes": "",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "Johannes Sjölund (wulax)",
+        "gr3yh47",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-extended-weapon-animations"
+      ]
+    }
   ]
 }

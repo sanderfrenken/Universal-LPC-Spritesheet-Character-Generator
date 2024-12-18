@@ -54,5 +54,22 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "facial/patches/small",
+      "notes": "",
+      "authors": [
+        "Michael Whitlock (bigbeargames)",
+        "Thane Brimhall (pennomi)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-base-character-expressions"
+      ]
+    }
   ]
 }

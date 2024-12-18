@@ -7,7 +7,7 @@
     "muscular": "weapon/ranged/crossbow/background/",
     "female": "weapon/ranged/crossbow/background/",
     "pregnant": "weapon/ranged/crossbow/background/"
-  },  
+  },
   "layer_2": {
     "zPos": 140,
     "male": "weapon/ranged/crossbow/foreground/",
@@ -17,5 +17,35 @@
   },
   "variants": [
     "crossbow"
+  ],
+  "credits": [
+    {
+      "file": "weapon/ranged/crossbow/background/crossbow.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "drjamgo@hotmail.com"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-crossbow-final"
+      ]
+    },
+    {
+      "file": "weapon/ranged/crossbow/foreground/crossbow.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "drjamgo@hotmail.com"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-crossbow-final"
+      ]
+    }
   ]
 }

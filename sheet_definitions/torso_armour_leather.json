@@ -32,5 +32,42 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "torso/armour/leather/male",
+      "notes": "adapted to v3 bases by bluecarrot16",
+      "authors": [
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/armour/leather/female",
+      "notes": "recolor of torso/armour/leather/female/brown.png; adapted to v3 bases by bluecarrot16",
+      "authors": [
+        "Michael Whitlock (bigbeargames)",
+        "Matthew Krohn (makrohn)",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }

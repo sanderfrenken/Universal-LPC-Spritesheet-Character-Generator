@@ -36,5 +36,743 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/ponytail2/male/blonde.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/blonde.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/ash.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/ash.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/sandy.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/sandy.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/platinum.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/platinum.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/strawberry.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/strawberry.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/redhead.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/redhead.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/ginger.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/ginger.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/carrot.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/carrot.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/chestnut.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/chestnut.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/black.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/black.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/raven.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/raven.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/gray.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/gray.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/white.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/white.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/red.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/red.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/orange.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/orange.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/gold.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/gold.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/green.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/green.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/blue.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/blue.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/navy.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/navy.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/violet.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/violet.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/purple.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/purple.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/pink.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/pink.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/male/rose.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    },
+    {
+      "file": "hair/ponytail2/female/rose.png",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    }
   ]
 }

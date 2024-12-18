@@ -1,11 +1,31 @@
 {
-  "name" : "Striped Collared/Formal Longsleeve",
-  "type_name" : "clothes",
-  "layer_1" : {
-    "zPos" : 35,
-    "male" : "torso/clothes/longsleeve/formal_striped/male/"
+  "name": "Striped Collared/Formal Longsleeve",
+  "type_name": "clothes",
+  "layer_1": {
+    "zPos": 35,
+    "male": "torso/clothes/longsleeve/formal_striped/male/"
   },
   "variants": [
     "white"
+  ],
+  "credits": [
+    {
+      "file": "torso/clothes/longsleeve/formal_striped",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Thane Brimhall (pennomi)",
+        "laetissima",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-2-characters"
+      ]
+    }
   ]
 }

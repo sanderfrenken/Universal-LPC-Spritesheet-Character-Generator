@@ -53,5 +53,22 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "hat/holiday/elf",
+      "notes": "Christmas Elf by bluecarrot16, split into layers by JaidynReiman",
+      "authors": [
+        "bluecarrot16",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-santa"
+      ]
+    }
   ]
 }

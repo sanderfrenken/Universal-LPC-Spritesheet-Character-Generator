@@ -1,23 +1,23 @@
 {
-  "name" : "Monarch Wings Edge",
-  "type_name" : "wings_edge",
-  "layer_1" : {
-    "zPos" : 86,
-    "male" : "body/wings/monarch/edge/fg/",
-    "muscular" : "body/wings/monarch/edge/fg/",
-    "female" : "body/wings/monarch/edge/fg/",
-    "pregnant" : "body/wings/monarch/edge/fg/",
-    "teen" : "body/wings/monarch/edge/fg/",
-    "child" : "body/wings/monarch/edge/fg/"
+  "name": "Monarch Wings Edge",
+  "type_name": "wings_edge",
+  "layer_1": {
+    "zPos": 86,
+    "male": "body/wings/monarch/edge/fg/",
+    "muscular": "body/wings/monarch/edge/fg/",
+    "female": "body/wings/monarch/edge/fg/",
+    "pregnant": "body/wings/monarch/edge/fg/",
+    "teen": "body/wings/monarch/edge/fg/",
+    "child": "body/wings/monarch/edge/fg/"
   },
-  "layer_2" : {
-    "zPos" : 6,
-    "male" : "body/wings/monarch/edge/bg/",
-    "muscular" : "body/wings/monarch/edge/bg/",
-    "female" : "body/wings/monarch/edge/bg/",
-    "pregnant" : "body/wings/monarch/edge/bg/",
-    "teen" : "body/wings/monarch/edge/bg/",
-    "child" : "body/wings/monarch/edge/bg/"
+  "layer_2": {
+    "zPos": 6,
+    "male": "body/wings/monarch/edge/bg/",
+    "muscular": "body/wings/monarch/edge/bg/",
+    "female": "body/wings/monarch/edge/bg/",
+    "pregnant": "body/wings/monarch/edge/bg/",
+    "teen": "body/wings/monarch/edge/bg/",
+    "child": "body/wings/monarch/edge/bg/"
   },
   "variants": [
     "amber",
@@ -49,5 +49,21 @@
     "white",
     "yellow",
     "zombie_green"
+  ],
+  "credits": [
+    {
+      "file": "body/wings/monarch",
+      "notes": "In dedication to my grandmother, Sharon Rowe",
+      "authors": [
+        "The Foreman"
+      ],
+      "licenses": [
+        "OGA-BY 4.0",
+        "CC-BY-SA 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-fairy-wings"
+      ]
+    }
   ]
 }

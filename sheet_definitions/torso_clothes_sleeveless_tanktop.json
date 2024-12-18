@@ -1,10 +1,10 @@
 {
-  "name" : "Tanktop",
-  "type_name" : "clothes",
-  "layer_1" : {
-    "zPos" : 35,
-    "pregnant" : "torso/clothes/sleeveless/tanktop/pregnant/",
-    "female" : "torso/clothes/sleeveless/tanktop/female/"
+  "name": "Tanktop",
+  "type_name": "clothes",
+  "layer_1": {
+    "zPos": 35,
+    "pregnant": "torso/clothes/sleeveless/tanktop/pregnant/",
+    "female": "torso/clothes/sleeveless/tanktop/female/"
   },
   "variants": [
     "black",
@@ -31,5 +31,46 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "torso/clothes/sleeveless/tanktop/female",
+      "notes": "\"pirate shirt\" by MadMarcel, edited to all poses by makrohn, cleanup and re-drawing by ElizaWy, edits for v3 bases and further cleanup by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy",
+        "Matthew Krohn (makrohn)",
+        "Marcel van de Steeg (MadMarcel)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle",
+        "https://opengameart.org/content/lpc-7-womens-shirts",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/clothes/sleeveless/tanktop/pregnant",
+      "notes": "\"pirate shirt\" by MadMarcel, edited to all poses by makrohn, cleanup and re-drawing for pregnant base by ElizaWy, edits for v3 base by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "ElizaWy",
+        "Matthew Krohn (makrohn)",
+        "Marcel van de Steeg (MadMarcel)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle",
+        "https://opengameart.org/content/lpc-7-womens-shirts",
+        "https://opengameart.org/content/lpc-pregnancy-bases-maternity-wear",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }

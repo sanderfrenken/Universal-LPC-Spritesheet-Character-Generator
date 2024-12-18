@@ -52,5 +52,27 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/heads/orc/male",
+      "notes": "Sinbad the ogre design by Zi Ye, original 4-direction sprite by Redshrike, additional hurt/cast animations by makrohn, headless version by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "Matthew Krohn (makrohn)",
+        "Stephen Challener (Redshrike)",
+        "Zi Ye"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/four-characters-my-lpc-entries",
+        "https://opengameart.org/content/sinbad-the-ogre",
+        "https://opengameart.org/content/lpc-male-sheets",
+        "https://opengameart.org/content/lpc-character-bases"
+      ]
+    }
   ]
 }

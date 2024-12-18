@@ -11,5 +11,22 @@
   },
   "variants": [
     "boomerang"
+  ],
+  "credits": [
+    {
+      "file": "weapon/ranged/boomerang/boomerang.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    }
   ]
 }

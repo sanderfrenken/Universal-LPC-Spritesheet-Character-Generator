@@ -1,9 +1,9 @@
 {
-  "name" : "Apron half",
-  "type_name" : "apron",
-  "layer_1" : {
-    "zPos" : 40,
-    "female" : "torso/aprons/apron_half/female/"
+  "name": "Apron half",
+  "type_name": "apron",
+  "layer_1": {
+    "zPos": 40,
+    "female": "torso/aprons/apron_half/female/"
   },
   "variants": [
     "black",
@@ -30,5 +30,367 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "torso/aprons/apron_half/female/black.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/blue.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/bluegray.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/brown.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/charcoal.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/forest.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/gray.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/green.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/lavender.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/leather.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/maroon.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/navy.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/orange.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/pink.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/purple.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/red.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/rose.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/sky.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/slate.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/tan.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/teal.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/walnut.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/white.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    },
+    {
+      "file": "torso/aprons/apron_half/female/yellow.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }

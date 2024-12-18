@@ -10,5 +10,76 @@
     "blue",
     "brown",
     "white"
+  ],
+  "credits": [
+    {
+      "file": "legs/pants/muscular/black.png",
+      "notes": "these pants from Nila122 seem to have different provenance than all the other pants, from wulax",
+      "authors": [
+        "Nila122",
+        "Johannes Sjölund (wulax)",
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/more-lpc-clothes-and-hair"
+      ]
+    },
+    {
+      "file": "legs/pants/muscular/blue.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "Johannes Sjölund (wulax)",
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/more-lpc-clothes-and-hair"
+      ]
+    },
+    {
+      "file": "legs/pants/muscular/brown.png",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "Johannes Sjölund (wulax)",
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/more-lpc-clothes-and-hair"
+      ]
+    },
+    {
+      "file": "legs/pants/muscular/white.png",
+      "notes": "",
+      "authors": [
+        "ElizaWy",
+        "dalonedrau",
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-muscular-pants",
+        "https://opengameart.org/content/lpc-muscular-swing-animation",
+        "https://opengameart.org/content/lpc-muscular-hurt-animation"
+      ]
+    }
   ]
 }

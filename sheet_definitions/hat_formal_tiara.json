@@ -1,10 +1,10 @@
 {
-  "name" : "Tiara",
-  "type_name" : "hat",
-  "layer_1" : {
-    "zPos" : 130,
-    "female" : "hat/formal/tiara/adult/",
-    "pregnant" : "hat/formal/tiara/adult/",
+  "name": "Tiara",
+  "type_name": "hat",
+  "layer_1": {
+    "zPos": 130,
+    "female": "hat/formal/tiara/adult/",
+    "pregnant": "hat/formal/tiara/adult/",
     "male": "hat/formal/tiara/adult/",
     "teen": "hat/formal/tiara/adult/",
     "muscular": "hat/formal/tiara/adult/"
@@ -66,5 +66,21 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "hat/formal/tiara",
+      "notes": "",
+      "authors": [
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set"
+      ]
+    }
   ]
 }

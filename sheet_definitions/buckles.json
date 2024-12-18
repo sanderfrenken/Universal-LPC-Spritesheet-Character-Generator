@@ -10,5 +10,63 @@
     "gold",
     "iron",
     "silver"
+  ],
+  "credits": [
+    {
+      "file": "torso/waist/buckles/female/bronze.png",
+      "notes": "",
+      "authors": [
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set"
+      ]
+    },
+    {
+      "file": "torso/waist/buckles/female/gold.png",
+      "notes": "",
+      "authors": [
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set"
+      ]
+    },
+    {
+      "file": "torso/waist/buckles/female/iron.png",
+      "notes": "",
+      "authors": [
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set"
+      ]
+    },
+    {
+      "file": "torso/waist/buckles/female/silver.png",
+      "notes": "",
+      "authors": [
+        "Luke Mehl"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/female-mage-clothing-set"
+      ]
+    }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "name" : "Straight nose",
-  "type_name" : "nose",
-  "layer_1" : {
-    "zPos" : 105,
-    "male" : "head/nose/straight/adult/",
-    "muscular" : "head/nose/straight/adult/",
-    "female" : "head/nose/straight/adult/",
-    "teen" : "head/nose/straight/adult/",
-    "pregnant" : "head/nose/straight/adult/"
+  "name": "Straight nose",
+  "type_name": "nose",
+  "layer_1": {
+    "zPos": 105,
+    "male": "head/nose/straight/adult/",
+    "muscular": "head/nose/straight/adult/",
+    "female": "head/nose/straight/adult/",
+    "teen": "head/nose/straight/adult/",
+    "pregnant": "head/nose/straight/adult/"
   },
   "variants": [
     "light",
@@ -52,5 +52,22 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/nose/straight",
+      "notes": "",
+      "authors": [
+        "Thane Brimhall (pennomi)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "GPL 3.0",
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-base-character-expressions"
+      ]
+    }
   ]
 }

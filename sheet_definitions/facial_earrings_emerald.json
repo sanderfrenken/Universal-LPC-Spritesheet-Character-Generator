@@ -16,5 +16,20 @@
     "purple",
     "red",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "facial/earrings/emerald",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }

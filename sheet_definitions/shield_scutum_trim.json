@@ -17,5 +17,49 @@
   },
   "variants": [
     "scutum_trim"
+  ],
+  "credits": [
+    {
+      "file": "shield/scutum_trim/bg/scutum_trim.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Sander Frenken (castelonia)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-shields"
+      ]
+    },
+    {
+      "file": "shield/scutum_trim/fg/male/scutum_trim.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Sander Frenken (castelonia)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-shields"
+      ]
+    },
+    {
+      "file": "shield/scutum_trim/fg/female/scutum_trim.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Sander Frenken (castelonia)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-shields"
+      ]
+    }
   ]
 }

@@ -37,5 +37,23 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "hat/accessory/crest_centurion",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "DCSS authors"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/dungeon-crawl-32x32-tiles",
+        "https://opengameart.org/content/cc0-headgear-icons",
+        "https://opengameart.org/content/lpc-helmets-mega-pack"
+      ]
+    }
   ]
 }

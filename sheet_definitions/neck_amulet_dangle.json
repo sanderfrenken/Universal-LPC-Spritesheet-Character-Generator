@@ -1,13 +1,13 @@
 {
-  "name" : "Dangling amulet",
-  "type_name" : "charm",
-  "layer_1" : {
-    "zPos" : 81,
-    "male" : "neck/amulet/dangle/male/",
+  "name": "Dangling amulet",
+  "type_name": "charm",
+  "layer_1": {
+    "zPos": 81,
+    "male": "neck/amulet/dangle/male/",
     "muscular": "neck/amulet/dangle/male/",
-    "female" : "neck/amulet/dangle/female/",
-    "teen" : "neck/amulet/dangle/female/",
-    "pregnant" : "neck/amulet/dangle/female/"
+    "female": "neck/amulet/dangle/female/",
+    "teen": "neck/amulet/dangle/female/",
+    "pregnant": "neck/amulet/dangle/female/"
   },
   "variants": [
     "brass_blue",
@@ -58,5 +58,23 @@
     "steel_purple",
     "steel_red",
     "steel_yellow"
+  ],
+  "credits": [
+    {
+      "file": "neck/amulet/dangle",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "AntumDeluge"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/dungeon-crawl-32x32-tiles",
+        "https://opengameart.org/content/cc0-jewelry-icons",
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }

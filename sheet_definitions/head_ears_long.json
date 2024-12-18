@@ -1,14 +1,14 @@
 {
-  "name" : "Long ears",
-  "type_name" : "ears",
-  "layer_1" : {
-    "zPos" : 130,
-    "male" : "head/ears/long/adult/",
-    "muscular" : "head/ears/long/adult/",
-    "female" : "head/ears/long/adult/",
-    "teen" : "head/ears/long/adult/",
-    "pregnant" : "head/ears/long/adult/",
-    "child" : "head/ears/long/child/"
+  "name": "Long ears",
+  "type_name": "ears",
+  "layer_1": {
+    "zPos": 130,
+    "male": "head/ears/long/adult/",
+    "muscular": "head/ears/long/adult/",
+    "female": "head/ears/long/adult/",
+    "teen": "head/ears/long/adult/",
+    "pregnant": "head/ears/long/adult/",
+    "child": "head/ears/long/child/"
   },
   "variants": [
     "light",
@@ -53,5 +53,25 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/ears/long",
+      "notes": "adapted to v3 base by bluecarrot16; expanded to other animations and child by JaidynReiman",
+      "authors": [
+        "JaidynReiman",
+        "bluecarrot16",
+        "Nila122"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0",
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-long-ears",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }

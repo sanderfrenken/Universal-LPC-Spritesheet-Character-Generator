@@ -52,5 +52,25 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/heads/minotaur",
+      "notes": "original cow by daneeklu, combined with horns by Nila122 and adapted to minotaur by Evert",
+      "authors": [
+        "Evert",
+        "Nila122",
+        "Daniel Eddeland (daneeklu)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-style-farm-animals",
+        "https://opengameart.org/content/lpc-lizard-headgear",
+        "https://opengameart.org/content/lpc-faun-and-minotaur"
+      ]
+    }
   ]
 }

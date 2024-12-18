@@ -1,14 +1,14 @@
 {
-  "name" : "Thin Eyebrows",
-  "type_name" : "eyebrows",
-  "layer_1" : {
-    "zPos" : 106,
-    "male" : "eyes/eyebrows/thin/adult/",
-    "muscular" : "eyes/eyebrows/thin/adult/",
-    "female" : "eyes/eyebrows/thin/adult/",
-    "teen" : "eyes/eyebrows/thin/adult/",
-    "pregnant" : "eyes/eyebrows/thin/adult/",
-    "child" : "eyes/eyebrows/thin/child/"
+  "name": "Thin Eyebrows",
+  "type_name": "eyebrows",
+  "layer_1": {
+    "zPos": 106,
+    "male": "eyes/eyebrows/thin/adult/",
+    "muscular": "eyes/eyebrows/thin/adult/",
+    "female": "eyes/eyebrows/thin/adult/",
+    "teen": "eyes/eyebrows/thin/adult/",
+    "pregnant": "eyes/eyebrows/thin/adult/",
+    "child": "eyes/eyebrows/thin/child/"
   },
   "variants": [
     "blonde",
@@ -56,5 +56,21 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "eyes/eyebrows/thin",
+      "notes": "",
+      "authors": [
+        "ElizaWy"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://github.com/ElizaWy/LPC/tree/main/Characters/Hair",
+        "https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets"
+      ]
+    }
   ]
 }

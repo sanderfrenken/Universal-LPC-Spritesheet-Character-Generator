@@ -51,5 +51,24 @@
     "1h_slash",
     "1h_bgslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "torso/aprons/overalls",
+      "notes": "original overalls by ElizaWy, extended to all animation frames, adapted from teen to male base, and edited for v3 bases by bluecarrot16; extended to combat animations by JaidynReiman",
+      "authors": [
+        "ElizaWy",
+        "bluecarrot16",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-revised-character-basics",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }
