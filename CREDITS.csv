@@ -544,9 +544,7 @@ eyes/cyclops,"original by kirts, repositioned by JaidynReiman along with shading
 eyes/eyebrows/thick,,"ElizaWy","OGA-BY 3.0",https://github.com/ElizaWy/LPC/tree/main/Characters/Hair,https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets,,,,,,,,,,,,,,OK
 eyes/eyebrows/thin,,"ElizaWy","OGA-BY 3.0",https://github.com/ElizaWy/LPC/tree/main/Characters/Hair,https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets,,,,,,,,,,,,,,OK
 facial,,,,,,,,,,,,,,,,,,,
-facial/earrings/simple,"base earring was listed as CC0, but the ""gold.png"" earring was listed as CC-BY-SA, so I kept these the same after renaming, but if clarified we can make this entry the real one",bluecarrot16,CC0,https://opengameart.org/content/lpc-pirates,,,,,,,,,,,,,,,
-facial/earrings/simple/left,,bluecarrot16,CC-BY-SA 3.0,https://opengameart.org/content/lpc-pirates,,,,,,,,,,,,,,,OK
-facial/earrings/simple/right,,bluecarrot16,CC-BY-SA 3.0,https://opengameart.org/content/lpc-pirates,,,,,,,,,,,,,,,OK
+facial/earrings/simple,,bluecarrot16,CC0,https://opengameart.org/content/lpc-pirates,,,,,,,,,,,,,,,
 facial/earrings/emerald,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
 facial/earrings/moon,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
 facial/earrings/pear,,bluecarrot16,CC0,https://opengameart.org/content/lpc-jewelry,,,,,,,,,,,,,,,
@@ -4394,7 +4392,7 @@ hat/headband/hairtie,,JaidynReiman,"OGA-BY 3.0+, CC-BY 3.0+, GPL 3.0",https://op
 hat/headband/tied,,Nila122,"OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-lizard-headgear,,,,,,,,,,,,,,,
 hat/headband/thick,,JaidynReiman,"OGA-BY 3.0+, CC-BY 3.0+, GPL 3.0",https://opengameart.org/content/lpc-relm-hairstyle-pieces-xlong-ponytail-bangs-and-braids-headband,,,,,,,,,,,,,,,OK
 hat/helmet,,,,,,,,,,,,,,,,,,,
-hat/helmet/armet,previously called helmet/armor,"bluecarrot16, Johannes Sjölund (wulax)","CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,,,,,,,,,,,,,,,
+hat/helmet/armet,previously called helmet/armor,"bluecarrot16, Johannes Sjölund (wulax)","OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,,,,,,,,,,,,,,,
 hat/helmet/armet_simple,,"bluecarrot16, Johannes Sjölund (wulax)","OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",https://opengameart.org/content/lpc-medieval-fantasy-character-sprites,,,,,,,,,,,,,,,
 hat/helmet/barbarian,,bluecarrot16,"CC-BY 3.0, CC-BY 4.0, OGA-BY 3.0, GPL 2.0, GPL 3.0",https://opengameart.org/content/lpc-helmets,,,,,,,,,,,,,,,
 hat/helmet/barbarian_nasal,,bluecarrot16,"CC-BY 3.0, CC-BY 4.0, OGA-BY 3.0, GPL 2.0, GPL 3.0",https://opengameart.org/content/lpc-helmets,,,,,,,,,,,,,,,
