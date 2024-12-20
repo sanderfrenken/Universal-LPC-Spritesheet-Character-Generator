@@ -20,13 +20,14 @@
   ],
   "credits": [
     {
-      "file": "shoulders/plate/male",
+      "file": "shoulders/plate",
       "notes": "recolors, adapted to v3 bases by bluecarrot16",
       "authors": [
         "bluecarrot16",
         "Johannes Sjölund (wulax)"
       ],
       "licenses": [
+        "OGA-BY 3.0",
         "CC-BY-SA 3.0",
         "GPL 3.0"
       ],
@@ -44,6 +45,7 @@
         "Johannes Sjölund (wulax)"
       ],
       "licenses": [
+        "OGA-BY 3.0",
         "CC-BY-SA 3.0",
         "GPL 3.0"
       ],

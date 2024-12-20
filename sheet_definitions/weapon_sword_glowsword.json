@@ -37,7 +37,7 @@
   ],
   "credits": [
     {
-      "file": "weapon/sword/glowsword/blue.png",
+      "file": "weapon/sword/glowsword",
       "notes": "",
       "authors": [
         "bluecarrot16",
@@ -45,125 +45,7 @@
         "Johannes Sjölund (wulax)"
       ],
       "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-        "https://opengameart.org/content/lpc-glow-sword",
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/sword/glowsword/universal_behind/blue.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "tskaufma",
-        "Johannes Sjölund (wulax)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-        "https://opengameart.org/content/lpc-glow-sword",
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/sword/glowsword/attack_slash/behind/blue.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "tskaufma",
-        "Johannes Sjölund (wulax)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-        "https://opengameart.org/content/lpc-glow-sword",
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/sword/glowsword/attack_slash/blue.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "tskaufma",
-        "Johannes Sjölund (wulax)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-        "https://opengameart.org/content/lpc-glow-sword",
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/sword/glowsword/red.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "tskaufma",
-        "Johannes Sjölund (wulax)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-        "https://opengameart.org/content/lpc-glow-sword",
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/sword/glowsword/universal_behind/red.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "tskaufma",
-        "Johannes Sjölund (wulax)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-        "https://opengameart.org/content/lpc-glow-sword",
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/sword/glowsword/attack_slash/behind/red.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "tskaufma",
-        "Johannes Sjölund (wulax)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-        "https://opengameart.org/content/lpc-glow-sword",
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/sword/glowsword/attack_slash/red.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "tskaufma",
-        "Johannes Sjölund (wulax)"
-      ],
-      "licenses": [
+        "OGA-BY 3.0",
         "CC-BY-SA 3.0"
       ],
       "urls": [

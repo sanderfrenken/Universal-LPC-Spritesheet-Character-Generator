@@ -40,46 +40,7 @@
   ],
   "credits": [
     {
-      "file": "weapon/polearm/scythe/scythe.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/polearm/scythe/universal_behind/scythe.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/polearm/scythe/attack_slash/behind/scythe.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/polearm/scythe/attack_slash/scythe.png",
+      "file": "weapon/polearm/scythe",
       "notes": "",
       "authors": [
         "bluecarrot16"

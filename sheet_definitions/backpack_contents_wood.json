@@ -21,56 +21,8 @@
   ],
   "credits": [
     {
-      "file": "backpack/basket_contents/wood/fg/3_logs.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "Daniel Eddeland (daneeklu)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements",
-        "https://opengameart.org/content/lpc-more-backpacks"
-      ]
-    },
-    {
-      "file": "backpack/basket_contents/wood/bg/3_logs.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "Daniel Eddeland (daneeklu)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements",
-        "https://opengameart.org/content/lpc-more-backpacks"
-      ]
-    },
-    {
-      "file": "backpack/basket_contents/wood/fg/9_logs.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "Daniel Eddeland (daneeklu)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements",
-        "https://opengameart.org/content/lpc-more-backpacks"
-      ]
-    },
-    {
-      "file": "backpack/basket_contents/wood/bg/9_logs.png",
-      "notes": "",
+      "file": "backpack/basket_contents/wood",
+      "notes": "this item is CC-BY-SA 3.0/GPL 3.0 because it's derived from daneeklu's log",
       "authors": [
         "bluecarrot16",
         "Daniel Eddeland (daneeklu)"

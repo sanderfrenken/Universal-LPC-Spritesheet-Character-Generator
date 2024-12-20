@@ -21,47 +21,8 @@
   ],
   "credits": [
     {
-      "file": "backpack/basket/fg/round.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16"
-      ],
-      "licenses": [
-        "CC0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-more-backpacks"
-      ]
-    },
-    {
-      "file": "backpack/basket/bg/round.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16"
-      ],
-      "licenses": [
-        "CC0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-more-backpacks"
-      ]
-    },
-    {
-      "file": "backpack/basket/fg/square.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16"
-      ],
-      "licenses": [
-        "CC0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-more-backpacks"
-      ]
-    },
-    {
-      "file": "backpack/basket/bg/square.png",
-      "notes": "",
+      "file": "backpack/basket",
+      "notes": "full submission is CC-BY-SA 3.0/GPL 3.0, but this item is CC0",
       "authors": [
         "bluecarrot16"
       ],

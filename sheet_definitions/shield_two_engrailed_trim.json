@@ -20,21 +20,7 @@
   ],
   "credits": [
     {
-      "file": "shield/two_engrailed/trim/fg/male/two_engrailed_trim.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "Sander Frenken (castelonia)"
-      ],
-      "licenses": [
-        "OGA-BY 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-shields"
-      ]
-    },
-    {
-      "file": "shield/two_engrailed/trim/fg/female/two_engrailed_trim.png",
+      "file": "shield/two_engrailed",
       "notes": "",
       "authors": [
         "bluecarrot16",

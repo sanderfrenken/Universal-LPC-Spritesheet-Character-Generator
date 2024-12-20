@@ -15,20 +15,7 @@
   ],
   "credits": [
     {
-      "file": "body/prosthesis/hook/male/mask/hook.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-pirates"
-      ]
-    },
-    {
-      "file": "body/prosthesis/hook/male/hook.png",
+      "file": "body/prosthesis/hook",
       "notes": "",
       "authors": [
         "bluecarrot16"

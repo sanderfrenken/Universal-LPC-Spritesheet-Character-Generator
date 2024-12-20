@@ -12,22 +12,7 @@
   ],
   "credits": [
     {
-      "file": "torso/chainmail/male/gray.png",
-      "notes": "minor edits by bluecarrot16",
-      "authors": [
-        "Johannes Sjölund (wulax)"
-      ],
-      "licenses": [
-        "OGA-BY 3.0",
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
-      ]
-    },
-    {
-      "file": "torso/chainmail/female/gray.png",
+      "file": "torso/chainmail",
       "notes": "minor edits by bluecarrot16",
       "authors": [
         "Johannes Sjölund (wulax)"

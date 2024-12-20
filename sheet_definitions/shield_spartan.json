@@ -20,35 +20,7 @@
   ],
   "credits": [
     {
-      "file": "shield/spartan/bg/spartan.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "Sander Frenken (castelonia)"
-      ],
-      "licenses": [
-        "OGA-BY 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-shields"
-      ]
-    },
-    {
-      "file": "shield/spartan/fg/male/spartan.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "Sander Frenken (castelonia)"
-      ],
-      "licenses": [
-        "OGA-BY 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-shields"
-      ]
-    },
-    {
-      "file": "shield/spartan/fg/female/spartan.png",
+      "file": "shield/spartan",
       "notes": "",
       "authors": [
         "bluecarrot16",

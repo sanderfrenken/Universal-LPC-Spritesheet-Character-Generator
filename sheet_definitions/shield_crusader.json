@@ -20,35 +20,7 @@
   ],
   "credits": [
     {
-      "file": "shield/crusader/bg/crusader.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "Sander Frenken (castelonia)"
-      ],
-      "licenses": [
-        "OGA-BY 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-shields"
-      ]
-    },
-    {
-      "file": "shield/crusader/fg/male/crusader.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "Sander Frenken (castelonia)"
-      ],
-      "licenses": [
-        "OGA-BY 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-shields"
-      ]
-    },
-    {
-      "file": "shield/crusader/fg/female/crusader.png",
+      "file": "shield/crusader",
       "notes": "",
       "authors": [
         "bluecarrot16",

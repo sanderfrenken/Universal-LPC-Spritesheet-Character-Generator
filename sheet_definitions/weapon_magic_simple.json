@@ -22,22 +22,8 @@
   ],
   "credits": [
     {
-      "file": "weapon/magic/simple/foreground/simple.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "Dr. Jamgo"
-      ],
-      "licenses": [
-        "CC0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-simple-staff"
-      ]
-    },
-    {
-      "file": "weapon/magic/simple/background/simple.png",
-      "notes": "",
+      "file": "weapon/magic/simple",
+      "notes": "original by DrJamgo, hands switched and split into to layers by bluecarrot16",
       "authors": [
         "bluecarrot16",
         "Dr. Jamgo"

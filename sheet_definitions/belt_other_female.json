@@ -18,63 +18,7 @@
   ],
   "credits": [
     {
-      "file": "torso/waist/belt_other/female/black.png",
-      "notes": "",
-      "authors": [
-        "Luke Mehl"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/female-mage-clothing-set"
-      ]
-    },
-    {
-      "file": "torso/waist/belt_other/female/bronze.png",
-      "notes": "",
-      "authors": [
-        "Luke Mehl"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/female-mage-clothing-set"
-      ]
-    },
-    {
-      "file": "torso/waist/belt_other/female/brown.png",
-      "notes": "",
-      "authors": [
-        "Luke Mehl"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/female-mage-clothing-set"
-      ]
-    },
-    {
-      "file": "torso/waist/belt_other/female/gold.png",
-      "notes": "",
-      "authors": [
-        "Luke Mehl"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/female-mage-clothing-set"
-      ]
-    },
-    {
-      "file": "torso/waist/belt_other/female/iron.png",
+      "file": "torso/waist/belt_other/female",
       "notes": "",
       "authors": [
         "Luke Mehl"
@@ -95,6 +39,7 @@
         "Matthew Krohn (makrohn)"
       ],
       "licenses": [
+        "OGA-BY 3.0",
         "CC-BY-SA 3.0",
         "GPL 3.0"
       ],
@@ -103,26 +48,13 @@
       ]
     },
     {
-      "file": "torso/waist/belt_other/female/silver.png",
-      "notes": "",
-      "authors": [
-        "Luke Mehl"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/female-mage-clothing-set"
-      ]
-    },
-    {
       "file": "torso/waist/belt_other/female/teal.png",
-      "notes": "?",
+      "notes": "",
       "authors": [
         "Johannes Sjölund (wulax)"
       ],
       "licenses": [
+        "OGA-BY 3.0",
         "CC-BY-SA 3.0",
         "GPL 3.0"
       ],
@@ -138,6 +70,7 @@
         "Matthew Krohn (makrohn)"
       ],
       "licenses": [
+        "OGA-BY 3.0",
         "CC-BY-SA 3.0",
         "GPL 3.0"
       ],

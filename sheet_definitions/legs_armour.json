@@ -19,24 +19,7 @@
   ],
   "credits": [
     {
-      "file": "legs/armour/plate/male",
-      "notes": "reduced to 7 colors an adapted to v3 bases by bluecarrot16",
-      "authors": [
-        "bluecarrot16",
-        "Michael Whitlock (bigbeargames)",
-        "Johannes Sjölund (wulax)"
-      ],
-      "licenses": [
-        "OGA-BY 3.0",
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
-      ]
-    },
-    {
-      "file": "legs/armour/plate/female",
+      "file": "legs/armour/plate",
       "notes": "reduced to 7 colors an adapted to v3 bases by bluecarrot16",
       "authors": [
         "bluecarrot16",

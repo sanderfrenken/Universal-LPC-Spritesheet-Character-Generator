@@ -36,58 +36,14 @@
   ],
   "credits": [
     {
-      "file": "weapon/sword/rapier/rapier.png",
+      "file": "weapon/sword/rapier",
       "notes": "",
       "authors": [
         "Johannes Sjölund (wulax)",
         "bluecarrot16"
       ],
       "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/sword/rapier/universal_behind/rapier.png",
-      "notes": "",
-      "authors": [
-        "Johannes Sjölund (wulax)",
-        "bluecarrot16"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/sword/rapier/attack_slash/behind/rapier.png",
-      "notes": "",
-      "authors": [
-        "Johannes Sjölund (wulax)",
-        "bluecarrot16"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/sword/rapier/attack_slash/rapier.png",
-      "notes": "",
-      "authors": [
-        "Johannes Sjölund (wulax)",
-        "bluecarrot16"
-      ],
-      "licenses": [
+        "OGA-BY 3.0",
         "CC-BY-SA 3.0"
       ],
       "urls": [

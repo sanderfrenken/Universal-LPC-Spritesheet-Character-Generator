@@ -31,5 +31,22 @@
     "white",
     "yellow"
   ],
-  "credits": []
+  "credits": [
+    {
+      "file": "torso/clothes/tunic_sara",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "Stephen Challener (Redshrike)",
+        "William.Thompsonj"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/sara-wizard",
+        "https://opengameart.org/content/lpc-sara"
+      ]
+    }
+  ]
 }

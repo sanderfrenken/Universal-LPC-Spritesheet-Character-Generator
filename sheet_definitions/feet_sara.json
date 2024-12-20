@@ -27,22 +27,6 @@
         "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
-    },
-    {
-      "file": "feet/shoes/female/sara.png",
-      "notes": "",
-      "authors": [
-        "Mandi Paugh",
-        "Stephen Challener (Redshrike)",
-        "William.Thompsonj"
-      ],
-      "licenses": [
-        "OGA-BY 3.0"
-      ],
-      "urls": [
-        "http://opengameart.org/content/sara-wizard",
-        "https://opengameart.org/content/lpc-sara"
-      ]
     }
   ]
 }

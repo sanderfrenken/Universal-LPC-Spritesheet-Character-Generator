@@ -15,83 +15,8 @@
   ],
   "credits": [
     {
-      "file": "backpack/jetpack_fins/male/bronze.png",
-      "notes": "",
-      "authors": [
-        "Benjamin K. Smith (BenCreating)",
-        "macmanmatty"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-backpacks"
-      ]
-    },
-    {
-      "file": "backpack/jetpack_fins/female/bronze.png",
-      "notes": "",
-      "authors": [
-        "Benjamin K. Smith (BenCreating)",
-        "macmanmatty"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-backpacks"
-      ]
-    },
-    {
-      "file": "backpack/jetpack_fins/male/gold.png",
-      "notes": "",
-      "authors": [
-        "Benjamin K. Smith (BenCreating)",
-        "macmanmatty"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-backpacks"
-      ]
-    },
-    {
-      "file": "backpack/jetpack_fins/female/gold.png",
-      "notes": "",
-      "authors": [
-        "Benjamin K. Smith (BenCreating)",
-        "macmanmatty"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-backpacks"
-      ]
-    },
-    {
-      "file": "backpack/jetpack_fins/male/steel.png",
-      "notes": "",
-      "authors": [
-        "Benjamin K. Smith (BenCreating)",
-        "macmanmatty"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-backpacks"
-      ]
-    },
-    {
-      "file": "backpack/jetpack_fins/female/steel.png",
-      "notes": "",
+      "file": "backpack/jetpack_fins",
+      "notes": "trivial adjustments by bluecarrot16 to be compatible with v3 bases",
       "authors": [
         "Benjamin K. Smith (BenCreating)",
         "macmanmatty"

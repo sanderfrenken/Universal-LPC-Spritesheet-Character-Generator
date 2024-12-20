@@ -37,26 +37,7 @@
   ],
   "credits": [
     {
-      "file": "feet/sandals/male",
-      "notes": "edited for v3 bases by bluecarrot16",
-      "authors": [
-        "Nila122",
-        "JaidynReiman",
-        "Matthew Krohn (makrohn)",
-        "Johannes Sjölund (wulax)"
-      ],
-      "licenses": [
-        "OGA-BY 3.0",
-        "CC-BY-SA 3.0",
-        "GPL 2.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-roman-armor"
-      ]
-    },
-    {
-      "file": "feet/sandals/female",
+      "file": "feet/sandals",
       "notes": "edited for v3 bases by bluecarrot16",
       "authors": [
         "Nila122",

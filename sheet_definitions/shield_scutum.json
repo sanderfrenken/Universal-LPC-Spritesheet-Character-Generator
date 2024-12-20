@@ -20,35 +20,7 @@
   ],
   "credits": [
     {
-      "file": "shield/scutum/paint/bg/scutum.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "Sander Frenken (castelonia)"
-      ],
-      "licenses": [
-        "OGA-BY 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-shields"
-      ]
-    },
-    {
-      "file": "shield/scutum/paint/fg/male/scutum.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "Sander Frenken (castelonia)"
-      ],
-      "licenses": [
-        "OGA-BY 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-shields"
-      ]
-    },
-    {
-      "file": "shield/scutum/paint/fg/female/scutum.png",
+      "file": "shield/scutum",
       "notes": "",
       "authors": [
         "bluecarrot16",

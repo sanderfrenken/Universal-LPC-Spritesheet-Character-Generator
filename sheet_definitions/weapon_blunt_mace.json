@@ -36,58 +36,14 @@
   ],
   "credits": [
     {
-      "file": "weapon/blunt/mace/mace.png",
+      "file": "weapon/blunt/mace",
       "notes": "",
       "authors": [
         "Johannes Sjölund (wulax)",
         "bluecarrot16"
       ],
       "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/blunt/mace/universal_behind/mace.png",
-      "notes": "",
-      "authors": [
-        "Johannes Sjölund (wulax)",
-        "bluecarrot16"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/blunt/mace/attack_slash/behind/mace.png",
-      "notes": "",
-      "authors": [
-        "Johannes Sjölund (wulax)",
-        "bluecarrot16"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-        "https://opengameart.org/content/lpc-extended-weapon-animations"
-      ]
-    },
-    {
-      "file": "weapon/blunt/mace/attack_slash/mace.png",
-      "notes": "",
-      "authors": [
-        "Johannes Sjölund (wulax)",
-        "bluecarrot16"
-      ],
-      "licenses": [
+        "OGA-BY 3.0",
         "CC-BY-SA 3.0"
       ],
       "urls": [

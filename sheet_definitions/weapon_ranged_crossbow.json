@@ -20,22 +20,8 @@
   ],
   "credits": [
     {
-      "file": "weapon/ranged/crossbow/background/crossbow.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "drjamgo@hotmail.com"
-      ],
-      "licenses": [
-        "CC0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-crossbow-final"
-      ]
-    },
-    {
-      "file": "weapon/ranged/crossbow/foreground/crossbow.png",
-      "notes": "",
+      "file": "weapon/ranged/crossbow",
+      "notes": "original by drjamgo, modified for v3 character bases and split into layers by bluecarrot16",
       "authors": [
         "bluecarrot16",
         "drjamgo@hotmail.com"

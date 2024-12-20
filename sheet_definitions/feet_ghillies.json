@@ -37,25 +37,7 @@
   ],
   "credits": [
     {
-      "file": "feet/ghillies/male",
-      "notes": "original by pennomi, laetissima and makrohn; edited for v3 bases by bluecarrot16",
-      "authors": [
-        "bluecarrot16",
-        "Thane Brimhall (pennomi)",
-        "laetissima",
-        "Matthew Krohn (makrohn)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-2-characters",
-        "http://opengameart.org/content/lpc-clothing-updates"
-      ]
-    },
-    {
-      "file": "feet/ghillies/female",
+      "file": "feet/ghillies",
       "notes": "original by pennomi, laetissima and makrohn; edited for v3 bases by bluecarrot16",
       "authors": [
         "bluecarrot16",
