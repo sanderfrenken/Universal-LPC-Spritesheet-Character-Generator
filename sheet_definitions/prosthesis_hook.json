@@ -12,5 +12,20 @@
   },
   "variants": [
     "hook"
+  ],
+  "credits": [
+    {
+      "file": "body/prosthesis/hook",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    }
   ]
 }

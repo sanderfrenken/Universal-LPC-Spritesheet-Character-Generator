@@ -36,5 +36,22 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/long_band",
+      "notes": "",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/fantasy-rpg-npcs",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
   ]
 }

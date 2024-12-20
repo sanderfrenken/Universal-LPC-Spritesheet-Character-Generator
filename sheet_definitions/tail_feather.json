@@ -1,23 +1,23 @@
 {
-  "name" : "Tail Feathers (PLACEHOLDER; assets coming soon!)",
-  "type_name" : "tail",
-  "layer_1" : {
-    "zPos" : 85,
-    "male" : "body/tail/feather/adult/fg/",
-    "muscular" : "body/tail/feather/adult/fg/",
-    "female" : "body/tail/feather/adult/fg/",
-    "pregnant" : "body/tail/feather/adult/fg/",
-    "teen" : "body/tail/feather/adult/fg/",
-    "child" : "body/tail/feather/child/fg/"
+  "name": "Tail Feathers (PLACEHOLDER; assets coming soon!)",
+  "type_name": "tail",
+  "layer_1": {
+    "zPos": 85,
+    "male": "body/tail/feather/adult/fg/",
+    "muscular": "body/tail/feather/adult/fg/",
+    "female": "body/tail/feather/adult/fg/",
+    "pregnant": "body/tail/feather/adult/fg/",
+    "teen": "body/tail/feather/adult/fg/",
+    "child": "body/tail/feather/child/fg/"
   },
-  "layer_2" : {
-    "zPos" : 5,
-    "male" : "body/tail/feather/adult/bg/",
-    "muscular" : "body/tail/feather/adult/bg/",
-    "female" : "body/tail/feather/adult/bg/",
-    "pregnant" : "body/tail/feather/adult/bg/",
-    "teen" : "body/tail/feather/adult/bg/",
-    "child" : "body/tail/feather/child/bg/"
+  "layer_2": {
+    "zPos": 5,
+    "male": "body/tail/feather/adult/bg/",
+    "muscular": "body/tail/feather/adult/bg/",
+    "female": "body/tail/feather/adult/bg/",
+    "pregnant": "body/tail/feather/adult/bg/",
+    "teen": "body/tail/feather/adult/bg/",
+    "child": "body/tail/feather/child/bg/"
   },
   "variants": [
     "blonde",
@@ -65,5 +65,6 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
-  ]
+  ],
+  "credits": []
 }

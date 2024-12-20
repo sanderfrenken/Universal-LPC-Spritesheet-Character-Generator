@@ -15,5 +15,25 @@
     "tan",
     "walnut",
     "white"
+  ],
+  "credits": [
+    {
+      "file": "torso/waist/belt_loose",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sjölund (wulax)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-combat-armor-for-women",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    }
   ]
 }

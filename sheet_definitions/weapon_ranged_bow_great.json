@@ -49,5 +49,24 @@
     "iron",
     "silver",
     "steel"
+  ],
+  "credits": [
+    {
+      "file": "weapon/ranged/bow/great",
+      "notes": "modified by daneeklu, from \"normal\" bow by wulax; walk animations by pvigier; split into layers and tweaked for v3 character bases by bluecarrot16",
+      "authors": [
+        "Daniel Eddeland (daneeklu)",
+        "gr3yh47",
+        "Johannes Sjölund (wulax)",
+        "Pierre Vigier (pvigier)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident",
+        "https://opengameart.org/content/lpc-walk-animations-for-bows"
+      ]
+    }
   ]
 }

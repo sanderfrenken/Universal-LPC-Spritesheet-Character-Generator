@@ -1,13 +1,13 @@
 {
-  "name" : "Stud Ring",
-  "type_name" : "ring",
-  "layer_1" : {
-    "zPos" : 75,
-    "male" : "arms/hands/ring/stud/male/",
-    "muscular" : "arms/hands/ring/stud/male/",
-    "female" : "arms/hands/ring/stud/female/",
-    "teen" : "arms/hands/ring/stud/female/",
-    "pregnant" : "arms/hands/ring/stud/female/"
+  "name": "Stud Ring",
+  "type_name": "ring",
+  "layer_1": {
+    "zPos": 75,
+    "male": "arms/hands/ring/stud/male/",
+    "muscular": "arms/hands/ring/stud/male/",
+    "female": "arms/hands/ring/stud/female/",
+    "teen": "arms/hands/ring/stud/female/",
+    "pregnant": "arms/hands/ring/stud/female/"
   },
   "variants": [
     "blue",
@@ -16,5 +16,20 @@
     "purple",
     "red",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "arms/hands/ring/stud",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }

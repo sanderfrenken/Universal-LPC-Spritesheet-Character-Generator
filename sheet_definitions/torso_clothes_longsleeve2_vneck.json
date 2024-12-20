@@ -1,10 +1,10 @@
 {
-  "name" : "Longsleeve 2 VNeck",
-  "type_name" : "clothes",
-  "layer_1" : {
-    "zPos" : 35,
-    "female" : "torso/clothes/longsleeve/longsleeve2_vneck/female/",
-    "teen" : "torso/clothes/longsleeve/longsleeve2_vneck/teen/"
+  "name": "Longsleeve 2 VNeck",
+  "type_name": "clothes",
+  "layer_1": {
+    "zPos": 35,
+    "female": "torso/clothes/longsleeve/longsleeve2_vneck/female/",
+    "teen": "torso/clothes/longsleeve/longsleeve2_vneck/teen/"
   },
   "variants": [
     "black",
@@ -50,5 +50,23 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "torso/clothes/longsleeve/longsleeve2_vneck",
+      "notes": "original by ElizaWy; spellcast/thrust/shoot/hurt adapted from original by JaidynReiman",
+      "authors": [
+        "ElizaWy",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/lpc-revised-character-basics",
+        "https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing",
+        "https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets"
+      ]
+    }
   ]
 }

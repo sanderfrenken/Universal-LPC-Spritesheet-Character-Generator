@@ -1,11 +1,11 @@
 {
-  "name" : "Leggings",
-  "type_name" : "legs",
-  "layer_1" : {
-    "zPos" : 20,
-    "female" : "legs/leggings/female/",
-    "pregnant" : "legs/leggings/female/",
-    "teen" : "legs/leggings/female/"
+  "name": "Leggings",
+  "type_name": "legs",
+  "layer_1": {
+    "zPos": 20,
+    "female": "legs/leggings/female/",
+    "pregnant": "legs/leggings/female/",
+    "teen": "legs/leggings/female/"
   },
   "variants": [
     "black",
@@ -32,5 +32,24 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "legs/leggings",
+      "notes": "adapted from sara's leggings to v3 bases by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "Mandi Paugh",
+        "Stephen Challener (Redshrike)",
+        "William.Thompsonj"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "http://opengameart.org/content/sara-wizard",
+        "https://opengameart.org/content/lpc-sara"
+      ]
+    }
   ]
 }

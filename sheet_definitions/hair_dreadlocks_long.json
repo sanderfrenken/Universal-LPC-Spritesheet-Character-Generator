@@ -36,5 +36,20 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/dreadlocks_long",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
   ]
 }

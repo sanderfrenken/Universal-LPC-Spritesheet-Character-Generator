@@ -1,14 +1,14 @@
 {
-  "name" : "Elven ears",
-  "type_name" : "ears",
-  "layer_1" : {
-    "zPos" : 130,
-    "male" : "head/ears/elven/adult/",
-    "muscular" : "head/ears/elven/adult/",
-    "female" : "head/ears/elven/adult/",
-    "teen" : "head/ears/elven/adult/",
-    "pregnant" : "head/ears/elven/adult/",
-    "child" : "head/ears/elven/child/"
+  "name": "Elven ears",
+  "type_name": "ears",
+  "layer_1": {
+    "zPos": 130,
+    "male": "head/ears/elven/adult/",
+    "muscular": "head/ears/elven/adult/",
+    "female": "head/ears/elven/adult/",
+    "teen": "head/ears/elven/adult/",
+    "pregnant": "head/ears/elven/adult/",
+    "child": "head/ears/elven/child/"
   },
   "variants": [
     "light",
@@ -53,5 +53,26 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/ears/elven",
+      "notes": "adapted to v3 base by bluecarrot16; expanded to other animations and child by JaidynReiman",
+      "authors": [
+        "JaidynReiman",
+        "bluecarrot16",
+        "Thane Brimhall (pennomi)",
+        "Matthew Krohn (makrohn)",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "GPL 3.0",
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-base-character-expressions",
+        "http://opengameart.org/content/lpc-clothing-updates"
+      ]
+    }
   ]
 }

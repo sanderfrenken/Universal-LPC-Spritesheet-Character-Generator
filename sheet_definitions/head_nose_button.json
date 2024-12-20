@@ -1,13 +1,13 @@
 {
-  "name" : "Button nose",
-  "type_name" : "nose",
-  "layer_1" : {
-    "zPos" : 105,
-    "male" : "head/nose/button/adult/",
-    "muscular" : "head/nose/button/adult/",
-    "female" : "head/nose/button/adult/",
-    "teen" : "head/nose/button/adult/",
-    "pregnant" : "head/nose/button/adult/"
+  "name": "Button nose",
+  "type_name": "nose",
+  "layer_1": {
+    "zPos": 105,
+    "male": "head/nose/button/adult/",
+    "muscular": "head/nose/button/adult/",
+    "female": "head/nose/button/adult/",
+    "teen": "head/nose/button/adult/",
+    "pregnant": "head/nose/button/adult/"
   },
   "variants": [
     "light",
@@ -52,5 +52,22 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/nose/button",
+      "notes": "",
+      "authors": [
+        "Thane Brimhall (pennomi)",
+        "Matthew Krohn (makrohn)"
+      ],
+      "licenses": [
+        "GPL 3.0",
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-base-character-expressions"
+      ]
+    }
   ]
 }

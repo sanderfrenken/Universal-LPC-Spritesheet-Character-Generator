@@ -1,12 +1,12 @@
 {
-  "name" : "Plain skirt",
-  "type_name" : "legs",
-  "layer_1" : {
-    "zPos" : 20,
-    "male" : "legs/skirts/plain/male/",
-    "female" : "legs/skirts/plain/female/",
-    "teen" : "legs/skirts/plain/female/",
-    "pregnant" : "legs/skirts/plain/female/"
+  "name": "Plain skirt",
+  "type_name": "legs",
+  "layer_1": {
+    "zPos": 20,
+    "male": "legs/skirts/plain/male/",
+    "female": "legs/skirts/plain/female/",
+    "teen": "legs/skirts/plain/female/",
+    "pregnant": "legs/skirts/plain/female/"
   },
   "variants": [
     "black",
@@ -33,5 +33,24 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "legs/skirts/plain",
+      "notes": "original by wulax, edited for female base by pvigier, edited for v3 base by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "Pierre Vigier (pvigier)",
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+      ]
+    }
   ]
 }

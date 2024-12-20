@@ -53,5 +53,22 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "hat/pirate/bandana",
+      "notes": "Original Bandana by Fabzy, Pirate Version by Bluecarrot16, layers and added animations by JaidynReiman",
+      "authors": [
+        "bluecarrot16",
+        "Fabzy"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/the-revolution-hair",
+        "https://opengameart.org/content/lpc-pirates"
+      ]
+    }
   ]
 }

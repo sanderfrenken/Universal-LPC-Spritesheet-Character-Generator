@@ -36,5 +36,22 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/long_tied",
+      "notes": "",
+      "authors": [
+        "thecilekli",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-long-tied-hair-with-12-colors",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
   ]
 }

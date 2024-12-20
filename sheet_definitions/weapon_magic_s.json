@@ -48,5 +48,23 @@
     "iron",
     "silver",
     "steel"
+  ],
+  "credits": [
+    {
+      "file": "weapon/magic/s",
+      "notes": "Wooden staff by LordNeo, first adapted to LPC by bigbeargames; re-drawn and walk animations added by bluecarrot16",
+      "authors": [
+        "LordNeo",
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/staff-64-x64",
+        "https://opengameart.org/content/lpc-magic-staff"
+      ]
+    }
   ]
 }

@@ -1,11 +1,40 @@
 const fs = require('fs');
 const readline = require('readline');
 
+function searchCredit(fileName, credits, origFileName) {
+  if (credits.count <= 0) {
+    console.error("no credits for filename:", fileName);
+    return undefined;
+  }
+  if (credits.count === 1) {
+    if (!credits[0].file.includes(fileName)) {
+      console.error("Wrong credit at filename:", fileName);
+    }
+    return undefined;
+  }
+
+  for (var creditsIndex = 0; creditsIndex < credits.length; creditsIndex++) {
+    const credit = credits[creditsIndex];
+    if (credit.file === fileName || credit.file === fileName + ".png" || credit.file + "/" === fileName) {
+      return credit;
+    }
+  }
+  
+  const index = fileName.lastIndexOf("\/");
+  if (index > -1) {
+    return searchCredit(fileName.substring(0, index), credits, origFileName);
+  } else {
+    console.error("missing credit after searching recursively filename:", origFileName);
+    return undefined;
+  }
+}
+
 function generateListHTML(json) {
   const definition = JSON.parse(fs.readFileSync(`sheet_definitions/${json}`));
   const variants = definition.variants
   const name = definition.name
   const typeName = definition.type_name
+  const credits = definition.credits
   const defaultAnimations = ['spellcast', 'thrust', 'walk', 'slash', 'shoot', 'hurt', 'watering'];
 
   var requiredSexes = [];
@@ -86,7 +115,22 @@ function generateListHTML(json) {
           }
           const file = layerDefinition[requiredSexes[sexIdx]]
           if (file !== null && file !== "") {
-            dataFiles += "data-layer_" + jdx + "_" + requiredSexes[sexIdx] + "=\"" + file + itemName.replaceAll(" ", "_") + ".png\" ";
+            const imageFileName = "\"" + file + itemName.replaceAll(" ", "_") + ".png\" ";
+            const fileNameForCreditSearch = file + itemName.replaceAll(" ", "_");
+            dataFiles += "data-layer_" + jdx + "_" + requiredSexes[sexIdx] + "=" + imageFileName;
+            const creditToUse = searchCredit(fileNameForCreditSearch, credits, fileNameForCreditSearch);
+            if (creditToUse !== undefined) {
+              const licenses = "\"" + creditToUse.licenses.join(',') + "\"";
+              dataFiles += "data-layer_" + jdx + "_" + requiredSexes[sexIdx] + "_licenses=" + licenses;
+              const authors = "\"" + creditToUse.authors.join(',') + "\"";
+              dataFiles += "data-layer_" + jdx + "_" + requiredSexes[sexIdx] + "_authors=" + authors;
+              const urls = "\"" + creditToUse.urls.join(',') + "\"";
+              dataFiles += "data-layer_" + jdx + "_" + requiredSexes[sexIdx] + "_urls=" + urls;
+              const notes = "\"" + creditToUse.notes + "\"";
+              dataFiles += "data-layer_" + jdx + "_" + requiredSexes[sexIdx] + "_notes=" + notes;
+            } else {
+              console.warn("missing credit inside", json);
+            }
           }
         } else {
           break;

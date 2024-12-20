@@ -1,14 +1,14 @@
 {
-  "name" : "Feather Ears",
-  "type_name" : "ears",
-  "layer_1" : {
-    "zPos" : 130,
-    "male" : "head/ears/avyon/adult/",
-    "muscular" : "head/ears/avyon/adult/",
-    "female" : "head/ears/avyon/adult/",
-    "teen" : "head/ears/avyon/adult/",
-    "pregnant" : "head/ears/avyon/adult/",
-    "child" : "head/ears/avyon/child/"
+  "name": "Feather Ears",
+  "type_name": "ears",
+  "layer_1": {
+    "zPos": 130,
+    "male": "head/ears/avyon/adult/",
+    "muscular": "head/ears/avyon/adult/",
+    "female": "head/ears/avyon/adult/",
+    "teen": "head/ears/avyon/adult/",
+    "pregnant": "head/ears/avyon/adult/",
+    "child": "head/ears/avyon/child/"
   },
   "variants": [
     "blonde",
@@ -63,5 +63,22 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/ears/avyon",
+      "notes": "",
+      "authors": [
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "CC-BY 3.0+",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-furry-ears-tails-for-rpg-sprites"
+      ]
+    }
   ]
 }

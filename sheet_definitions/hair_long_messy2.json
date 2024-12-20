@@ -36,5 +36,23 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/long_messy2",
+      "notes": "(shura)",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine-2",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
   ]
 }

@@ -51,5 +51,23 @@
   },
   "variants": [
     "halberd"
+  ],
+  "credits": [
+    {
+      "file": "weapon/polearm/halberd",
+      "notes": "",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "bluecarrot16",
+        "Sander Frenken (castelonia)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-weapons"
+      ]
+    }
   ]
 }

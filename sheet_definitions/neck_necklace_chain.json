@@ -1,13 +1,13 @@
 {
-  "name" : "Chain Necklace",
-  "type_name" : "necklace",
-  "layer_1" : {
-    "zPos" : 80,
-    "male" : "neck/necklace/chain/male/",
+  "name": "Chain Necklace",
+  "type_name": "necklace",
+  "layer_1": {
+    "zPos": 80,
+    "male": "neck/necklace/chain/male/",
     "muscular": "neck/necklace/chain/male/",
-    "female" : "neck/necklace/chain/female/",
-    "teen" : "neck/necklace/chain/female/",
-    "pregnant" : "neck/necklace/chain/female/"
+    "female": "neck/necklace/chain/female/",
+    "teen": "neck/necklace/chain/female/",
+    "pregnant": "neck/necklace/chain/female/"
   },
   "variants": [
     "steel",
@@ -18,5 +18,20 @@
     "bronze",
     "silver",
     "gold"
+  ],
+  "credits": [
+    {
+      "file": "neck/necklace/chain",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }

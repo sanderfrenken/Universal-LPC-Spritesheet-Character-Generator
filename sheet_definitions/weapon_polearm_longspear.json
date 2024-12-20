@@ -54,5 +54,23 @@
     "iron",
     "silver",
     "steel"
+  ],
+  "credits": [
+    {
+      "file": "weapon/polearm/longspear",
+      "notes": "original by wulax from expansion_pack-0.04 walk animations adapted from those by pvigier",
+      "authors": [
+        "split into layers and tweaked for v3 character bases by bluecarrot16"
+      ],
+      "licenses": [
+        "Pierre Vigier (pvigier)",
+        "Johannes Sjölund (wulax)",
+        "Inboxninja"
+      ],
+      "urls": [
+        "CC-BY-SA 3.0",
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+      ]
+    }
   ]
 }

@@ -36,5 +36,24 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/long_messy",
+      "notes": "(puck)",
+      "authors": [
+        "Mandi Paugh",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/puck-overland",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
   ]
 }

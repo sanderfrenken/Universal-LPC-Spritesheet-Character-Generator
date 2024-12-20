@@ -1,4 +1,3 @@
-
 {
   "name": "revised_bend",
   "type_name": "shield_pattern",
@@ -19,29 +18,29 @@
     "teen": "shield/heater/revised/pattern/bend/fg/"
   },
   "variants": [
-    "black" ,
-    "blue" ,
-    "bluegray" ,
-    "brown" ,
-    "charcoal" ,
-    "forest" ,
-    "gray" ,
-    "green" ,
-    "lavender" ,
-    "leather" ,
-    "maroon" ,
-    "navy" ,
-    "orange" ,
-    "pink" ,
-    "purple" ,
-    "red" ,
-    "rose" ,
-    "sky" ,
-    "slate" ,
-    "tan" ,
-    "teal" ,
-    "walnut" ,
-    "white" ,
+    "black",
+    "blue",
+    "bluegray",
+    "brown",
+    "charcoal",
+    "forest",
+    "gray",
+    "green",
+    "lavender",
+    "leather",
+    "maroon",
+    "navy",
+    "orange",
+    "pink",
+    "purple",
+    "red",
+    "rose",
+    "sky",
+    "slate",
+    "tan",
+    "teal",
+    "walnut",
+    "white",
     "yellow"
   ],
   "animations": [
@@ -62,5 +61,23 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "shield/heater/revised/pattern",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Sander Frenken (castelonia)",
+        "ElizaWy",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-shields"
+      ]
+    }
   ]
 }

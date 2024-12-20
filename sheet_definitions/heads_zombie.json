@@ -32,5 +32,26 @@
     "fur_gold",
     "fur_grey",
     "fur_white"
+  ],
+  "credits": [
+    {
+      "file": "head/heads/zombie",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Benjamin K. Smith (BenCreating)",
+        "Sander Frenken (castelonia)",
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/lpc-zombie",
+        "https://opengameart.org/content/lpc-character-bases"
+      ]
+    }
   ]
 }

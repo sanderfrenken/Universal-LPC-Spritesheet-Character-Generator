@@ -17,5 +17,21 @@
   },
   "variants": [
     "scutum"
+  ],
+  "credits": [
+    {
+      "file": "shield/scutum",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Sander Frenken (castelonia)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-shields"
+      ]
+    }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "name" : "Wrinkles",
-  "type_name" : "wrinkes",
-  "layer_1" : {
-    "zPos" : 102,
-    "male" : "head/wrinkles/",
-    "muscular" : "head/wrinkles/",
-    "female" : "head/wrinkles/",
-    "teen" : "head/wrinkles/",
-    "pregnant" : "head/wrinkles/"
+  "name": "Wrinkles",
+  "type_name": "wrinkes",
+  "layer_1": {
+    "zPos": 102,
+    "male": "head/wrinkles/",
+    "muscular": "head/wrinkles/",
+    "female": "head/wrinkles/",
+    "teen": "head/wrinkles/",
+    "pregnant": "head/wrinkles/"
   },
   "variants": [
     "light",
@@ -52,5 +52,18 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/wrinkles",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": []
+    }
   ]
 }

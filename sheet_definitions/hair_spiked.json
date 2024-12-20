@@ -36,5 +36,21 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/spiked",
+      "notes": "",
+      "authors": [
+        "kcilds/Rocetti/Eredah"
+      ],
+      "licenses": [
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
   ]
 }

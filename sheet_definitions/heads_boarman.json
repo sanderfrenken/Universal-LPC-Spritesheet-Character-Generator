@@ -52,5 +52,24 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/heads/boarman",
+      "notes": "pig by daneeklu adapted to boarman by BenCreating, placed to v3 bases by bluecarrot16",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "Daniel Eddeland (daneeklu)"
+      ],
+      "licenses": [
+        "CC-BY 3.0",
+        "GPL 2.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-style-farm-animals",
+        "https://opengameart.org/content/lpc-wild-boar",
+        "https://opengameart.org/content/lpc-boarman"
+      ]
+    }
   ]
 }

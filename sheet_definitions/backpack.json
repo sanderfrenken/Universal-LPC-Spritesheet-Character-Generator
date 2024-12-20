@@ -4,9 +4,9 @@
   "preview_row": 7,
   "layer_1": {
     "zPos": 110,
-    "male":     "backpack/backpack/male/",
+    "male": "backpack/backpack/male/",
     "muscular": "backpack/backpack/male/",
-    "female":   "backpack/backpack/female/",
+    "female": "backpack/backpack/female/",
     "pregnant": "backpack/backpack/female/"
   },
   "variants": [
@@ -30,5 +30,22 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "backpack/backpack",
+      "notes": "trivial adjustments by bluecarrot16 to be compatible with v3 bases",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "macmanmatty"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-backpacks"
+      ]
+    }
   ]
 }

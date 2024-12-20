@@ -3,14 +3,31 @@
   "type_name": "backpack",
   "layer_1": {
     "zPos": 110,
-    "male":     "backpack/jetpack/male/",
+    "male": "backpack/jetpack/male/",
     "muscular": "backpack/jetpack/male/",
-    "female":   "backpack/jetpack/female/",
+    "female": "backpack/jetpack/female/",
     "pregnant": "backpack/jetpack/female/"
   },
   "variants": [
     "bronze",
     "gold",
     "steel"
+  ],
+  "credits": [
+    {
+      "file": "backpack/jetpack",
+      "notes": "trivial adjustments by bluecarrot16 to be compatible with v3 bases",
+      "authors": [
+        "Benjamin K. Smith (BenCreating)",
+        "macmanmatty"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-backpacks"
+      ]
+    }
   ]
 }

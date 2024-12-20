@@ -1,13 +1,13 @@
 {
-  "name" : "Bauldron",
-  "type_name" : "bauldron",
-  "layer_1" : {
-    "zPos" : 65,
-    "male" : "bauldron/male/",
-    "muscular" : "bauldron/male/",
-    "teen" : "bauldron/female/",
-    "female" : "bauldron/female/",
-    "pregnant" : "bauldron/female/"
+  "name": "Bauldron",
+  "type_name": "bauldron",
+  "layer_1": {
+    "zPos": 65,
+    "male": "bauldron/male/",
+    "muscular": "bauldron/male/",
+    "teen": "bauldron/female/",
+    "female": "bauldron/female/",
+    "pregnant": "bauldron/female/"
   },
   "variants": [
     "brown",
@@ -17,5 +17,23 @@
     "tan",
     "walnut",
     "white"
+  ],
+  "credits": [
+    {
+      "file": "bauldron",
+      "notes": "",
+      "authors": [
+        "Nila122"
+      ],
+      "licenses": [
+        "GPL 2.0",
+        "GPL 3.0",
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/more-lpc-clothes-and-hair"
+      ]
+    }
   ]
 }

@@ -32,5 +32,23 @@
     "iron",
     "silver",
     "steel"
+  ],
+  "credits": [
+    {
+      "file": "weapon/polearm/spear",
+      "notes": "original by wulax",
+      "authors": [
+        "walk animations redone by pvigier"
+      ],
+      "licenses": [
+        "split into layers and tweaked for v3 character bases by bluecarrot16"
+      ],
+      "urls": [
+        "Pierre Vigier (pvigier), Johannes Sjölund (wulax), Inboxninja",
+        "CC-BY-SA 3.0",
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-spear-and-shovel-reworked"
+      ]
+    }
   ]
 }

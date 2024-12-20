@@ -22,5 +22,22 @@
     "pink",
     "purple",
     "red"
+  ],
+  "credits": [
+    {
+      "file": "hair/long_straight",
+      "notes": "",
+      "authors": [
+        "thecilekli",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-long-straight-hair-with-12-colors",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
   ]
 }

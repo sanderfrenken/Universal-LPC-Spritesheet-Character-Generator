@@ -1,13 +1,13 @@
 {
-  "name" : "Ring Charm",
-  "type_name" : "charm",
-  "layer_1" : {
-    "zPos" : 81,
-    "male" : "neck/charm/ring/male/",
+  "name": "Ring Charm",
+  "type_name": "charm",
+  "layer_1": {
+    "zPos": 81,
+    "male": "neck/charm/ring/male/",
     "muscular": "neck/charm/ring/male/",
-    "female" : "neck/charm/ring/female/",
-    "teen" : "neck/charm/ring/female/",
-    "pregnant" : "neck/charm/ring/female/"
+    "female": "neck/charm/ring/female/",
+    "teen": "neck/charm/ring/female/",
+    "pregnant": "neck/charm/ring/female/"
   },
   "variants": [
     "steel",
@@ -18,5 +18,20 @@
     "bronze",
     "silver",
     "gold"
+  ],
+  "credits": [
+    {
+      "file": "neck/charm",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }

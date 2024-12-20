@@ -36,5 +36,22 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/spiked_porcupine",
+      "notes": "",
+      "authors": [
+        "Fabzy",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/the-revolution-hair",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
   ]
 }

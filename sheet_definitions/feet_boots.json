@@ -1,13 +1,13 @@
 {
-  "name" : "Boots",
-  "type_name" : "shoes",
-  "layer_1" : {
-    "zPos" : 25,
-    "male" : "feet/boots/male/",
-    "muscular" : "feet/boots/male/",
-    "female" : "feet/boots/female/",
-    "teen" : "feet/boots/female/",
-    "pregnant" : "feet/boots/female/"
+  "name": "Boots",
+  "type_name": "shoes",
+  "layer_1": {
+    "zPos": 25,
+    "male": "feet/boots/male/",
+    "muscular": "feet/boots/male/",
+    "female": "feet/boots/female/",
+    "teen": "feet/boots/female/",
+    "pregnant": "feet/boots/female/"
   },
   "variants": [
     "black",
@@ -34,5 +34,41 @@
     "walnut",
     "white",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "feet/boots",
+      "notes": "original by Nila122, edited for male and v3 bases by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "Nila122"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair"
+      ]
+    },
+    {
+      "file": "feet/boots/female",
+      "notes": "original by Nila122, edited for v3 bases by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "Nila122"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-and-hair"
+      ]
+    }
   ]
 }

@@ -30,7 +30,7 @@
     "fur_copper",
     "fur_gold",
     "fur_grey",
-    "fur_white"    
+    "fur_white"
   ],
   "match_body_color": true,
   "animations": [
@@ -51,5 +51,25 @@
     "1h_slash",
     "1h_backslash",
     "1h_halfslash"
+  ],
+  "credits": [
+    {
+      "file": "head/heads/alien",
+      "notes": "based on lizard originally by Nila122, modified by BenCreating, further edited by bluecarrot16. Nila122 gave blanket permission to MedicineStorm to use Nila122's LPC assets under OGA-BY 3.0 (where original or derived only from other works under OGA-BY).",
+      "authors": [
+        "bluecarrot16",
+        "Benjamin K. Smith (BenCreating)",
+        "Nila122"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/drakes-and-lizardfolk",
+        "https://opengameart.org/content/lpc-character-bases"
+      ]
+    }
   ]
 }

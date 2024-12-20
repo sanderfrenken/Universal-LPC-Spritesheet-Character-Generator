@@ -36,5 +36,23 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/braid2",
+      "notes": "(lidia)",
+      "authors": [
+        "Yamilian",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-heroine",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
   ]
 }

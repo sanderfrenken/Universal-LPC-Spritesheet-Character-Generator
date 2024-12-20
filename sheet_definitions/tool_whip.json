@@ -1,6 +1,6 @@
 {
-  "name" : "Whip",
-  "type_name" : "weapon",
+  "name": "Whip",
+  "type_name": "weapon",
   "layer_1": {
     "zPos": 9,
     "custom_animation": "tool_whip",
@@ -19,5 +19,37 @@
   },
   "variants": [
     "whip"
+  ],
+  "credits": [
+    {
+      "file": "tools/whip/background/whip.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    },
+    {
+      "file": "tools/whip/whip.png",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "GPL 3.0",
+        "CC-BY 4.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-more-weapons"
+      ]
+    }
   ]
 }

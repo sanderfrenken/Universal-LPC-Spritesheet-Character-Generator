@@ -36,5 +36,23 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/pigtails",
+      "notes": "(betty)",
+      "authors": [
+        "Radomir Dopieralski",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/one-more-lpc-alternate-character",
+        "https://opengameart.org/content/lpc-hair"
+      ]
+    }
   ]
 }

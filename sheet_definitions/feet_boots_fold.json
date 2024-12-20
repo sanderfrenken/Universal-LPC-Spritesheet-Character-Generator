@@ -1,13 +1,13 @@
 {
-  "name" : "Fold Boots",
-  "type_name" : "shoes",
-  "layer_1" : {
-    "zPos" : 25,
-    "male" : "feet/boots_fold/universal/male/",
-    "muscular" : "feet/boots_fold/universal/male/",
-    "female" : "feet/boots_fold/universal/female/",
-    "teen" : "feet/boots_fold/universal/female/",
-    "pregnant" : "feet/boots_fold/universal/female/"
+  "name": "Fold Boots",
+  "type_name": "shoes",
+  "layer_1": {
+    "zPos": 25,
+    "male": "feet/boots_fold/universal/male/",
+    "muscular": "feet/boots_fold/universal/male/",
+    "female": "feet/boots_fold/universal/female/",
+    "teen": "feet/boots_fold/universal/female/",
+    "pregnant": "feet/boots_fold/universal/female/"
   },
   "variants": [
     "black",
@@ -42,5 +42,22 @@
     "bronze",
     "silver",
     "gold"
+  ],
+  "credits": [
+    {
+      "file": "feet/boots_fold",
+      "notes": "",
+      "authors": [
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0+",
+        "CC-BY 3.0+",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-relm-outfit-pieces-2-kimonos-2-sleeves-2-boots-tabi-socks"
+      ]
+    }
   ]
 }

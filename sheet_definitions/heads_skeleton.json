@@ -11,5 +11,27 @@
   },
   "variants": [
     "skeleton"
+  ],
+  "credits": [
+    {
+      "file": "head/heads/skeleton",
+      "notes": "",
+      "authors": [
+        "bluecarrot16",
+        "Johannes Sj?lund (wulax)",
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-skeleton",
+        "https://opengameart.org/content/lpc-character-bases"
+      ]
+    }
   ]
 }

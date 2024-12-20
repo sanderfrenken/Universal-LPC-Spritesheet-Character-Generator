@@ -36,5 +36,23 @@
     "purple",
     "pink",
     "rose"
+  ],
+  "credits": [
+    {
+      "file": "hair/plain",
+      "notes": "",
+      "authors": [
+        "Manuel Riecke (MrBeast)",
+        "Joe White"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+        "https://opengameart.org/content/ponytail-and-plain-hairstyles"
+      ]
+    }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "name" : "Trilliant cut Gem",
-  "type_name" : "charm",
-  "layer_1" : {
-    "zPos" : 81,
-    "male" : "neck/gem/trilliant/male/",
+  "name": "Trilliant cut Gem",
+  "type_name": "charm",
+  "layer_1": {
+    "zPos": 81,
+    "male": "neck/gem/trilliant/male/",
     "muscular": "neck/gem/trilliant/male/",
-    "female" : "neck/gem/trilliant/female/",
-    "teen" : "neck/gem/trilliant/female/",
-    "pregnant" : "neck/gem/trilliant/female/"
+    "female": "neck/gem/trilliant/female/",
+    "teen": "neck/gem/trilliant/female/",
+    "pregnant": "neck/gem/trilliant/female/"
   },
   "variants": [
     "blue",
@@ -16,5 +16,20 @@
     "purple",
     "red",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "neck/gem",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "name" : "Emerald cut Gem",
-  "type_name" : "charm",
-  "layer_1" : {
-    "zPos" : 81,
-    "male" : "neck/gem/emerald/male/",
+  "name": "Emerald cut Gem",
+  "type_name": "charm",
+  "layer_1": {
+    "zPos": 81,
+    "male": "neck/gem/emerald/male/",
     "muscular": "neck/gem/emerald/male/",
-    "female" : "neck/gem/emerald/female/",
-    "teen" : "neck/gem/emerald/female/",
-    "pregnant" : "neck/gem/emerald/female/"
+    "female": "neck/gem/emerald/female/",
+    "teen": "neck/gem/emerald/female/",
+    "pregnant": "neck/gem/emerald/female/"
   },
   "variants": [
     "blue",
@@ -16,5 +16,20 @@
     "purple",
     "red",
     "yellow"
+  ],
+  "credits": [
+    {
+      "file": "neck/gem",
+      "notes": "",
+      "authors": [
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "CC0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-jewelry"
+      ]
+    }
   ]
 }
