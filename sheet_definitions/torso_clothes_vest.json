@@ -53,6 +53,23 @@
       ]
     },
     {
+      "file": "torso/clothes/vest/male/gray_striped.png",
+      "notes": "",
+      "authors": [
+        "Michael Whitlock (bigbeargames)",
+        "bluecarrot16",
+        "Thane Brimhall (pennomi)",
+        "laetissima"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-2-characters"
+      ]
+    },
+    {
       "file": "torso/clothes/vest/male/gray.png",
       "notes": "",
       "authors": [

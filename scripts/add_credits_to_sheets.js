@@ -62,7 +62,7 @@ fs.readdirSync('sheet_definitions').forEach(file => {
   spriteSheets = spriteSheets.concat(spriteSheetsWithVariants);
   var creditEntries = [];
   for (var spriteSheetIndex = 0; spriteSheetIndex < spriteSheets.length; spriteSheetIndex++) {
-    const spriteSheet = spriteSheets[spriteSheetIndex].trim().replace(/\/$/, ''); // Remove trailing slash
+    const spriteSheet = spriteSheets[spriteSheetIndex].trim().replace(/\/$/, '').replace(" ", "_");
     const searchResult = search(spriteSheet, csv);
     if (searchResult === undefined) {
       console.log('miss for', spriteSheet);

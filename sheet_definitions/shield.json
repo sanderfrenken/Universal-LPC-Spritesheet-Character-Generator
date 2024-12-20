@@ -84,6 +84,286 @@
       "urls": [
         "https://opengameart.org/content/lpc-shields"
       ]
+    },
+    {
+      "file": "shield/male/round_black.png",
+      "notes": "?",
+      "authors": [
+        "Johannes Sjölund (wulax)",
+        "Michael Whitlock (bigbeargames)",
+        "DarkwallLKE",
+        "Tuomo Untinen (reemax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-shields-pack"
+      ]
+    },
+    {
+      "file": "shield/female/round_black.png",
+      "notes": "?",
+      "authors": [
+        "Johannes Sjölund (wulax)",
+        "Michael Whitlock (bigbeargames)",
+        "DarkwallLKE",
+        "Tuomo Untinen (reemax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-shields-pack"
+      ]
+    },
+    {
+      "file": "shield/male/round_brown.png",
+      "notes": "",
+      "authors": [
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+      ]
+    },
+    {
+      "file": "shield/female/round_brown.png",
+      "notes": "",
+      "authors": [
+        "Johannes Sjölund (wulax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
+      ]
+    },
+    {
+      "file": "shield/male/round_gold.png",
+      "notes": "?",
+      "authors": [
+        "Johannes Sjölund (wulax)",
+        "Michael Whitlock (bigbeargames)",
+        "DarkwallLKE",
+        "Tuomo Untinen (reemax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-shields-pack"
+      ]
+    },
+    {
+      "file": "shield/female/round_gold.png",
+      "notes": "?",
+      "authors": [
+        "Johannes Sjölund (wulax)",
+        "Michael Whitlock (bigbeargames)",
+        "DarkwallLKE",
+        "Tuomo Untinen (reemax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-shields-pack"
+      ]
+    },
+    {
+      "file": "shield/male/round_green.png",
+      "notes": "?",
+      "authors": [
+        "Johannes Sjölund (wulax)",
+        "Michael Whitlock (bigbeargames)",
+        "DarkwallLKE",
+        "Tuomo Untinen (reemax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-shields-pack"
+      ]
+    },
+    {
+      "file": "shield/female/round_green.png",
+      "notes": "?",
+      "authors": [
+        "Johannes Sjölund (wulax)",
+        "Michael Whitlock (bigbeargames)",
+        "DarkwallLKE",
+        "Tuomo Untinen (reemax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-shields-pack"
+      ]
+    },
+    {
+      "file": "shield/male/round_silver.png",
+      "notes": "?",
+      "authors": [
+        "Johannes Sjölund (wulax)",
+        "Michael Whitlock (bigbeargames)",
+        "DarkwallLKE",
+        "Tuomo Untinen (reemax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-shields-pack"
+      ]
+    },
+    {
+      "file": "shield/female/round_silver.png",
+      "notes": "?",
+      "authors": [
+        "Johannes Sjölund (wulax)",
+        "Michael Whitlock (bigbeargames)",
+        "DarkwallLKE",
+        "Tuomo Untinen (reemax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-shields-pack"
+      ]
+    },
+    {
+      "file": "shield/male/round_yellow.png",
+      "notes": "?",
+      "authors": [
+        "Johannes Sjölund (wulax)",
+        "Michael Whitlock (bigbeargames)",
+        "DarkwallLKE",
+        "Tuomo Untinen (reemax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-shields-pack"
+      ]
+    },
+    {
+      "file": "shield/female/round_yellow.png",
+      "notes": "?",
+      "authors": [
+        "Johannes Sjölund (wulax)",
+        "Michael Whitlock (bigbeargames)",
+        "DarkwallLKE",
+        "Tuomo Untinen (reemax)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+        "https://opengameart.org/content/lpc-shields-pack"
+      ]
+    },
+    {
+      "file": "shield/male/kite_gray.png",
+      "notes": "",
+      "authors": [
+        "DarkwallLKE",
+        "Tuomo Untinen (reemax)",
+        "Michael Whitlock (bigbeargames)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-kite-shield",
+        "https://opengameart.org/content/lpc-shields-pack"
+      ]
+    },
+    {
+      "file": "shield/female/kite_gray.png",
+      "notes": "",
+      "authors": [
+        "DarkwallLKE",
+        "Tuomo Untinen (reemax)",
+        "Michael Whitlock (bigbeargames)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-kite-shield",
+        "https://opengameart.org/content/lpc-shields-pack"
+      ]
+    },
+    {
+      "file": "shield/male/kite_orange.png",
+      "notes": "",
+      "authors": [
+        "DarkwallLKE",
+        "Tuomo Untinen (reemax)",
+        "Michael Whitlock (bigbeargames)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-kite-shield",
+        "https://opengameart.org/content/lpc-shields-pack"
+      ]
+    },
+    {
+      "file": "shield/female/kite_orange.png",
+      "notes": "",
+      "authors": [
+        "DarkwallLKE",
+        "Tuomo Untinen (reemax)",
+        "Michael Whitlock (bigbeargames)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-kite-shield",
+        "https://opengameart.org/content/lpc-shields-pack"
+      ]
     }
   ]
 }
