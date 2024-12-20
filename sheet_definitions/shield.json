@@ -16,17 +16,7 @@
     "round gold",
     "round green",
     "round silver",
-    "round yellow",
-    "kite blue blue",
-    "kite blue gray",
-    "kite gray blue",
-    "kite gray gray",
-    "kite gray green",
-    "kite gray orange",
-    "kite gray",
-    "kite green gray",
-    "kite orange",
-    "kite red gray"
+    "round yellow"
   ],
   "credits": [
     {
@@ -290,78 +280,6 @@
       ],
       "urls": [
         "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
-        "https://opengameart.org/content/lpc-shields-pack"
-      ]
-    },
-    {
-      "file": "shield/male/kite_gray.png",
-      "notes": "",
-      "authors": [
-        "DarkwallLKE",
-        "Tuomo Untinen (reemax)",
-        "Michael Whitlock (bigbeargames)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 2.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-kite-shield",
-        "https://opengameart.org/content/lpc-shields-pack"
-      ]
-    },
-    {
-      "file": "shield/female/kite_gray.png",
-      "notes": "",
-      "authors": [
-        "DarkwallLKE",
-        "Tuomo Untinen (reemax)",
-        "Michael Whitlock (bigbeargames)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 2.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-kite-shield",
-        "https://opengameart.org/content/lpc-shields-pack"
-      ]
-    },
-    {
-      "file": "shield/male/kite_orange.png",
-      "notes": "",
-      "authors": [
-        "DarkwallLKE",
-        "Tuomo Untinen (reemax)",
-        "Michael Whitlock (bigbeargames)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 2.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-kite-shield",
-        "https://opengameart.org/content/lpc-shields-pack"
-      ]
-    },
-    {
-      "file": "shield/female/kite_orange.png",
-      "notes": "",
-      "authors": [
-        "DarkwallLKE",
-        "Tuomo Untinen (reemax)",
-        "Michael Whitlock (bigbeargames)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 2.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-kite-shield",
         "https://opengameart.org/content/lpc-shields-pack"
       ]
     }

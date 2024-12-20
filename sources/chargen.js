@@ -294,12 +294,14 @@ $(document).ready(function() {
   function sheetCreditsToTxt() {
     var creditString = "";
     sheetCredits.map(function(credit) {
-      const licensesForDisplay = `- Licenses:\n\t\t- ${credit.licenses.replaceAll(",", "\n\t\t- ")}`;
-      const authorsForDisplay = `- Authors:\n\t\t- ${credit.authors.replaceAll(",", "\n\t\t- ")}`;
-      const linksForDisplay = `- Links:\n\t\t- ${credit.urls.replaceAll(",", "\n\t\t- ")}`;
-      const notesForDisplay = `- Note: ${credit.notes}`;
-      let creditEntry = `${credit.fileName}\n\t${notesForDisplay}\n\t${licensesForDisplay}\n\t${authorsForDisplay}\n\t${linksForDisplay}\n\n`;
-      creditString+=creditEntry;
+      if (credit.licenses !== undefined) {
+        const licensesForDisplay = `- Licenses:\n\t\t- ${credit.licenses.replaceAll(",", "\n\t\t- ")}`;
+        const authorsForDisplay = `- Authors:\n\t\t- ${credit.authors.replaceAll(",", "\n\t\t- ")}`;
+        const linksForDisplay = `- Links:\n\t\t- ${credit.urls.replaceAll(",", "\n\t\t- ")}`;
+        const notesForDisplay = `- Note: ${credit.notes}`;
+        let creditEntry = `${credit.fileName}\n\t${notesForDisplay}\n\t${licensesForDisplay}\n\t${authorsForDisplay}\n\t${linksForDisplay}\n\n`;
+        creditString+=creditEntry;
+      }
     })
     return creditString;
   }
