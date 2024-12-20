@@ -80,7 +80,6 @@ fs.readdirSync('sheet_definitions').forEach(file => {
             break;
           }
           if (searchResult[0].includes(".png") && searchResult[0].includes(creditEntries[creditEntriesIndex][0])) {
-            
             if (authors === creditEntries[creditEntriesIndex][2] && licenses === creditEntries[creditEntriesIndex][3]) {
               alreadyAdded = true;
               break;

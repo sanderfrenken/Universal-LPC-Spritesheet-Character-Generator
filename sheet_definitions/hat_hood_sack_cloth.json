@@ -4,10 +4,10 @@
   "layer_1": {
     "zPos": 130,
     "male": "hat/cloth/hood_sack/adult/",
-    "female": "hat/cloth/hood_sack/adult",
-    "muscular": "hat/cloth/hood_sack/adult",
-    "pregnant": "hat/cloth/hood_sack/adult",
-    "teen": "hat/cloth/hood_sack/adult"
+    "female": "hat/cloth/hood_sack/adult/",
+    "muscular": "hat/cloth/hood_sack/adult/",
+    "pregnant": "hat/cloth/hood_sack/adult/",
+    "teen": "hat/cloth/hood_sack/adult/"
   },
   "variants": [
     "base",
@@ -55,5 +55,22 @@
     "1h_backslash",
     "1h_halfslash"
   ],
-  "credits": []
+  "credits": [
+    {
+      "file": "hat/cloth/hood_sack/adult",
+      "notes": "original by Nilla122, adapted to human heads by JaidynReiman",
+      "authors": [
+        "Nila122",
+        "JaidynReiman"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-lizard-headgear"
+      ]
+    }
+  ]
 }
