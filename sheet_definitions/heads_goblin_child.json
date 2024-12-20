@@ -49,5 +49,25 @@
     "1h_backslash",
     "1h_halfslash"
   ],
-  "credits": []
+  "credits": [
+    {
+      "file": "head/heads/goblin/child",
+      "notes": "original goblin by Redshrike, commisioned by William.Thomsponj; modular head extracted and slightly modified by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "Stephen Challener (Redshrike)",
+        "William.Thomsponj"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY 4.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-goblin",
+        "https://opengameart.org/content/lpc-folk"
+      ]
+    }
+  ]
 }

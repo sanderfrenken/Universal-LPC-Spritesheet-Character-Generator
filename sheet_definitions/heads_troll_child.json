@@ -49,5 +49,23 @@
     "1h_backslash",
     "1h_halfslash"
   ],
-  "credits": []
+  "credits": [
+    {
+      "file": "head/heads/troll/child",
+      "notes": "original \"Muscleman/Ogre/Minotaur\" by Reemax, modified to \"Troll\" by AntumDeluge, edited to LPC style and converted to modular head by bluecarrot16; child version by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "AntumDeluge",
+        "Tuomo Untinen (reemax)"
+      ],
+      "licenses": [
+        "CC-BY 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/musclemanogreminotaur",
+        "https://opengameart.org/content/trolls-0",
+        "https://opengameart.org/content/lpc-folk"
+      ]
+    }
+  ]
 }

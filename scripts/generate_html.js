@@ -6,6 +6,7 @@ function generateListHTML(json) {
   const variants = definition.variants
   const name = definition.name
   const typeName = definition.type_name
+  const credits = definition.credits
   const defaultAnimations = ['spellcast', 'thrust', 'walk', 'slash', 'shoot', 'hurt', 'watering'];
 
   var requiredSexes = [];
@@ -86,7 +87,20 @@ function generateListHTML(json) {
           }
           const file = layerDefinition[requiredSexes[sexIdx]]
           if (file !== null && file !== "") {
-            dataFiles += "data-layer_" + jdx + "_" + requiredSexes[sexIdx] + "=\"" + file + itemName.replaceAll(" ", "_") + ".png\" ";
+            const imageFileName = "\"" + file + itemName.replaceAll(" ", "_") + ".png\" ";
+            dataFiles += "data-layer_" + jdx + "_" + requiredSexes[sexIdx] + "=" + imageFileName;
+            if (credits.length !== 0) {
+              const licenses = "\"" + credits[0].licenses.join(',') + "\"";
+              dataFiles += "data-layer_" + jdx + "_" + requiredSexes[sexIdx] + "_licenses=" + licenses;
+              const authors = "\"" + credits[0].authors.join(',') + "\"";
+              dataFiles += "data-layer_" + jdx + "_" + requiredSexes[sexIdx] + "_authors=" + authors;
+              const urls = "\"" + credits[0].urls.join(',') + "\"";
+              dataFiles += "data-layer_" + jdx + "_" + requiredSexes[sexIdx] + "_urls=" + urls;
+              const notes = "\"" + credits[0].notes + "\"";
+              dataFiles += "data-layer_" + jdx + "_" + requiredSexes[sexIdx] + "_notes=" + notes;
+            } else {
+              console.warn("missing credit inside", json);
+            }
           }
         } else {
           break;

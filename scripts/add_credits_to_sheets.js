@@ -43,6 +43,9 @@ fs.readdirSync('sheet_definitions').forEach(file => {
       if (layerDefinition.pregnant !== undefined) {
         spriteSheets.push(layerDefinition.pregnant);
       }
+      if (layerDefinition.child !== undefined) {
+        spriteSheets.push(layerDefinition.child);
+      }
     } else {
       break
     }

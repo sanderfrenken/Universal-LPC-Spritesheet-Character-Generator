@@ -49,5 +49,25 @@
     "1h_backslash",
     "1h_halfslash"
   ],
-  "credits": []
+  "credits": [
+    {
+      "file": "head/heads/human/child",
+      "notes": "",
+      "authors": [
+        "Stephen Challener (Redshrike)",
+        "kheftel",
+        "bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/",
+        "https://opengameart.org/content/lpc-child-standing-template",
+        "https://opengameart.org/content/lpc-character-bases"
+      ]
+    }
+  ]
 }

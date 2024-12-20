@@ -35,5 +35,21 @@
     "whiteblonde 2",
     "whitecyan"
   ],
-  "credits": []
+  "credits": [
+    {
+      "file": "hair/messy",
+      "notes": "",
+      "authors": [
+        "Nila122"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-clothes-for-children"
+      ]
+    }
+  ]
 }

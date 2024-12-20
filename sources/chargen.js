@@ -12,8 +12,6 @@ $(document).ready(function() {
   var itemsMeta = {};
   var params = jHash.val();
   var sheetCredits = [];
-  const parsedCredits = loadFile("CREDITS.csv").split("\n");
-  var creditColumns = parsedCredits[0];
 
   var canvas = $("#spritesheet").get(0);
   var ctx = canvas.getContext("2d", { willReadFrequently: true });
@@ -49,27 +47,6 @@ $(document).ready(function() {
   redraw();
   showOrHideElements();
   nextFrame();
-
-  $("input[type=radio]").attr('title', function() {
-    var name = "";
-    if ($(this).data(`layer_1_${getBodyTypeName()}`)) {
-      name = $(this).data(`layer_1_${getBodyTypeName()}`);
-    }
-    if (name === "") {
-      return "";
-    }
-    const creditEntry = getCreditFor(name);
-    if (creditEntry) {
-      let parts = splitCsv(creditEntry);
-      if (parts.length == 10) {
-        return "Created by: " + parts[2];
-      }
-    } else {
-      // console.warn("No credit entry for: ", name);
-      return "No credits found for this graphic";
-    }
-    return creditEntry;
-  });
 
   // set params and redraw when any radio button is clicked on
   $("input[type=radio]").each(function() {
@@ -181,7 +158,7 @@ $(document).ready(function() {
   });
 
   $(".generateSheetCreditsCsv").click(function() {
-    let bl = new Blob([sheetCredits.join('\n')], {
+    let bl = new Blob([sheetCreditsToCSV()], {
       type: "text/html"
     });
     let a = document.createElement("a");
@@ -219,20 +196,6 @@ $(document).ready(function() {
     let a = document.createElement("a");
     a.href = URL.createObjectURL(bl);
     a.download = "sheet-credits.txt";
-    a.hidden = true;
-    document.body.appendChild(a);
-    a.innerHTML = "dummyhtml";
-    a.click();
-    document.removeChild(a);
-  });
-
-  $(".generateAllCredits").click(function() {
-    let bl = new Blob([parsedCredits.join('\n')], {
-      type: "text/html"
-    });
-    let a = document.createElement("a");
-    a.href = URL.createObjectURL(bl);
-    a.download = "all-credits.csv";
     a.hidden = true;
     document.body.appendChild(a);
     a.innerHTML = "dummyhtml";
@@ -311,65 +274,38 @@ $(document).ready(function() {
     setParams();
   }
 
-  function getCreditFor(fileName) {
+  function addCreditFor(fileName, licenses, authors, urls, notes) {
     if (fileName !== "") {
-      let prospect = '';
-      let prospectPath = '';
-      let prospectFile = '';
-      for (let creditEntry of parsedCredits) {
-        var creditPath = creditEntry.substring(0, creditEntry.indexOf(','));
-        if (fileName.startsWith(creditPath) && (creditPath.length > prospectPath.length)
-            && !creditEntry.startsWith(creditPath + ',,,,')) {
-          prospect = creditEntry;
-          prospectPath = creditPath;
-          prospectFile = fileName;
-        }
-        if (creditEntry.startsWith(fileName)) {
-          return creditEntry;
-        }
-      };
-
-      // Found closest match!
-      if (prospect !== '') {
-        return prospect.replace(prospectPath, prospectFile);
-      }
+      let credit = {};
+      credit.fileName = fileName;
+      credit.licenses = licenses;
+      credit.authors = authors;
+      credit.urls = urls;
+      credit.notes = notes;
+      sheetCredits.push(credit);
     }
-  }
-
-  function addCreditFor(fileName) {
-    if (fileName !== "") {
-      let creditEntry = getCreditFor(fileName);
-      if (!creditEntry) {
-        sheetCredits.push(fileName+",!MISSING LICENSE INFORMATION! PLEASE CORRECT MANUALY AND REPORT BACK VIA A GITHUB ISSUE,,,,,,,,BAD");
-      } else {
-        sheetCredits.push(creditEntry);
-      }
-    }
-    displayCredits();
-  }
-
-  function sheetCreditsToTxt() {
-    let csv = parseCSV(sheetCredits.join('\n'))
-    let authors = csv.slice(1).map((row) => row[2].split(",").map((au) => au.trim())).flat()
-    authors = [...new Set(authors)]
-
-    let out = csv.slice(1).map(function(row) {
-      let urls = row.slice(4,9)
-        .filter(function (x) { return !!x })
-        .map(function (x) { return "    - " + x})
-      return [`- ${row[0]}: by ${row[2]}. License(s): ${row[3]}. ${row[1]}`].concat(urls).join("\n")
-    })
-    return "Authors: " + authors.join(", ")+"\n\n"+out.join("\n\n")
-  }
-
-  function displayCredits() {
     $("textarea#creditsText").val(sheetCreditsToTxt());
   }
 
-  function previewFile(){
-    var preview = document.querySelector('img'); //selects the query named img
-    var file    = document.querySelector('input[type=file]').files[0]; //sames as here
+  function sheetCreditsToCSV() {
+    // TODO
+  }
 
+  function sheetCreditsToTxt() {
+    var creditString = "";
+    sheetCredits.map(function(credit) {
+      const licensesForDisplay = `- Licenses:\n\t\t- ${credit.licenses.replaceAll(",", "\n\t\t- ")}`;
+      const authorsForDisplay = `- Authors:\n\t\t- ${credit.authors.replaceAll(",", "\n\t\t- ")}`;
+      const linksForDisplay = `- Links:\n\t\t- ${credit.urls.replaceAll(",", "\n\t\t- ")}`;
+      const notesForDisplay = `- Note: ${credit.notes}`;
+      let creditEntry = `${credit.fileName}\n\t${notesForDisplay}\n\t${licensesForDisplay}\n\t${authorsForDisplay}\n\t${linksForDisplay}\n\n`;
+      creditString+=creditEntry;
+    })
+    return creditString;
+  }
+
+  function previewFile(){
+    var file = document.querySelector('input[type=file]').files[0];
     var img = new Image;
     img.onload = function() {
       images["uploaded"] = img;
@@ -412,7 +348,7 @@ $(document).ready(function() {
     itemsToDraw = [];
     const bodyTypeName = getBodyTypeName();
 
-    sheetCredits = [creditColumns];
+    sheetCredits = [];
     var baseUrl = window.location.href.split("/").slice(0, -1).join("/"); // get url until last '/'
 
     itemsMeta = {"bodyTypeName":bodyTypeName,
@@ -432,6 +368,10 @@ $(document).ready(function() {
           const parentName = $(this).attr(`name`);
           const name = $(this).attr(`parentName`);
           const variant = $(this).attr(`variant`);
+          const licenses = $(this).data(`layer_${jdx}_${bodyTypeName}_licenses`);
+          const authors = $(this).data(`layer_${jdx}_${bodyTypeName}_authors`);
+          const urls = $(this).data(`layer_${jdx}_${bodyTypeName}_urls`);
+          const notes = $(this).data(`layer_${jdx}_${bodyTypeName}_notes`);
 
           if (fileName !== "") {
             const itemToDraw = {};
@@ -441,7 +381,7 @@ $(document).ready(function() {
             itemToDraw.parentName = parentName
             itemToDraw.name = name
             itemToDraw.variant = variant
-            addCreditFor(fileName);
+            addCreditFor(fileName, licenses, authors, urls, notes);
             itemsToDraw.push(itemToDraw);
           }
         } else {
@@ -569,13 +509,6 @@ $(document).ready(function() {
     });
   }
 
-  function loadFile(filePath) {
-    // var xmlhttp = new XMLHttpRequest();
-    // xmlhttp.open("GET", filePath, false);
-    // xmlhttp.send();
-    return 'xmlhttp.responseText';
-  }
-
   function interpretParams() {
     $("input[type=radio]").each(function() {
       var words = _.words($(this).attr('id'), '-');
@@ -597,12 +530,9 @@ $(document).ready(function() {
 
   function setParamsFromImport(spritesheet){
     spritesheet.forEach((sprite)=>{
-      var custom_animation = sprite.custom_animation;
-      var fileName = sprite.fileName;
       var name = sprite.name;
       var parentName = sprite.parentName;
       var variant = sprite.variant;
-      var zPos = sprite.zPos;
       const assetType = name.replaceAll(" ", "_");
       const assetVariant = variant.replaceAll(" ", "_")
       const assetToSelect = parentName + "-" + assetType + "_" + assetVariant;
@@ -718,7 +648,6 @@ $(document).ready(function() {
   };
 
   function nextFrame() {
-    const animationType = $("#whichAnim>:selected").text();
     animCtx.clearRect(0, 0, anim.width, anim.height);
     currentAnimationItemIndex = (currentAnimationItemIndex + 1) % animationItems.length;
     const currentFrame = animationItems[currentAnimationItemIndex];
@@ -740,17 +669,3 @@ $(document).ready(function() {
     setTimeout(nextFrame, 1000 / 8);
   }
 });
-
-function splitCsv(str) {
-  return str.split(',').reduce((accum,curr)=>{
-    if(accum.isConcatting) {
-      accum.soFar[accum.soFar.length-1] += ','+curr
-    } else {
-      accum.soFar.push(curr)
-    }
-    if(curr.split('"').length % 2 == 0) {
-      accum.isConcatting= !accum.isConcatting
-    }
-    return accum;
-  },{soFar:[],isConcatting:false}).soFar
-}

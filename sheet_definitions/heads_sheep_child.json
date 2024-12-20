@@ -49,5 +49,22 @@
     "1h_backslash",
     "1h_halfslash"
   ],
-  "credits": []
+  "credits": [
+    {
+      "file": "head/heads/sheep/child",
+      "notes": "original sheep by daneeklu, adapted to modular head by bluecarrot16",
+      "authors": [
+        "bluecarrot16",
+        "Daniel Eddeland (daneeklu)"
+      ],
+      "licenses": [
+        "CC-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-style-farm-animals",
+        "http://opengameart.org/content/lpc-folk"
+      ]
+    }
+  ]
 }
