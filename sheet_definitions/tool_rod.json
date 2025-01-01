@@ -28,24 +28,7 @@
   ],
   "credits": [
     {
-      "file": "tools/rod/background/rod.png",
-      "notes": "",
-      "authors": [
-        "bluecarrot16",
-        "Pierre Vigier (pvigier)",
-        "Tuomo Untinen (reemax)",
-        "Johannes Sjölund (wulax)",
-        "and Inboxninja"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/lpc-hand-tools"
-      ]
-    },
-    {
-      "file": "tools/rod/foreground/rod.png",
+      "file": "tools/rod",
       "notes": "",
       "authors": [
         "bluecarrot16",
