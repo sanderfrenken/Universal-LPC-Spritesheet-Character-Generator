@@ -5,9 +5,9 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 	<title>Universal LPC Sprite Sheet Character Generator</title>
 	<link rel="stylesheet" type="text/css" href="chargen.css">
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.string/2.3.3/underscore.string.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.13.7/underscore-min.js" integrity="sha512-dvWGkLATSdw5qWb2qozZBRKJ80Omy2YN/aF3wTUVC5+D1eqbA+TjWpPpoj8vorK5xGLMa2ZqIeWCpDZP/+pQGQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.string/2.4.0/underscore.string.min.js" integrity="sha512-EtNEjJOVcNyZFlf+g4ZhbYhyqBNBybgfUquvo5+gGSTTZBmm0+yJQXozIz/8qbzcdu0bWwdYQLBb5ROJqVB+Tw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 	<script type="text/javascript" src="jhash-2.1.min.js"></script>
 	<script type="text/javascript" src="sources/custom-animations.js"></script>
 	<script type="text/javascript" src="sources/chargen.js?"></script>
@@ -1108,7 +1108,7 @@
 						div_sheet_belt_waistband
 
 						<!-- Obi -->
-						<li data-required="male,female,muscular,pregnant,teen">
+						<li data-required="male,female,muscular,teen">
 							<span class="condensed">Obi</span>
 							<ul>
 								div_sheet_belt_obi
@@ -1142,16 +1142,26 @@
 								div_sheet_legs_pants2
 								div_sheet_legs_cuffed
 								div_sheet_legs_pantaloons
-								div_sheet_legs_leggings
-								div_sheet_legs_leggings2
-								div_sheet_legs_hose
+								div_sheet_legs_formal
+								div_sheet_legs_formal_striped
+								div_sheet_legs_fur
 								div_sheet_legs_pregnantpants
 								div_sheet_legs_childpants
 							</ul>
 						</li>
 
+						<!-- Leggings -->
+						<li>
+							<span class="condensed">Leggings</span>
+							<ul>
+								div_sheet_legs_leggings
+								div_sheet_legs_leggings2
+								div_sheet_legs_hose
+							</ul>
+						</li>
+
 						<!-- Short -->
-						<li data-required="female,teen">
+						<li data-required="male,female,teen">
 							<span class="condensed">Shorts</span>
 							<ul>
 								div_sheet_legs_shorts

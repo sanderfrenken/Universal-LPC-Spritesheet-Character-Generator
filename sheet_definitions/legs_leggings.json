@@ -3,9 +3,10 @@
   "type_name": "legs",
   "layer_1": {
     "zPos": 20,
-    "female": "legs/leggings/female/",
-    "pregnant": "legs/leggings/female/",
-    "teen": "legs/leggings/female/"
+    "male": "legs/leggings/male/",
+    "female": "legs/leggings/thin/",
+    "teen": "legs/leggings/thin/",
+    "pregnant": "legs/leggings/thin/"
   },
   "variants": [
     "black",
@@ -33,22 +34,61 @@
     "white",
     "yellow"
   ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_bgslash",
+    "1h_halfslash"
+  ],
   "credits": [
     {
+      "file": "legs/leggings/male",
+      "notes": "original overalls by ElizaWy, base animations adapted from v3 overalls by bluecarrot16, leggings by JaidynReiman",
+      "authors": [
+        "ElizaWy",
+        "JaidynReiman",
+        "Bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing",
+        "https://opengameart.org/content/lpc-expanded-pants"
+      ]
+    },
+    {
       "file": "legs/leggings",
-      "notes": "adapted from sara's leggings to v3 bases by bluecarrot16",
+      "notes": "adapted from sara's leggings to v3 bases by bluecarrot16, jump/run/sit by JaidynReiman based on ElizaWy's and modified to match",
       "authors": [
         "bluecarrot16",
+        "JaidynReiman",
         "Mandi Paugh",
         "Stephen Challener (Redshrike)",
-        "William.Thompsonj"
+        "William.Thompsonj",
+        "ElizaWy"
       ],
       "licenses": [
         "OGA-BY 3.0"
       ],
       "urls": [
         "http://opengameart.org/content/sara-wizard",
-        "https://opengameart.org/content/lpc-sara"
+        "https://opengameart.org/content/lpc-sara",
+        "https://opengameart.org/content/lpc-expanded-pants"
       ]
     }
   ]

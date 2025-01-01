@@ -3,7 +3,11 @@
   "type_name": "legs",
   "layer_1": {
     "zPos": 20,
-    "male": "legs/pantaloons/male/"
+    "male": "legs/pantaloons/male/",
+    "muscular": "legs/pantaloons/muscular/",
+    "female": "legs/pantaloons/thin/",
+    "pregnant": "legs/pantaloons/thin/",
+    "teen": "legs/pantaloons/thin/"
   },
   "variants": [
     "black",
@@ -12,9 +16,6 @@
     "brown",
     "charcoal",
     "forest",
-    "formal",
-    "formal_striped",
-    "furbrown",
     "gray",
     "green",
     "lavender",
@@ -34,6 +35,25 @@
     "white",
     "yellow"
   ],
+  "animations": [
+    "spellcast",
+    "thrust",
+    "walk",
+    "slash",
+    "shoot",
+    "hurt",
+    "watering",
+    "idle",
+    "jump",
+    "run",
+    "sit",
+    "emote",
+    "climb",
+    "combat",
+    "1h_slash",
+    "1h_bgslash",
+    "1h_halfslash"
+  ],
   "credits": [
     {
       "file": "legs/pantaloons",
@@ -50,6 +70,45 @@
       ],
       "urls": [
         "https://opengameart.org/content/lpc-pirates",
+        "https://opengameart.org/content/more-lpc-clothes-and-hair",
+        "https://opengameart.org/content/lpc-expanded-pants"
+      ]
+    },
+    {
+      "file": "legs/pantaloons/thin",
+      "notes": "Original Pantaloons by Nilla122, Female/Teen version by JaidynReiman",
+      "authors": [
+        "Nila122",
+        "JaidynReiman",
+        "Johannes Sjölund (wulax)",
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://opengameart.org/content/lpc-pirates",
+        "https://opengameart.org/content/more-lpc-clothes-and-hair",
+        "https://opengameart.org/content/lpc-expanded-pants"
+      ]
+    },
+    {
+      "file": "legs/pantaloons/muscular",
+      "notes": "",
+      "authors": [
+        "Nila122",
+        "Johannes Sjölund (wulax)",
+        "Stephen Challener (Redshrike)"
+      ],
+      "licenses": [
+        "CC-BY-SA 3.0",
+        "GPL 2.0",
+        "GPL 3.0"
+      ],
+      "urls": [
         "https://opengameart.org/content/more-lpc-clothes-and-hair"
       ]
     }

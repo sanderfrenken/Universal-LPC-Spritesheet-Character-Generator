@@ -8,66 +8,36 @@
   "variants": [
     "black",
     "blue",
+    "bluegray",
     "brown",
-    "white"
+    "charcoal",
+    "forest",
+    "gray",
+    "green",
+    "lavender",
+    "leather",
+    "maroon",
+    "navy",
+    "orange",
+    "pink",
+    "purple",
+    "red",
+    "rose",
+    "sky",
+    "slate",
+    "tan",
+    "teal",
+    "walnut",
+    "white",
+    "yellow"
   ],
   "credits": [
     {
-      "file": "legs/pants/muscular/black.png",
-      "notes": "these pants from Nila122 seem to have different provenance than all the other pants, from wulax",
-      "authors": [
-        "Nila122",
-        "Johannes Sjölund (wulax)",
-        "Stephen Challener (Redshrike)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 2.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/more-lpc-clothes-and-hair"
-      ]
-    },
-    {
-      "file": "legs/pants/muscular/blue.png",
-      "notes": "",
-      "authors": [
-        "Nila122",
-        "Johannes Sjölund (wulax)",
-        "Stephen Challener (Redshrike)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 2.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/more-lpc-clothes-and-hair"
-      ]
-    },
-    {
-      "file": "legs/pants/muscular/brown.png",
-      "notes": "",
-      "authors": [
-        "Nila122",
-        "Johannes Sjölund (wulax)",
-        "Stephen Challener (Redshrike)"
-      ],
-      "licenses": [
-        "CC-BY-SA 3.0",
-        "GPL 2.0",
-        "GPL 3.0"
-      ],
-      "urls": [
-        "https://opengameart.org/content/more-lpc-clothes-and-hair"
-      ]
-    },
-    {
-      "file": "legs/pants/muscular/white.png",
-      "notes": "",
+      "file": "legs/pants/muscular",
+      "notes": "original muscular pants by ElizaWy, muscular by dalonedrau, cast and thrust frames by JaidynReiman",
       "authors": [
         "ElizaWy",
+        "JaidynReiman",
         "dalonedrau",
         "Stephen Challener (Redshrike)"
       ],

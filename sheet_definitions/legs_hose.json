@@ -3,9 +3,9 @@
   "type_name": "legs",
   "layer_1": {
     "zPos": 20,
+    "male": "legs/hose/male/",
     "female": "legs/hose/thin/",
-    "teen": "legs/hose/thin/",
-    "pregnant": "legs/hose/thin/"
+    "teen": "legs/hose/thin/"
   },
   "variants": [
     "leather",
@@ -54,6 +54,23 @@
   ],
   "credits": [
     {
+      "file": "legs/hose/male",
+      "notes": "original overalls and hose by ElizaWy, base animations adapted from v3 overalls by bluecarrot16, male socks and hose by JaidynReiman",
+      "authors": [
+        "JaidynReiman",
+        "ElizaWy",
+        "Bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing",
+        "https://opengameart.org/content/lpc-expanded-pants"
+      ]
+    },
+    {
       "file": "legs/hose",
       "notes": "original by ElizaWy, remaining frames by JaidynReiman",
       "authors": [
@@ -65,7 +82,8 @@
       ],
       "urls": [
         "https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing",
-        "https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets"
+        "https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets",
+        "https://opengameart.org/content/lpc-expanded-pants"
       ]
     }
   ]

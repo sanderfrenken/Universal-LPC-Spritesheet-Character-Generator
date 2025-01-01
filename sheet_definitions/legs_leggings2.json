@@ -3,9 +3,9 @@
   "type_name": "legs",
   "layer_1": {
     "zPos": 20,
+    "male": "legs/leggings2/male/",
     "female": "legs/leggings2/thin/",
-    "teen": "legs/leggings2/thin/",
-    "pregnant": "legs/leggings2/thin/"
+    "teen": "legs/leggings2/thin/"
   },
   "variants": [
     "leather",
@@ -54,8 +54,25 @@
   ],
   "credits": [
     {
+      "file": "legs/leggings2/male",
+      "notes": "original overalls by ElizaWy, base animations adapted from v3 overalls by bluecarrot16, leggings by JaidynReiman",
+      "authors": [
+        "ElizaWy",
+        "JaidynReiman",
+        "Bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing",
+        "https://opengameart.org/content/lpc-expanded-pants"
+      ]
+    },
+    {
       "file": "legs/leggings2",
-      "notes": "original by ElizaWy, remaining frames by JaidynReiman",
+      "notes": "original by ElizaWy, remaining frames",
       "authors": [
         "ElizaWy",
         "JaidynReiman"
@@ -65,7 +82,8 @@
       ],
       "urls": [
         "https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing",
-        "https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets"
+        "https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets",
+        "https://opengameart.org/content/lpc-expanded-pants"
       ]
     }
   ]

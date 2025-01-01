@@ -7,7 +7,8 @@
     "male": "tools/whip/background/",
     "muscular": "tools/whip/background/",
     "female": "tools/whip/background/",
-    "pregnant": "tools/whip/background/"
+    "pregnant": "tools/whip/background/",
+    "teen": "tools/whip/background/"
   },
   "layer_2": {
     "zPos": 150,
@@ -15,7 +16,8 @@
     "male": "tools/whip/",
     "muscular": "tools/whip/",
     "female": "tools/whip/",
-    "pregnant": "tools/whip/"
+    "pregnant": "tools/whip/",
+    "teen": "tools/whip/"
   },
   "variants": [
     "whip"

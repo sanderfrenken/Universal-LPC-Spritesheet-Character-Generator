@@ -71,3 +71,12 @@ Custom Palettes are for specific assets that may have one or more unique colors.
 #### 15. ulpc-pirate-cockade-palettes.json
 - Path: spritesheets/hat/pirate/bicorne/admiral/cockade
 - Just a variation of the "cloth" palettes including the original base color of the admiral hat's "cockade".
+
+#### 16. ulpc-formal-pants-palettes.json
+- Path: spritesheets/legs/formal
+- Path: spritesheets/legs/formal_striped
+- Just a variation of the "cloth" palettes including the original base color of the "formal" pants.
+
+#### 17. ulpc-fur-pants-palettes.json
+- Path: spritesheets/legs/fur
+- Just a variation of the "cloth" palettes including the original base color of the "fur brown" pants, along with extra fur colors as a bonus.

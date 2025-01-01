@@ -11,7 +11,8 @@
     "male": "tools/rod/background/",
     "muscular": "tools/rod/background/",
     "female": "tools/rod/background/",
-    "pregnant": "tools/rod/background/"
+    "pregnant": "tools/rod/background/",
+    "teen": "tools/rod/background/"
   },
   "layer_2": {
     "zPos": 150,
@@ -19,7 +20,8 @@
     "male": "tools/rod/foreground/",
     "muscular": "tools/rod/foreground/",
     "female": "tools/rod/foreground/",
-    "pregnant": "tools/rod/foreground/"
+    "pregnant": "tools/rod/foreground/",
+    "teen": "tools/rod/foreground/"
   },
   "variants": [
     "rod"

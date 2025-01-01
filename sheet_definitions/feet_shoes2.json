@@ -3,6 +3,7 @@
   "type_name": "shoes",
   "layer_1": {
     "zPos": 15,
+    "male": "feet/shoes2/male/",
     "female": "feet/shoes2/thin/",
     "teen": "feet/shoes2/thin/",
     "pregnant": "feet/shoes2/thin/"
@@ -62,6 +63,23 @@
   ],
   "credits": [
     {
+      "file": "feet/shoes2/male",
+      "notes": "original overalls and shoes by ElizaWy, base animations adapted from v3 overalls by bluecarrot16, shoes by JaidynReiman",
+      "authors": [
+        "JaidynReiman",
+        "ElizaWy",
+        "Bluecarrot16"
+      ],
+      "licenses": [
+        "OGA-BY 3.0",
+        "GPL 3.0"
+      ],
+      "urls": [
+        "https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing",
+        "https://opengameart.org/content/lpc-expanded-socks-shoes"
+      ]
+    },
+    {
       "file": "feet/shoes2",
       "notes": "original by ElizaWy, remaining frames by JaidynReiman",
       "authors": [
@@ -73,7 +91,8 @@
       ],
       "urls": [
         "https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing",
-        "https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets"
+        "https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets",
+        "https://opengameart.org/content/lpc-expanded-socks-shoes"
       ]
     }
   ]
